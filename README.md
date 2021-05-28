@@ -3,11 +3,16 @@ The Wide World of Wineries
 Date: 05/27/2021
 
 # Team Members
-Alex Duong
-Danyelle Doucette
-Elizabeth Lau
-Brandie Limon
-Maria Barrera
+
+Alex Duong - Tableau Visualizations
+
+Danyelle Doucette - front end/deployment of api and website
+
+Elizabeth Lau - Wine Data Machine Learning
+
+Brandie Limon - Red/White wine data Machine learning
+
+Maria Barrera - Front End dev
 
 # Project Requirements 
 - Create a front-end interface that maps to an API to "smarten" the algorithm.
@@ -24,7 +29,7 @@ Maria Barrera
 - Create an analysis of existing data to make a prediction, classification, or regression
 
 # Project Description 
-The project is about wine data around the world. Data includes the wine name, winery, country, points, wine taster, review, acidity, etc.  Scope of data is only for 7 countries:  Argentina, Australia, Canada, France, Italy, Spain & USA.
+The project is about wine data around the world. Data includes the wine name, winery, country, points, wine taster, review, acidity, etc.  Scope of data focuses on 7 countries:  Argentina, Australia, Canada, France, Italy, Spain & USA, but our data set includes wineries of the world.
 
 # Datasource 
 Kaggle
@@ -36,6 +41,7 @@ Postgres
 # Tools
 Python Flask-powered API
 HTML/CSS
+Jupyter Notebooks
 JavaScript
 JS library: jQuery
 D3

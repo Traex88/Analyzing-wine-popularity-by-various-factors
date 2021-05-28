@@ -1,0 +1,163 @@
+,points_range,deslen,price_range,variety,province
+0,90-94,175,30-39,Vidal,Ontario
+1,80-84,161,10-19,Gewürztraminer-Riesling,Ontario
+2,85-89,273,20-29,Riesling,Ontario
+3,90-94,344,20-29,Sauvignon Blanc,British Columbia
+4,90-94,289,20-29,Moscato,British Columbia
+5,90-94,257,20-29,Riesling,Ontario
+6,85-89,225,10-19,Riesling,Ontario
+7,85-89,176,20-29,Cabernet Franc,British Columbia
+8,90-94,255,30-39,Bordeaux-style Red Blend,British Columbia
+9,90-94,310,30-39,Red Blend,British Columbia
+10,90-94,245,60-79,Riesling,Ontario
+11,85-89,221,20-29,White Blend,British Columbia
+12,90-94,238,60-79,Riesling,Ontario
+13,90-94,295,60-79,Vidal Blanc,Ontario
+14,90-94,166,60-79,Vidal,Ontario
+15,80-84,204,20-29,Riesling,Ontario
+16,90-94,383,60-79,Bordeaux-style Red Blend,British Columbia
+17,90-94,256,60-79,Syrah,British Columbia
+18,90-94,200,30-39,Cabernet Franc,British Columbia
+19,90-94,176,60-79,Cabernet Sauvignon,Ontario
+20,90-94,153,60-79,Cabernet Franc,Ontario
+21,90-94,247,20-29,Rhône-style White Blend,British Columbia
+22,90-94,383,100+,Bordeaux-style Red Blend,British Columbia
+23,90-94,299,50-59,Riesling,Ontario
+24,90-94,219,30-39,Pinot Noir,Ontario
+25,90-94,279,30-39,Cabernet Franc,British Columbia
+26,90-94,298,30-39,Bordeaux-style Red Blend,British Columbia
+27,90-94,344,20-29,Sauvignon Blanc,British Columbia
+28,90-94,257,20-29,Riesling,Ontario
+29,85-89,212,10-19,Riesling,Ontario
+30,85-89,215,20-29,Red Blend,British Columbia
+31,85-89,311,30-39,Syrah,British Columbia
+32,85-89,311,30-39,Syrah,British Columbia
+33,85-89,245,20-29,Gewürztraminer,Ontario
+34,85-89,290,40-49,Cabernet Franc,Ontario
+35,85-89,270,20-29,Chardonnay,British Columbia
+36,85-89,243,20-29,Gamay Noir,British Columbia
+37,90-94,359,20-29,Vidal Blanc,Ontario
+38,85-89,219,20-29,Vidal Blanc,Ontario
+39,85-89,195,50-59,Vidal,Ontario
+40,85-89,297,60-79,Vidal Blanc,Ontario
+41,90-94,287,40-49,Bordeaux-style Red Blend,British Columbia
+42,85-89,254,50-59,Riesling,Ontario
+43,85-89,288,20-29,Vidal Blanc,Ontario
+44,90-94,261,40-49,Pinot Noir,British Columbia
+45,80-84,163,10-19,Rosé,Ontario
+46,90-94,253,20-29,Riesling,Ontario
+47,90-94,260,80-99,Riesling,Ontario
+48,90-94,256,60-79,Syrah,British Columbia
+49,90-94,383,60-79,Bordeaux-style Red Blend,British Columbia
+50,90-94,333,80-99,Syrah,British Columbia
+51,90-94,327,30-39,Bordeaux-style Red Blend,British Columbia
+52,90-94,179,20-29,Chardonnay,British Columbia
+53,90-94,253,40-49,Syrah,British Columbia
+54,85-89,176,20-29,Cabernet Franc,British Columbia
+55,80-84,247,20-29,Gewürztraminer,Ontario
+56,85-89,231,30-39,Pinot Noir,British Columbia
+57,85-89,241,40-49,Pinot Noir,British Columbia
+58,85-89,260,10-19,Riesling,Ontario
+59,85-89,186,30-39,Riesling,Ontario
+60,85-89,183,40-49,Cabernet,Ontario
+61,85-89,287,20-29,Chardonnay,British Columbia
+62,85-89,247,40-49,Pinot Noir,British Columbia
+63,85-89,237,20-29,Cabernet Franc,British Columbia
+64,90-94,388,20-29,Bordeaux-style Red Blend,British Columbia
+65,85-89,255,30-39,Syrah,British Columbia
+66,85-89,275,40-49,Cabernet Sauvignon-Syrah,British Columbia
+67,90-94,258,10-19,Riesling,Ontario
+68,85-89,171,10-19,Riesling,Ontario
+69,90-94,140,60-79,Vidal,Ontario
+70,90-94,225,20-29,Riesling,Ontario
+71,85-89,177,20-29,Sauvignon Blanc,Ontario
+72,85-89,216,50-59,Cabernet Sauvignon,Ontario
+73,85-89,343,10-19,White Blend,British Columbia
+74,85-89,198,20-29,Chardonnay,British Columbia
+75,90-94,358,60-79,Bordeaux-style Red Blend,British Columbia
+76,90-94,190,30-39,Chardonnay,British Columbia
+77,85-89,379,30-39,Bordeaux-style Red Blend,British Columbia
+78,85-89,310,30-39,Bordeaux-style Red Blend,British Columbia
+79,90-94,245,60-79,Riesling,Ontario
+80,90-94,325,10-19,Muscat,British Columbia
+81,90-94,221,80-99,Vidal Blanc,Ontario
+82,90-94,213,40-49,Riesling,Ontario
+83,90-94,271,20-29,Riesling,Ontario
+84,90-94,254,30-39,Vidal,Ontario
+85,90-94,227,20-29,Chardonnay,British Columbia
+86,85-89,187,30-39,Cabernet Franc,British Columbia
+87,90-94,274,20-29,Rosé,British Columbia
+88,90-94,298,20-29,Riesling,British Columbia
+89,90-94,235,60-79,Bordeaux-style Red Blend,British Columbia
+90,85-89,282,30-39,Pinot Noir,British Columbia
+91,85-89,237,20-29,Cabernet Franc,British Columbia
+92,90-94,269,30-39,Bordeaux-style Red Blend,British Columbia
+93,90-94,221,50-59,Pinot Noir,British Columbia
+94,90-94,225,20-29,Riesling,Ontario
+95,85-89,181,80-99,Cabernet Franc,Ontario
+96,90-94,299,50-59,Riesling,Ontario
+97,90-94,178,80-99,Riesling,Ontario
+98,90-94,233,20-29,Pinot Gris,British Columbia
+99,90-94,214,60-79,Riesling,British Columbia
+100,90-94,214,80-99,Cabernet Franc,Ontario
+101,85-89,363,30-39,Apple,Canada Other
+102,80-84,310,80-99,Vidal Blanc,Ontario
+103,85-89,363,20-29,White Blend,British Columbia
+104,85-89,177,30-39,Chardonnay,British Columbia
+105,85-89,310,30-39,Bordeaux-style Red Blend,British Columbia
+106,90-94,215,30-39,Chardonnay,British Columbia
+107,90-94,295,60-79,Vidal Blanc,Ontario
+108,90-94,203,80-99,Cabernet Franc,Ontario
+109,90-94,262,80-99,Vidal Blanc,Ontario
+110,90-94,214,60-79,Riesling,British Columbia
+111,85-89,270,20-29,Chardonnay,British Columbia
+112,85-89,376,80-99,Vidal Blanc,Ontario
+113,85-89,267,30-39,Riesling,Ontario
+114,90-94,219,30-39,Sauvignon Blanc,British Columbia
+115,85-89,214,30-39,Riesling,Ontario
+116,80-84,174,10-19,Riesling,Ontario
+117,85-89,217,20-29,Merlot,British Columbia
+118,90-94,359,20-29,Red Blend,British Columbia
+119,85-89,225,10-19,Riesling,Ontario
+120,90-94,254,30-39,Vidal,Ontario
+121,90-94,282,40-49,Pinot Noir,British Columbia
+122,90-94,240,10-19,Gewürztraminer,British Columbia
+123,85-89,186,40-49,Pinot Noir,British Columbia
+124,85-89,283,50-59,Cabernet Merlot,Ontario
+125,85-89,223,20-29,Riesling,Ontario
+126,90-94,233,20-29,Merlot,British Columbia
+127,90-94,194,20-29,Riesling,Ontario
+128,90-94,439,60-79,Bordeaux-style Red Blend,British Columbia
+129,85-89,267,20-29,Riesling,British Columbia
+130,90-94,226,80-99,Riesling,Ontario
+131,90-94,328,30-39,Red Blend,British Columbia
+132,85-89,399,20-29,White Blend,British Columbia
+133,90-94,308,40-49,Meritage,British Columbia
+134,85-89,258,40-49,Chardonnay,British Columbia
+135,85-89,274,30-39,Pinot Noir,British Columbia
+136,85-89,198,50-59,Riesling,Ontario
+137,80-84,163,50-59,Merlot,Ontario
+138,90-94,232,20-29,Gewürztraminer,British Columbia
+139,90-94,200,30-39,Cabernet Franc,British Columbia
+140,90-94,241,20-29,Riesling,British Columbia
+141,85-89,247,40-49,Pinot Noir,British Columbia
+142,90-94,142,30-39,Riesling,Ontario
+143,90-94,195,40-49,Pinot Noir,British Columbia
+144,85-89,171,40-49,Vidal Blanc,Ontario
+145,90-94,376,30-39,Merlot,British Columbia
+146,90-94,229,30-39,Syrah,British Columbia
+147,85-89,230,30-39,Cabernet Franc,British Columbia
+148,90-94,335,20-29,Gewürztraminer,British Columbia
+149,85-89,181,80-99,Cabernet Franc,Ontario
+150,90-94,247,20-29,Rhône-style White Blend,British Columbia
+151,90-94,189,50-59,Chardonnay,British Columbia
+152,90-94,264,50-59,Vidal,British Columbia
+153,85-89,282,30-39,Pinot Noir,British Columbia
+154,85-89,304,20-29,White Blend,British Columbia
+155,90-94,304,30-39,Red Blend,British Columbia
+156,85-89,198,40-49,Pinot Noir,British Columbia
+157,85-89,217,10-19,Chardonnay,British Columbia
+158,90-94,331,30-39,Rhône-style White Blend,British Columbia
+159,90-94,312,80-99,Syrah,British Columbia
+160,85-89,165,50-59,Riesling,Ontario
+161,85-89,211,40-49,Vidal,Ontario

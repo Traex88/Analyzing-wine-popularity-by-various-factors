@@ -1,0 +1,1449 @@
+,points_range,deslen,price_range,variety,province
+0,85-89,188,10-19,Chardonnay,South Australia
+1,85-89,211,20-29,Rosé,South Australia
+2,90-94,230,40-49,Shiraz-Cabernet Sauvignon,South Australia
+3,85-89,277,30-39,Cabernet Sauvignon,South Australia
+4,85-89,195,20-29,Grenache,South Australia
+5,90-94,419,60-79,Shiraz,South Australia
+6,100+,397,100+,Muscat,Victoria
+7,95-99,234,100+,Muscadelle,Victoria
+8,95-99,217,100+,Muscat,Victoria
+9,95-99,260,100+,Shiraz-Viognier,South Australia
+10,95-99,256,80-99,Shiraz,Victoria
+11,95-99,234,100+,Shiraz-Viognier,South Australia
+12,95-99,305,60-79,Shiraz,South Australia
+13,90-94,284,30-39,Shiraz,South Australia
+14,90-94,320,100+,Shiraz,South Australia
+15,85-89,152,<10,Pinot Grigio,Australia Other
+16,90-94,253,60-79,Chardonnay,Victoria
+17,90-94,203,20-29,Red Blend,South Australia
+18,90-94,218,20-29,Rosé,South Australia
+19,90-94,207,10-19,Shiraz,Australia Other
+20,85-89,257,10-19,Shiraz,South Australia
+21,90-94,291,100+,Shiraz,South Australia
+22,85-89,319,10-19,Shiraz,South Australia
+23,85-89,250,10-19,Sauvignon Blanc,South Australia
+24,85-89,170,20-29,Marsanne-Roussanne,Victoria
+25,85-89,157,10-19,Pinot Grigio,South Australia
+26,85-89,225,10-19,Shiraz-Cabernet Sauvignon,South Australia
+27,85-89,147,10-19,Sauvignon Blanc-Semillon,Western Australia
+28,85-89,196,10-19,Chardonnay,Australia Other
+29,85-89,268,30-39,Shiraz,South Australia
+30,90-94,227,50-59,Shiraz,South Australia
+31,85-89,332,20-29,Cabernet Sauvignon,South Australia
+32,85-89,251,20-29,Cabernet Sauvignon,South Australia
+33,85-89,303,10-19,Cabernet Sauvignon,South Australia
+34,85-89,185,30-39,Chardonnay,Western Australia
+35,85-89,300,50-59,Shiraz,South Australia
+36,80-84,160,20-29,Chardonnay,South Australia
+37,90-94,392,100+,Shiraz-Viognier,South Australia
+38,90-94,297,30-39,Riesling,Western Australia
+39,90-94,258,20-29,Shiraz,Western Australia
+40,90-94,292,20-29,Shiraz,Western Australia
+41,90-94,256,30-39,Cabernet Sauvignon,Western Australia
+42,90-94,297,20-29,Cabernet Sauvignon,Western Australia
+43,90-94,205,20-29,Shiraz,South Australia
+44,90-94,230,20-29,Sparkling Blend,Tasmania
+45,85-89,259,10-19,Chardonnay,South Australia
+46,85-89,256,20-29,Cabernet Merlot,Western Australia
+47,90-94,220,50-59,Shiraz,South Australia
+48,90-94,180,20-29,Shiraz,South Australia
+49,90-94,200,20-29,Shiraz,South Australia
+50,90-94,287,100+,Shiraz-Viognier,South Australia
+51,85-89,244,10-19,Chardonnay,Victoria
+52,85-89,315,20-29,Shiraz,South Australia
+53,85-89,236,10-19,Red Blend,South Australia
+54,85-89,222,20-29,Shiraz,South Australia
+55,90-94,248,10-19,Riesling,South Australia
+56,85-89,187,10-19,White Blend,South Australia
+57,85-89,266,20-29,Pinot Noir,South Australia
+58,90-94,265,60-79,Cabernet Sauvignon,South Australia
+59,90-94,322,40-49,Riesling,Western Australia
+60,90-94,308,50-59,Shiraz,South Australia
+61,85-89,171,10-19,Sparkling Blend,Australia Other
+62,85-89,214,10-19,Sparkling Blend,Australia Other
+63,85-89,220,20-29,Shiraz,South Australia
+64,80-84,132,10-19,Pinot Noir,Australia Other
+65,80-84,202,10-19,Sparkling Blend,Australia Other
+66,80-84,121,<10,Shiraz,Australia Other
+67,85-89,215,10-19,Riesling,South Australia
+68,90-94,185,20-29,Grenache,South Australia
+69,85-89,282,60-79,Pinot Noir,Victoria
+70,85-89,230,10-19,Sauvignon Blanc-Semillon,Western Australia
+71,85-89,265,40-49,Grenache,South Australia
+72,85-89,193,10-19,Grenache,South Australia
+73,85-89,339,40-49,Cabernet Sauvignon,South Australia
+74,85-89,303,20-29,Sauvignon Blanc,Australia Other
+75,90-94,363,20-29,Sémillon,South Australia
+76,85-89,230,10-19,Chardonnay,Australia Other
+77,90-94,397,30-39,Shiraz,South Australia
+78,90-94,331,40-49,Shiraz,South Australia
+79,90-94,185,10-19,Chardonnay,Victoria
+80,85-89,256,30-39,Riesling,South Australia
+81,85-89,307,30-39,Shiraz,Victoria
+82,80-84,262,10-19,Pinot Noir,Victoria
+83,80-84,269,40-49,Pinot Noir,Victoria
+84,80-84,212,30-39,Pinot Noir,Victoria
+85,90-94,289,20-29,Rhône-style Red Blend,South Australia
+86,90-94,308,60-79,Syrah,South Australia
+87,80-84,107,<10,Cabernet Sauvignon,Australia Other
+88,90-94,326,40-49,Pinot Noir,Victoria
+89,85-89,285,10-19,Riesling,South Australia
+90,85-89,187,10-19,Chardonnay,Australia Other
+91,85-89,205,50-59,Chardonnay,Victoria
+92,90-94,243,80-99,Shiraz,South Australia
+93,90-94,278,60-79,Chardonnay,Western Australia
+94,85-89,201,10-19,Verdelho,South Australia
+95,85-89,288,30-39,Shiraz,South Australia
+96,85-89,336,20-29,Red Blend,South Australia
+97,85-89,250,20-29,Grenache,South Australia
+98,90-94,323,20-29,Shiraz,South Australia
+99,90-94,331,20-29,G-S-M,South Australia
+100,90-94,264,10-19,G-S-M,South Australia
+101,85-89,272,10-19,Shiraz-Cabernet Sauvignon,South Australia
+102,85-89,230,30-39,Shiraz,South Australia
+103,85-89,202,10-19,Chardonnay,South Australia
+104,85-89,290,10-19,Chardonnay,Australia Other
+105,85-89,309,30-39,Viognier,South Australia
+106,85-89,256,10-19,Riesling,South Australia
+107,85-89,293,20-29,Riesling,South Australia
+108,90-94,208,50-59,Shiraz,South Australia
+109,90-94,323,60-79,Shiraz,South Australia
+110,85-89,299,20-29,Grenache,South Australia
+111,85-89,269,10-19,Chardonnay,South Australia
+112,90-94,231,20-29,Grenache,South Australia
+113,90-94,359,100+,Shiraz,South Australia
+114,80-84,141,10-19,Chardonnay,South Australia
+115,80-84,121,10-19,Chardonnay,Victoria
+116,90-94,345,20-29,Marsanne,Victoria
+117,85-89,181,<10,Chardonnay,South Australia
+118,90-94,366,100+,Shiraz,South Australia
+119,85-89,217,20-29,Cabernet Sauvignon,South Australia
+120,90-94,293,50-59,Shiraz,South Australia
+121,85-89,349,30-39,Cabernet Sauvignon-Shiraz,South Australia
+122,85-89,228,20-29,Cabernet Sauvignon,South Australia
+123,85-89,168,30-39,Riesling,South Australia
+124,90-94,299,50-59,Shiraz,South Australia
+125,90-94,258,30-39,Shiraz,South Australia
+126,90-94,188,80-99,Shiraz,South Australia
+127,90-94,306,60-79,Chardonnay,Western Australia
+128,90-94,327,60-79,Chardonnay,Western Australia
+129,85-89,277,20-29,Bordeaux-style Red Blend,South Australia
+130,90-94,390,60-79,Red Blend,South Australia
+131,85-89,198,20-29,Shiraz-Grenache,Australia Other
+132,85-89,252,30-39,Rhône-style Red Blend,South Australia
+133,85-89,274,10-19,Sangiovese,South Australia
+134,85-89,159,80-99,Shiraz,South Australia
+135,80-84,246,10-19,Cabernet Sauvignon,South Australia
+136,90-94,269,10-19,Shiraz,South Australia
+137,90-94,313,20-29,Riesling,Western Australia
+138,90-94,268,40-49,G-S-M,South Australia
+139,85-89,205,10-19,Chardonnay,Australia Other
+140,90-94,254,20-29,Cabernet Sauvignon,South Australia
+141,90-94,284,10-19,Chardonnay-Semillon,South Australia
+142,90-94,340,60-79,Bordeaux-style Red Blend,South Australia
+143,85-89,256,20-29,Cabernet Sauvignon,South Australia
+144,85-89,178,10-19,Chardonnay,Australia Other
+145,90-94,303,10-19,Shiraz,South Australia
+146,90-94,286,30-39,Shiraz,Victoria
+147,85-89,188,10-19,Chardonnay,New South Wales
+148,80-84,166,10-19,Chardonnay,Australia Other
+149,85-89,246,10-19,Tokay,Victoria
+150,80-84,209,10-19,Sparkling Blend,Australia Other
+151,80-84,175,10-19,Champagne Blend,Australia Other
+152,85-89,285,20-29,Tempranillo,South Australia
+153,85-89,293,40-49,Viognier,South Australia
+154,90-94,260,30-39,Riesling,South Australia
+155,95-99,401,60-79,Shiraz,South Australia
+156,85-89,334,20-29,Riesling,South Australia
+157,90-94,359,60-79,Rhône-style Red Blend,South Australia
+158,85-89,244,10-19,Riesling,South Australia
+159,85-89,285,20-29,Red Blend,Australia Other
+160,85-89,195,10-19,Red Blend,South Australia
+161,90-94,368,50-59,Grenache,South Australia
+162,90-94,430,100+,Chardonnay,Western Australia
+163,80-84,111,10-19,Shiraz,South Australia
+164,90-94,269,100+,Muscadelle,Victoria
+165,90-94,326,60-79,Shiraz,South Australia
+166,85-89,217,10-19,Sauvignon Blanc,South Australia
+167,85-89,258,10-19,Semillon-Sauvignon Blanc,Western Australia
+168,85-89,163,10-19,Sparkling Blend,Australia Other
+169,85-89,205,10-19,Shiraz,South Australia
+170,90-94,298,100+,Shiraz,South Australia
+171,90-94,202,80-99,Shiraz,South Australia
+172,95-99,269,60-79,Shiraz,South Australia
+173,90-94,424,50-59,Pinot Noir,Victoria
+174,85-89,301,10-19,Shiraz,Australia Other
+175,85-89,276,10-19,Pinot Noir,Australia Other
+176,90-94,199,20-29,Red Blend,South Australia
+177,85-89,158,10-19,Cabernet Sauvignon,South Australia
+178,85-89,209,100+,Shiraz-Viognier,South Australia
+179,90-94,326,40-49,Pinot Noir,Victoria
+180,80-84,265,40-49,Cabernet Sauvignon,Western Australia
+181,85-89,319,10-19,Pinot Noir,Victoria
+182,90-94,331,40-49,Chardonnay,Victoria
+183,90-94,310,10-19,Riesling,South Australia
+184,90-94,282,40-49,Viognier,South Australia
+185,90-94,233,20-29,Cabernet Sauvignon,South Australia
+186,90-94,311,20-29,Shiraz-Grenache,South Australia
+187,85-89,252,20-29,Shiraz-Cabernet Sauvignon,South Australia
+188,80-84,181,10-19,Red Blend,Australia Other
+189,85-89,212,20-29,Merlot,South Australia
+190,85-89,278,10-19,Cabernet Sauvignon,South Australia
+191,85-89,261,30-39,Cabernet Sauvignon-Sangiovese,Victoria
+192,90-94,299,30-39,Cabernet Sauvignon,South Australia
+193,90-94,401,60-79,Shiraz,South Australia
+194,90-94,339,20-29,Shiraz,South Australia
+195,90-94,273,40-49,Shiraz-Viognier,South Australia
+196,85-89,191,100+,Bordeaux-style Red Blend,Victoria
+197,85-89,182,20-29,Chardonnay,Western Australia
+198,85-89,148,30-39,Tokay,Victoria
+199,80-84,224,20-29,Red Blend,South Australia
+200,80-84,179,10-19,Cabernet Blend,Western Australia
+201,90-94,258,40-49,Chardonnay,Western Australia
+202,90-94,256,40-49,Chardonnay,Western Australia
+203,90-94,317,50-59,Bordeaux-style Red Blend,Western Australia
+204,90-94,247,20-29,Shiraz,South Australia
+205,90-94,226,60-79,Shiraz,South Australia
+206,85-89,279,10-19,Sauvignon Blanc,South Australia
+207,85-89,287,<10,Petite Sirah,Australia Other
+208,85-89,210,10-19,Rosé,New South Wales
+209,85-89,182,20-29,Chardonnay,Western Australia
+210,85-89,191,100+,Bordeaux-style Red Blend,Victoria
+211,85-89,244,80-99,Shiraz,South Australia
+212,90-94,319,20-29,Cabernet Sauvignon,South Australia
+213,90-94,171,10-19,Pinot Grigio,Victoria
+214,85-89,129,20-29,Rosé,South Australia
+215,85-89,346,10-19,Port,Australia Other
+216,90-94,280,30-39,Shiraz,South Australia
+217,90-94,248,50-59,Shiraz,South Australia
+218,90-94,315,10-19,Shiraz,South Australia
+219,85-89,198,10-19,Chardonnay,Australia Other
+220,85-89,190,10-19,Shiraz,Western Australia
+221,85-89,297,10-19,Red Blend,Victoria
+222,85-89,180,20-29,Sauvignon Blanc-Semillon,Western Australia
+223,85-89,325,10-19,Chardonnay-Semillon,South Australia
+224,85-89,228,10-19,Shiraz-Cabernet Sauvignon,Australia Other
+225,90-94,382,100+,Shiraz,South Australia
+226,85-89,328,30-39,Riesling,South Australia
+227,85-89,231,10-19,Shiraz,South Australia
+228,90-94,282,100+,Chardonnay,Tasmania
+229,80-84,125,10-19,Shiraz,Australia Other
+230,80-84,96,10-19,Shiraz,Australia Other
+231,85-89,279,10-19,Shiraz,Victoria
+232,90-94,277,10-19,Riesling,Western Australia
+233,90-94,397,60-79,Shiraz,South Australia
+234,90-94,367,10-19,Riesling,South Australia
+235,90-94,242,30-39,Pinot Noir,Tasmania
+236,85-89,156,10-19,Pinot Grigio,South Australia
+237,90-94,178,60-79,Shiraz,South Australia
+238,85-89,302,50-59,Shiraz,South Australia
+239,85-89,415,20-29,Shiraz,South Australia
+240,85-89,278,20-29,Verdelho,South Australia
+241,85-89,208,20-29,Shiraz-Viognier,South Australia
+242,85-89,287,<10,Petite Sirah,Australia Other
+243,90-94,314,30-39,Grenache,South Australia
+244,90-94,250,60-79,Shiraz,South Australia
+245,90-94,249,50-59,Cabernet Sauvignon,South Australia
+246,90-94,221,40-49,G-S-M,South Australia
+247,90-94,295,30-39,Grenache-Shiraz,South Australia
+248,90-94,197,10-19,Shiraz,South Australia
+249,90-94,331,50-59,Grenache,South Australia
+250,90-94,224,20-29,Shiraz,South Australia
+251,90-94,284,10-19,Pinot Gris,Victoria
+252,85-89,241,10-19,Shiraz,South Australia
+253,90-94,329,30-39,White Blend,Australia Other
+254,90-94,340,50-59,Cabernet Sauvignon-Shiraz,South Australia
+255,85-89,259,10-19,Cabernet Sauvignon,South Australia
+256,90-94,296,20-29,Shiraz,South Australia
+257,90-94,254,60-79,Shiraz,South Australia
+258,90-94,202,30-39,Shiraz,Victoria
+259,90-94,370,20-29,Pinot Noir,South Australia
+260,90-94,227,10-19,Riesling,South Australia
+261,90-94,211,10-19,Riesling,South Australia
+262,90-94,252,20-29,Sparkling Blend,Tasmania
+263,90-94,231,10-19,Riesling,South Australia
+264,90-94,225,40-49,Riesling,South Australia
+265,90-94,382,30-39,Cabernet Sauvignon,South Australia
+266,90-94,186,10-19,Sémillon,New South Wales
+267,90-94,347,20-29,Cabernet Sauvignon,South Australia
+268,90-94,324,100+,Shiraz,South Australia
+269,90-94,345,100+,Cabernet Sauvignon-Shiraz,South Australia
+270,85-89,216,10-19,Riesling,South Australia
+271,85-89,229,10-19,Viognier,Australia Other
+272,85-89,231,10-19,Chardonnay,Victoria
+273,90-94,341,100+,Shiraz,South Australia
+274,90-94,293,60-79,Shiraz,South Australia
+275,90-94,285,80-99,Shiraz,South Australia
+276,85-89,264,40-49,Pinot Noir,Victoria
+277,90-94,175,10-19,Shiraz,South Australia
+278,80-84,173,<10,Chardonnay,Australia Other
+279,80-84,97,10-19,Sparkling Blend,Australia Other
+280,80-84,231,10-19,Sparkling Blend,Australia Other
+281,85-89,259,10-19,Shiraz,Victoria
+282,90-94,236,50-59,Cabernet Sauvignon,South Australia
+283,90-94,321,60-79,Merlot,South Australia
+284,85-89,309,10-19,G-S-M,South Australia
+285,85-89,291,10-19,Shiraz,Victoria
+286,85-89,350,60-79,Shiraz,Victoria
+287,90-94,233,100+,Chardonnay,Victoria
+288,90-94,212,40-49,Riesling,South Australia
+289,90-94,316,80-99,Chardonnay,Western Australia
+290,90-94,357,20-29,Shiraz,Western Australia
+291,80-84,311,40-49,Shiraz,Victoria
+292,85-89,311,60-79,Pinot Noir,Tasmania
+293,90-94,296,80-99,Shiraz,Victoria
+294,80-84,207,10-19,White Blend,South Australia
+295,90-94,241,60-79,Chardonnay,Western Australia
+296,85-89,196,10-19,Pinot Grigio,South Australia
+297,85-89,132,10-19,Shiraz,South Australia
+298,85-89,226,10-19,Cabernet Sauvignon,Australia Other
+299,90-94,257,30-39,Riesling,South Australia
+300,90-94,377,60-79,Grenache,South Australia
+301,90-94,384,60-79,Grenache,South Australia
+302,90-94,309,100+,Roussanne,Victoria
+303,90-94,273,10-19,Shiraz-Grenache,South Australia
+304,90-94,262,40-49,Pinot Noir,Victoria
+305,90-94,324,60-79,G-S-M,South Australia
+306,90-94,274,60-79,Shiraz,Victoria
+307,85-89,265,<10,Red Blend,Western Australia
+308,80-84,175,20-29,Roussanne,South Australia
+309,80-84,242,10-19,White Blend,South Australia
+310,95-99,457,100+,Syrah,South Australia
+311,90-94,329,80-99,Chardonnay,Western Australia
+312,90-94,283,30-39,Chardonnay,Western Australia
+313,90-94,288,30-39,Sauvignon Blanc-Semillon,Western Australia
+314,85-89,269,20-29,G-S-M,South Australia
+315,90-94,237,30-39,Shiraz,Australia Other
+316,90-94,315,50-59,Cabernet Sauvignon-Shiraz,South Australia
+317,90-94,243,60-79,Cabernet Sauvignon,South Australia
+318,85-89,211,10-19,Shiraz,Western Australia
+319,85-89,230,20-29,Riesling,South Australia
+320,85-89,224,20-29,Shiraz,Western Australia
+321,90-94,262,60-79,Shiraz,South Australia
+322,85-89,244,10-19,Cabernet Sauvignon,South Australia
+323,85-89,142,80-99,Shiraz,South Australia
+324,85-89,265,10-19,Rosé,South Australia
+325,90-94,262,50-59,Cabernet Sauvignon,South Australia
+326,85-89,286,20-29,Cabernet Sauvignon,South Australia
+327,85-89,275,20-29,Bordeaux-style Red Blend,Western Australia
+328,85-89,314,10-19,Cabernet Sauvignon,South Australia
+329,90-94,239,20-29,Cabernet Sauvignon-Merlot-Shiraz,South Australia
+330,85-89,200,10-19,Pinot Grigio,South Australia
+331,85-89,249,30-39,Pinot Noir,South Australia
+332,90-94,179,40-49,Petite Sirah,South Australia
+333,90-94,241,20-29,Red Blend,South Australia
+334,85-89,212,10-19,Chardonnay,South Australia
+335,90-94,311,100+,Shiraz,South Australia
+336,90-94,350,100+,Shiraz,South Australia
+337,85-89,146,10-19,Shiraz,South Australia
+338,90-94,312,50-59,Chardonnay,Victoria
+339,85-89,257,10-19,Cabernet Sauvignon,Western Australia
+340,85-89,242,20-29,Cabernet Sauvignon,Western Australia
+341,85-89,258,10-19,Cabernet Sauvignon,South Australia
+342,85-89,305,10-19,Red Blend,South Australia
+343,85-89,284,20-29,G-S-M,South Australia
+344,85-89,228,20-29,G-S-M,South Australia
+345,85-89,261,10-19,Rhône-style White Blend,South Australia
+346,85-89,344,20-29,Grenache,South Australia
+347,85-89,219,10-19,Chardonnay,South Australia
+348,85-89,265,10-19,Chardonnay,South Australia
+349,90-94,311,30-39,Marsanne,Victoria
+350,80-84,120,10-19,Pinot Noir,South Australia
+351,85-89,201,10-19,Chardonnay,Australia Other
+352,85-89,325,10-19,Rosé,Western Australia
+353,90-94,295,20-29,Shiraz,South Australia
+354,90-94,394,80-99,Bordeaux-style Red Blend,Western Australia
+355,90-94,283,20-29,Bordeaux-style Red Blend,South Australia
+356,90-94,296,10-19,Cabernet Sauvignon,South Australia
+357,90-94,271,30-39,Cabernet Sauvignon,South Australia
+358,90-94,284,10-19,Pinot Gris,Victoria
+359,80-84,153,40-49,Cabernet Sauvignon-Shiraz,Victoria
+360,80-84,106,<10,Chardonnay,Australia Other
+361,90-94,241,20-29,Shiraz,Victoria
+362,90-94,267,100+,Shiraz,South Australia
+363,90-94,324,100+,Shiraz,South Australia
+364,85-89,278,20-29,Chardonnay,Victoria
+365,85-89,166,10-19,Riesling,South Australia
+366,90-94,405,60-79,Red Blend,South Australia
+367,90-94,381,50-59,Cabernet Sauvignon-Shiraz,South Australia
+368,95-99,390,100+,Shiraz,South Australia
+369,95-99,336,100+,Shiraz,South Australia
+370,85-89,265,20-29,Sparkling Blend,Tasmania
+371,90-94,241,20-29,Riesling,Western Australia
+372,90-94,381,100+,Chardonnay,Western Australia
+373,85-89,268,10-19,Riesling,South Australia
+374,90-94,293,10-19,Viognier,South Australia
+375,90-94,281,60-79,Cabernet Sauvignon,Western Australia
+376,90-94,256,40-49,Riesling,South Australia
+377,90-94,250,20-29,Chardonnay,South Australia
+378,90-94,301,100+,Cabernet Sauvignon,South Australia
+379,90-94,342,40-49,Cabernet Sauvignon,South Australia
+380,90-94,325,50-59,Cabernet Sauvignon,South Australia
+381,90-94,312,50-59,Cabernet Sauvignon,South Australia
+382,90-94,205,40-49,Shiraz,South Australia
+383,90-94,271,30-39,Shiraz-Viognier,South Australia
+384,90-94,228,60-79,Shiraz,South Australia
+385,90-94,256,30-39,Shiraz-Viognier,South Australia
+386,90-94,200,10-19,Shiraz,Victoria
+387,85-89,268,40-49,Sémillon,South Australia
+388,90-94,325,20-29,Shiraz,Western Australia
+389,90-94,282,40-49,Shiraz,South Australia
+390,90-94,372,50-59,Cabernet Sauvignon,South Australia
+391,90-94,233,60-79,Shiraz,Victoria
+392,90-94,292,20-29,Shiraz,Victoria
+393,90-94,308,100+,Shiraz,New South Wales
+394,85-89,192,20-29,Riesling,Western Australia
+395,85-89,229,10-19,Shiraz,Australia Other
+396,85-89,251,10-19,Sauvignon Blanc,South Australia
+397,85-89,162,10-19,Pinot Grigio,Australia Other
+398,85-89,218,20-29,Shiraz,South Australia
+399,90-94,201,20-29,Riesling,South Australia
+400,90-94,292,60-79,Cabernet Sauvignon,Western Australia
+401,90-94,371,20-29,Cabernet Sauvignon,South Australia
+402,90-94,196,20-29,Sémillon,South Australia
+403,90-94,243,20-29,Cabernet Sauvignon,South Australia
+404,90-94,248,80-99,Shiraz,Victoria
+405,80-84,150,10-19,Shiraz,Australia Other
+406,90-94,258,40-49,Shiraz,South Australia
+407,90-94,288,30-39,Shiraz,South Australia
+408,90-94,268,40-49,Cabernet Sauvignon,South Australia
+409,90-94,253,20-29,Shiraz-Malbec,Victoria
+410,85-89,205,20-29,Sparkling Blend,Australia Other
+411,90-94,216,40-49,Chardonnay,Tasmania
+412,85-89,198,10-19,Shiraz-Cabernet Sauvignon,Australia Other
+413,90-94,302,40-49,Chardonnay,Victoria
+414,85-89,286,10-19,Shiraz,South Australia
+415,85-89,228,30-39,Chardonnay,South Australia
+416,85-89,177,10-19,Chardonnay,Western Australia
+417,85-89,285,10-19,Chardonnay,Western Australia
+418,85-89,273,20-29,Riesling,Western Australia
+419,85-89,306,20-29,Shiraz-Viognier,South Australia
+420,90-94,247,10-19,Shiraz,South Australia
+421,90-94,342,40-49,Riesling,South Australia
+422,85-89,285,40-49,Chardonnay,Victoria
+423,90-94,257,30-39,Riesling,South Australia
+424,90-94,247,20-29,G-S-M,South Australia
+425,85-89,257,80-99,Grenache,South Australia
+426,85-89,333,<10,G-S-M,South Australia
+427,85-89,224,10-19,G-S-M,South Australia
+428,90-94,376,100+,Shiraz,South Australia
+429,90-94,273,100+,Shiraz,South Australia
+430,95-99,313,100+,Cabernet Sauvignon,South Australia
+431,95-99,305,60-79,Shiraz,South Australia
+432,90-94,251,100+,Muscadelle,Victoria
+433,90-94,216,40-49,Chardonnay,Tasmania
+434,90-94,292,60-79,Shiraz-Grenache,South Australia
+435,85-89,223,20-29,Shiraz,South Australia
+436,85-89,210,60-79,Shiraz-Cabernet,South Australia
+437,90-94,194,40-49,Shiraz,South Australia
+438,85-89,197,10-19,Shiraz,South Australia
+439,90-94,172,100+,Shiraz,South Australia
+440,90-94,237,40-49,Pinot Noir,Victoria
+441,90-94,238,40-49,Shiraz,South Australia
+442,90-94,305,50-59,Cabernet Sauvignon,Western Australia
+443,80-84,166,10-19,Champagne Blend,Australia Other
+444,80-84,179,10-19,Rosé,Australia Other
+445,80-84,288,60-79,Pinot Noir,Victoria
+446,85-89,176,20-29,Chardonnay,South Australia
+447,90-94,224,30-39,Cabernet Sauvignon,Western Australia
+448,90-94,280,20-29,Shiraz-Grenache,South Australia
+449,90-94,300,20-29,Sauvignon Blanc-Semillon,Western Australia
+450,85-89,180,10-19,Chardonnay,South Australia
+451,85-89,219,20-29,Sparkling Blend,Victoria
+452,85-89,214,10-19,Sparkling Blend,Australia Other
+453,85-89,208,10-19,Pinot Noir,Victoria
+454,90-94,301,30-39,Cabernet Sauvignon,South Australia
+455,90-94,294,40-49,Shiraz,South Australia
+456,90-94,262,10-19,Cabernet Sauvignon,New South Wales
+457,90-94,270,20-29,Cabernet Sauvignon,South Australia
+458,90-94,244,40-49,Shiraz,South Australia
+459,85-89,297,10-19,Rhône-style Red Blend,South Australia
+460,85-89,282,30-39,Shiraz,Western Australia
+461,90-94,271,30-39,Cabernet Sauvignon,South Australia
+462,85-89,389,100+,Cabernet Sauvignon,South Australia
+463,85-89,233,<10,Chardonnay,Australia Other
+464,90-94,293,100+,Grenache,South Australia
+465,85-89,317,20-29,Shiraz,South Australia
+466,80-84,249,10-19,Petite Sirah,Australia Other
+467,85-89,165,10-19,Sauvignon Blanc,Victoria
+468,85-89,224,20-29,Shiraz-Cabernet Sauvignon,Victoria
+469,85-89,273,<10,Rhône-style Red Blend,South Australia
+470,85-89,315,10-19,Marsanne,Victoria
+471,85-89,190,10-19,Chardonnay,Australia Other
+472,85-89,169,10-19,Chardonnay,Australia Other
+473,85-89,160,10-19,Chardonnay,South Australia
+474,90-94,299,10-19,Viognier,South Australia
+475,90-94,239,20-29,Cabernet Sauvignon-Merlot-Shiraz,South Australia
+476,85-89,245,10-19,Shiraz,South Australia
+477,85-89,164,20-29,Pinot Noir,Western Australia
+478,85-89,283,20-29,Grenache-Shiraz,South Australia
+479,90-94,270,100+,Syrah,South Australia
+480,85-89,274,60-79,Shiraz,South Australia
+481,90-94,343,60-79,Chardonnay,South Australia
+482,90-94,231,20-29,Grenache,South Australia
+483,80-84,183,<10,Red Blend,Australia Other
+484,80-84,213,20-29,Shiraz,Victoria
+485,80-84,232,20-29,Shiraz,New South Wales
+486,80-84,202,10-19,Pinot Noir,Australia Other
+487,85-89,202,30-39,Riesling,Victoria
+488,80-84,161,10-19,Sauvignon Blanc,South Australia
+489,85-89,249,10-19,Chardonnay,South Australia
+490,85-89,198,10-19,Chardonnay,Australia Other
+491,85-89,159,10-19,Grenache,South Australia
+492,85-89,217,<10,Shiraz,South Australia
+493,90-94,336,40-49,Shiraz,South Australia
+494,90-94,189,10-19,Shiraz,South Australia
+495,85-89,304,10-19,Red Blend,South Australia
+496,90-94,228,80-99,Shiraz,South Australia
+497,85-89,348,20-29,Riesling,South Australia
+498,85-89,198,10-19,Shiraz,Western Australia
+499,90-94,275,50-59,Cabernet Sauvignon,South Australia
+500,85-89,199,10-19,Rosé,Victoria
+501,90-94,289,60-79,Syrah,South Australia
+502,90-94,381,80-99,Shiraz,Victoria
+503,90-94,251,30-39,Riesling,Victoria
+504,90-94,277,30-39,Chardonnay,Western Australia
+505,85-89,28,20-29,Sauvignon Blanc,New South Wales
+506,90-94,239,10-19,Shiraz,South Australia
+507,90-94,214,30-39,Shiraz,Victoria
+508,95-99,341,100+,Syrah,South Australia
+509,90-94,296,60-79,Shiraz,South Australia
+510,85-89,249,10-19,Rosé,South Australia
+511,85-89,288,10-19,Semillon-Sauvignon Blanc,South Australia
+512,85-89,299,10-19,Shiraz-Viognier,Australia Other
+513,85-89,189,<10,Chardonnay,Australia Other
+514,85-89,206,20-29,Cabernet Sauvignon,South Australia
+515,85-89,163,10-19,Shiraz-Viognier,South Australia
+516,80-84,217,10-19,Red Blend,Victoria
+517,90-94,316,20-29,Shiraz,South Australia
+518,80-84,124,100+,Red Blend,Victoria
+519,85-89,352,10-19,Red Blend,South Australia
+520,90-94,253,30-39,Shiraz,South Australia
+521,90-94,297,60-79,Syrah,South Australia
+522,90-94,281,80-99,Shiraz,South Australia
+523,90-94,375,60-79,Chardonnay,Western Australia
+524,90-94,201,40-49,Sparkling Blend,Tasmania
+525,85-89,224,10-19,Viognier,South Australia
+526,85-89,236,20-29,Sparkling Blend,Western Australia
+527,85-89,273,10-19,Sémillon,South Australia
+528,80-84,147,20-29,Bordeaux-style Red Blend,Western Australia
+529,90-94,161,60-79,Cabernet Sauvignon,South Australia
+530,85-89,305,10-19,Chardonnay,Australia Other
+531,85-89,281,10-19,Shiraz,Victoria
+532,85-89,278,10-19,Red Blend,South Australia
+533,90-94,414,60-79,Cabernet Sauvignon,South Australia
+534,90-94,355,40-49,Cabernet Sauvignon,Western Australia
+535,85-89,249,10-19,Rosé,South Australia
+536,85-89,151,10-19,Chardonnay,Australia Other
+537,85-89,178,10-19,Chardonnay,South Australia
+538,85-89,284,30-39,Sémillon,New South Wales
+539,90-94,245,10-19,Shiraz,South Australia
+540,90-94,266,60-79,Riesling,Western Australia
+541,90-94,237,10-19,Shiraz,Western Australia
+542,90-94,267,40-49,Shiraz,South Australia
+543,85-89,204,10-19,Cabernet Sauvignon,New South Wales
+544,90-94,246,60-79,Grenache,South Australia
+545,90-94,268,20-29,Riesling,South Australia
+546,90-94,307,30-39,Chardonnay,South Australia
+547,90-94,362,40-49,Chardonnay,South Australia
+548,85-89,232,20-29,Chardonnay,New South Wales
+549,85-89,317,100+,Chardonnay,South Australia
+550,85-89,206,10-19,Chardonnay,New South Wales
+551,85-89,208,10-19,Chardonnay,New South Wales
+552,85-89,182,20-29,Chardonnay,New South Wales
+553,90-94,276,100+,Shiraz,South Australia
+554,90-94,216,30-39,Chardonnay,Western Australia
+555,90-94,247,20-29,Grenache,South Australia
+556,90-94,261,30-39,Grenache,South Australia
+557,90-94,319,80-99,Shiraz,South Australia
+558,90-94,264,80-99,Shiraz,South Australia
+559,90-94,354,20-29,Marsanne,Victoria
+560,90-94,243,30-39,Cabernet Sauvignon,Western Australia
+561,85-89,294,10-19,Riesling,South Australia
+562,85-89,267,10-19,Riesling,South Australia
+563,85-89,251,40-49,Cabernet Sauvignon,South Australia
+564,85-89,270,20-29,Shiraz-Viognier,Western Australia
+565,85-89,297,20-29,Red Blend,Victoria
+566,80-84,275,30-39,Shiraz,South Australia
+567,90-94,219,20-29,Shiraz,South Australia
+568,90-94,240,20-29,Shiraz,South Australia
+569,85-89,288,20-29,Cabernet Sauvignon,South Australia
+570,85-89,374,20-29,Shiraz,South Australia
+571,85-89,261,60-79,Shiraz,South Australia
+572,90-94,291,20-29,Bordeaux-style Red Blend,South Australia
+573,90-94,381,40-49,Rhône-style Red Blend,South Australia
+574,90-94,422,60-79,Shiraz,South Australia
+575,90-94,347,40-49,Shiraz-Cabernet Sauvignon,South Australia
+576,90-94,307,50-59,Cabernet Sauvignon,South Australia
+577,85-89,291,30-39,Cabernet Sauvignon,South Australia
+578,90-94,272,10-19,Riesling,South Australia
+579,90-94,205,40-49,Grenache,South Australia
+580,90-94,282,50-59,Cabernet Sauvignon,South Australia
+581,85-89,217,<10,Shiraz,Australia Other
+582,90-94,270,30-39,Red Blend,Western Australia
+583,90-94,241,20-29,Riesling,South Australia
+584,85-89,225,<10,Chardonnay,Australia Other
+585,90-94,221,30-39,Chardonnay,Western Australia
+586,80-84,172,10-19,White Blend,Victoria
+587,80-84,95,10-19,Sangiovese,South Australia
+588,90-94,244,40-49,Shiraz,South Australia
+589,90-94,230,20-29,Sparkling Blend,Tasmania
+590,85-89,259,20-29,Chardonnay,South Australia
+591,85-89,182,20-29,Shiraz,South Australia
+592,80-84,293,10-19,Sémillon,New South Wales
+593,80-84,186,10-19,Shiraz,New South Wales
+594,85-89,223,40-49,Riesling,South Australia
+595,85-89,300,10-19,Riesling,South Australia
+596,85-89,186,20-29,Riesling,South Australia
+597,85-89,251,100+,Chardonnay,Australia Other
+598,90-94,243,20-29,Chardonnay,Western Australia
+599,90-94,241,60-79,Chardonnay,Western Australia
+600,90-94,305,50-59,Cabernet Sauvignon,Western Australia
+601,90-94,271,20-29,G-S-M,South Australia
+602,85-89,236,10-19,Pinot Noir,Victoria
+603,90-94,331,40-49,Chardonnay,Victoria
+604,85-89,275,10-19,White Blend,South Australia
+605,85-89,321,20-29,Red Blend,South Australia
+606,85-89,191,10-19,Pinot Grigio,Victoria
+607,85-89,381,10-19,Shiraz,South Australia
+608,85-89,251,60-79,Shiraz,South Australia
+609,90-94,327,40-49,Cabernet Sauvignon,Western Australia
+610,85-89,155,10-19,Shiraz,Victoria
+611,85-89,247,50-59,Shiraz,South Australia
+612,85-89,245,20-29,Semillon-Sauvignon Blanc,Western Australia
+613,90-94,291,30-39,Red Blend,South Australia
+614,90-94,309,60-79,Cabernet Sauvignon,South Australia
+615,90-94,370,60-79,Cabernet Blend,Victoria
+616,90-94,351,100+,Cabernet Sauvignon,South Australia
+617,90-94,236,20-29,Cabernet Sauvignon,Western Australia
+618,90-94,377,60-79,Cabernet Sauvignon-Merlot,South Australia
+619,85-89,241,10-19,Semillon-Sauvignon Blanc,South Australia
+620,85-89,244,40-49,Pinot Noir,Victoria
+621,90-94,268,20-29,Cabernet Sauvignon,Western Australia
+622,90-94,269,30-39,Chardonnay,Victoria
+623,90-94,264,10-19,G-S-M,South Australia
+624,95-99,326,100+,Shiraz,South Australia
+625,95-99,397,80-99,Shiraz,South Australia
+626,95-99,411,80-99,Shiraz,South Australia
+627,95-99,356,100+,Shiraz,South Australia
+628,85-89,295,10-19,Red Blend,Victoria
+629,90-94,202,30-39,Chardonnay,South Australia
+630,85-89,305,10-19,Red Blend,South Australia
+631,85-89,309,10-19,Pinot Noir,Victoria
+632,85-89,298,30-39,Semillon-Sauvignon Blanc,Western Australia
+633,90-94,238,20-29,Chardonnay,South Australia
+634,90-94,169,50-59,Shiraz,South Australia
+635,90-94,358,60-79,Cabernet Sauvignon,South Australia
+636,90-94,226,60-79,Shiraz,South Australia
+637,90-94,285,20-29,Shiraz,South Australia
+638,90-94,323,60-79,Red Blend,South Australia
+639,85-89,223,40-49,Pinot Noir,Victoria
+640,85-89,109,10-19,Pinot Noir,Victoria
+641,85-89,203,<10,Shiraz,Australia Other
+642,90-94,249,30-39,Sauvignon Blanc-Semillon,Western Australia
+643,90-94,412,30-39,Shiraz,Western Australia
+644,85-89,261,30-39,Rhône-style White Blend,South Australia
+645,85-89,217,20-29,Cabernet Sauvignon,South Australia
+646,90-94,268,30-39,Pinot Noir,Tasmania
+647,90-94,288,100+,Red Blend,Victoria
+648,90-94,277,20-29,Shiraz-Roussanne,South Australia
+649,90-94,217,20-29,Cabernet Sauvignon,South Australia
+650,85-89,210,10-19,Shiraz-Cabernet Sauvignon,South Australia
+651,90-94,321,20-29,Mourvèdre,South Australia
+652,80-84,194,10-19,Cabernet Merlot,Australia Other
+653,85-89,205,20-29,Chardonnay,New South Wales
+654,85-89,210,10-19,Chardonnay,South Australia
+655,85-89,229,10-19,Chardonnay,Western Australia
+656,85-89,274,10-19,Cabernet Sauvignon,South Australia
+657,85-89,201,60-79,Pinot Noir,South Australia
+658,90-94,245,60-79,Shiraz,South Australia
+659,90-94,269,60-79,Shiraz,South Australia
+660,85-89,173,40-49,Grenache,Victoria
+661,90-94,343,60-79,Chardonnay,South Australia
+662,85-89,232,10-19,Shiraz,South Australia
+663,90-94,355,30-39,Rhône-style Red Blend,South Australia
+664,95-99,411,100+,Cabernet-Shiraz,South Australia
+665,95-99,434,80-99,Red Blend,South Australia
+666,90-94,298,80-99,Chardonnay,Western Australia
+667,80-84,192,20-29,Pinot Noir,Western Australia
+668,90-94,295,20-29,Chardonnay,South Australia
+669,90-94,199,20-29,Chardonnay,Western Australia
+670,85-89,186,10-19,Shiraz,South Australia
+671,85-89,209,10-19,Shiraz,South Australia
+672,85-89,266,30-39,Chardonnay,South Australia
+673,85-89,172,20-29,Grenache,South Australia
+674,85-89,175,40-49,Shiraz,South Australia
+675,85-89,260,10-19,Shiraz,South Australia
+676,85-89,301,30-39,Chardonnay,Western Australia
+677,85-89,205,40-49,Shiraz,South Australia
+678,85-89,253,20-29,Cabernet Sauvignon,South Australia
+679,85-89,228,10-19,Shiraz-Cabernet Sauvignon,Australia Other
+680,90-94,248,50-59,Shiraz,South Australia
+681,80-84,139,10-19,Sparkling Blend,Australia Other
+682,80-84,114,10-19,Chardonnay,South Australia
+683,85-89,343,10-19,Shiraz-Cabernet Sauvignon,South Australia
+684,90-94,254,60-79,Cabernet Sauvignon,Western Australia
+685,90-94,350,10-19,Cabernet Sauvignon,South Australia
+686,90-94,301,10-19,Shiraz,New South Wales
+687,90-94,320,60-79,Shiraz,South Australia
+688,90-94,225,20-29,Shiraz,South Australia
+689,90-94,200,20-29,Grenache,South Australia
+690,85-89,353,30-39,Pinot Noir,Victoria
+691,85-89,332,30-39,Bordeaux-style Red Blend,Victoria
+692,90-94,277,60-79,Mataro,South Australia
+693,90-94,315,60-79,Shiraz,South Australia
+694,90-94,262,30-39,Chardonnay,South Australia
+695,85-89,414,100+,Bordeaux-style Red Blend,Victoria
+696,80-84,147,10-19,Shiraz-Cabernet Sauvignon,Australia Other
+697,90-94,240,80-99,Shiraz,South Australia
+698,90-94,348,60-79,Cabernet Sauvignon,South Australia
+699,90-94,251,40-49,Chardonnay,Victoria
+700,85-89,300,50-59,Shiraz,South Australia
+701,90-94,295,40-49,Cabernet Sauvignon,South Australia
+702,85-89,165,80-99,Shiraz,South Australia
+703,90-94,344,60-79,Pinot Noir,Tasmania
+704,90-94,278,20-29,Pinot Noir,South Australia
+705,85-89,191,10-19,Shiraz,New South Wales
+706,90-94,323,20-29,Rosé,South Australia
+707,85-89,249,30-39,Champagne Blend,Tasmania
+708,85-89,231,20-29,Grenache,South Australia
+709,90-94,232,60-79,Grenache,South Australia
+710,90-94,277,80-99,Shiraz,South Australia
+711,90-94,159,60-79,Shiraz,South Australia
+712,90-94,205,50-59,Syrah,Victoria
+713,90-94,274,60-79,Chardonnay,Victoria
+714,85-89,296,10-19,Rhône-style Red Blend,South Australia
+715,85-89,126,20-29,Chardonnay,South Australia
+716,85-89,160,20-29,Cabernet Sauvignon,South Australia
+717,85-89,231,20-29,Rhône-style Red Blend,South Australia
+718,85-89,232,10-19,Chardonnay,South Australia
+719,85-89,217,10-19,Chardonnay,Australia Other
+720,85-89,243,10-19,Pinot Noir,South Australia
+721,85-89,202,10-19,Sauvignon Blanc,South Australia
+722,85-89,289,10-19,Shiraz,Australia Other
+723,85-89,248,20-29,Shiraz,South Australia
+724,85-89,235,10-19,Cabernet Sauvignon,Western Australia
+725,90-94,276,50-59,Bordeaux-style Red Blend,South Australia
+726,90-94,354,20-29,Cabernet Blend,South Australia
+727,90-94,301,100+,Cabernet Sauvignon,South Australia
+728,85-89,261,50-59,Bordeaux-style Red Blend,Western Australia
+729,90-94,362,20-29,Riesling,South Australia
+730,85-89,176,20-29,Shiraz,South Australia
+731,90-94,218,10-19,Grenache,South Australia
+732,90-94,281,100+,Bordeaux-style Red Blend,Western Australia
+733,85-89,271,20-29,Cabernet Sauvignon,South Australia
+734,85-89,293,10-19,Cabernet Sauvignon,South Australia
+735,85-89,288,30-39,Cabernet Sauvignon,South Australia
+736,85-89,304,100+,Bordeaux-style Red Blend,Victoria
+737,85-89,250,10-19,Sauvignon Blanc,South Australia
+738,85-89,230,30-39,Rhône-style White Blend,South Australia
+739,85-89,233,10-19,Pinot Noir,Western Australia
+740,85-89,174,10-19,Sparkling Blend,New South Wales
+741,90-94,351,60-79,Shiraz,South Australia
+742,90-94,338,50-59,Cabernet Sauvignon,South Australia
+743,85-89,135,60-79,Grenache,South Australia
+744,95-99,322,80-99,Tokay,Victoria
+745,95-99,342,100+,Muscat,Victoria
+746,90-94,416,80-99,Muscat,Victoria
+747,90-94,180,20-29,Shiraz,South Australia
+748,85-89,169,20-29,Pinot Noir,Western Australia
+749,85-89,227,30-39,Pinot Noir,South Australia
+750,85-89,238,10-19,Riesling,South Australia
+751,85-89,210,30-39,Shiraz,Victoria
+752,85-89,213,10-19,Shiraz,Australia Other
+753,90-94,247,60-79,Cabernet Sauvignon,South Australia
+754,90-94,342,50-59,Cabernet Sauvignon,South Australia
+755,90-94,234,50-59,Shiraz,South Australia
+756,85-89,176,10-19,Sparkling Blend,Australia Other
+757,90-94,277,100+,Shiraz,South Australia
+758,90-94,261,30-39,Grenache,South Australia
+759,90-94,319,80-99,Shiraz,South Australia
+760,90-94,264,80-99,Shiraz,South Australia
+761,85-89,192,40-49,Chardonnay,Victoria
+762,85-89,334,20-29,Syrah,South Australia
+763,85-89,196,20-29,Viognier,South Australia
+764,85-89,259,30-39,Shiraz,South Australia
+765,85-89,189,20-29,Shiraz,South Australia
+766,85-89,232,20-29,Shiraz,Victoria
+767,85-89,307,20-29,Shiraz,South Australia
+768,85-89,219,10-19,Sauvignon Blanc-Semillon,Western Australia
+769,85-89,235,10-19,Cabernet Sauvignon,Western Australia
+770,85-89,202,30-39,Riesling,Victoria
+771,90-94,306,40-49,Cabernet Sauvignon,South Australia
+772,90-94,279,20-29,Shiraz,Victoria
+773,90-94,201,30-39,Chardonnay,Victoria
+774,85-89,276,10-19,Viognier,Western Australia
+775,85-89,354,30-39,Pinot Grigio,South Australia
+776,90-94,269,80-99,Grenache,South Australia
+777,90-94,247,10-19,Shiraz-Grenache,South Australia
+778,85-89,195,20-29,Cabernet Sauvignon,South Australia
+779,85-89,198,10-19,Shiraz,South Australia
+780,85-89,264,10-19,Merlot,South Australia
+781,90-94,260,20-29,Chardonnay,Western Australia
+782,85-89,219,20-29,Sparkling Blend,Tasmania
+783,90-94,317,60-79,Shiraz,South Australia
+784,90-94,266,30-39,Shiraz,South Australia
+785,85-89,311,60-79,Pinot Noir,Tasmania
+786,85-89,316,10-19,Shiraz,Western Australia
+787,85-89,268,20-29,Sauvignon Blanc,South Australia
+788,85-89,290,20-29,Zinfandel,South Australia
+789,90-94,266,20-29,Cabernet Sauvignon-Shiraz,Victoria
+790,85-89,213,10-19,Viognier-Marsanne,South Australia
+791,85-89,242,30-39,Cabernet Sauvignon,South Australia
+792,85-89,202,30-39,Shiraz,South Australia
+793,85-89,223,20-29,Shiraz,South Australia
+794,85-89,307,20-29,Sauvignon Blanc-Semillon,Western Australia
+795,90-94,429,100+,Shiraz,Victoria
+796,80-84,191,10-19,Moscato,Australia Other
+797,80-84,275,10-19,White Blend,South Australia
+798,80-84,221,10-19,Rosé,South Australia
+799,80-84,140,<10,Pinot Grigio,Australia Other
+800,85-89,227,30-39,Pinot Noir,Victoria
+801,85-89,129,10-19,Pinot Grigio,Victoria
+802,85-89,144,60-79,Grenache,South Australia
+803,85-89,213,30-39,Shiraz,South Australia
+804,90-94,157,80-99,Shiraz,South Australia
+805,90-94,203,10-19,Chardonnay,Western Australia
+806,90-94,238,30-39,Chardonnay,Western Australia
+807,90-94,380,100+,Bordeaux-style Red Blend,Western Australia
+808,90-94,219,60-79,Shiraz,South Australia
+809,90-94,344,100+,Bordeaux-style Red Blend,Western Australia
+810,90-94,286,40-49,Pinot Noir,Victoria
+811,90-94,233,10-19,Chardonnay,South Australia
+812,90-94,208,10-19,Riesling,South Australia
+813,90-94,298,10-19,Cabernet Sauvignon,South Australia
+814,90-94,252,20-29,Cabernet Sauvignon,Western Australia
+815,85-89,265,20-29,Shiraz,South Australia
+816,90-94,313,60-79,Shiraz,South Australia
+817,90-94,321,20-29,Riesling,South Australia
+818,90-94,271,40-49,Viognier,South Australia
+819,85-89,237,10-19,Savagnin,South Australia
+820,85-89,214,100+,Mataro,South Australia
+821,85-89,207,10-19,Verdelho,South Australia
+822,85-89,259,20-29,Chardonnay,South Australia
+823,85-89,267,60-79,Shiraz,Victoria
+824,90-94,240,20-29,Grenache,South Australia
+825,90-94,270,40-49,Grenache,South Australia
+826,85-89,404,100+,Grenache,South Australia
+827,85-89,292,20-29,Marsanne,Victoria
+828,90-94,314,100+,Shiraz,South Australia
+829,90-94,276,30-39,Shiraz,South Australia
+830,90-94,276,30-39,Shiraz,South Australia
+831,90-94,305,60-79,Shiraz,South Australia
+832,90-94,412,100+,Shiraz,New South Wales
+833,90-94,289,80-99,Shiraz,Victoria
+834,90-94,260,40-49,Shiraz,South Australia
+835,90-94,330,20-29,Chardonnay,Western Australia
+836,85-89,163,10-19,Chardonnay,Western Australia
+837,85-89,205,30-39,Chardonnay,Victoria
+838,85-89,299,10-19,Shiraz,South Australia
+839,95-99,443,80-99,Shiraz,Victoria
+840,85-89,412,20-29,Bordeaux-style Red Blend,South Australia
+841,90-94,313,40-49,Sémillon,New South Wales
+842,90-94,313,100+,Cabernet Sauvignon,South Australia
+843,90-94,270,20-29,Shiraz,Western Australia
+844,85-89,275,20-29,Shiraz,South Australia
+845,95-99,455,100+,Shiraz,South Australia
+846,95-99,409,100+,Shiraz,South Australia
+847,95-99,414,100+,Shiraz-Viognier,South Australia
+848,95-99,354,100+,Shiraz,South Australia
+849,95-99,373,100+,Shiraz,South Australia
+850,95-99,293,100+,Shiraz,South Australia
+851,90-94,227,10-19,Riesling,South Australia
+852,90-94,370,20-29,Pinot Noir,South Australia
+853,90-94,202,30-39,Shiraz,Victoria
+854,85-89,286,20-29,Grenache,South Australia
+855,90-94,248,20-29,Shiraz,Western Australia
+856,90-94,179,10-19,Shiraz,South Australia
+857,90-94,341,30-39,Grenache,South Australia
+858,90-94,256,40-49,Riesling,Western Australia
+859,90-94,366,40-49,Shiraz,South Australia
+860,80-84,293,10-19,Sémillon,New South Wales
+861,90-94,380,80-99,Chardonnay,Western Australia
+862,90-94,212,30-39,Riesling,Western Australia
+863,90-94,291,40-49,Sparkling Blend,Tasmania
+864,90-94,280,20-29,Shiraz,South Australia
+865,90-94,259,20-29,Shiraz,South Australia
+866,90-94,228,40-49,Shiraz,South Australia
+867,90-94,222,20-29,Shiraz,Western Australia
+868,90-94,269,60-79,Shiraz,South Australia
+869,90-94,308,50-59,Shiraz,South Australia
+870,85-89,298,10-19,White Blend,South Australia
+871,90-94,251,30-39,Shiraz,South Australia
+872,90-94,243,60-79,Cabernet Sauvignon,South Australia
+873,90-94,347,80-99,Mourvèdre,South Australia
+874,90-94,299,40-49,Riesling,South Australia
+875,90-94,358,50-59,Grenache,South Australia
+876,85-89,284,20-29,Shiraz,Victoria
+877,85-89,243,10-19,Red Blend,Australia Other
+878,85-89,249,50-59,Bordeaux-style Red Blend,South Australia
+879,85-89,266,10-19,Shiraz,South Australia
+880,80-84,88,10-19,Chardonnay,South Australia
+881,85-89,266,10-19,Chardonnay,Victoria
+882,90-94,264,60-79,Shiraz,Victoria
+883,85-89,148,20-29,Riesling,South Australia
+884,90-94,234,50-59,Shiraz,South Australia
+885,90-94,272,20-29,Shiraz,South Australia
+886,90-94,291,20-29,Red Blend,South Australia
+887,90-94,224,60-79,Shiraz,South Australia
+888,90-94,179,30-39,Chardonnay,New South Wales
+889,90-94,207,10-19,Shiraz,Australia Other
+890,90-94,398,30-39,Shiraz,South Australia
+891,85-89,267,10-19,Viognier,South Australia
+892,85-89,306,80-99,Grenache,South Australia
+893,85-89,281,10-19,Grenache,South Australia
+894,85-89,319,60-79,Grenache,South Australia
+895,85-89,272,30-39,Cabernet Sauvignon,South Australia
+896,90-94,274,60-79,Shiraz,South Australia
+897,90-94,238,20-29,Chardonnay,South Australia
+898,80-84,178,10-19,Pinot Noir,Australia Other
+899,80-84,179,20-29,Shiraz,South Australia
+900,80-84,274,20-29,Red Blend,South Australia
+901,90-94,238,30-39,Shiraz-Viognier,Victoria
+902,90-94,294,50-59,Shiraz,South Australia
+903,90-94,250,100+,Shiraz,South Australia
+904,90-94,268,30-39,Shiraz,South Australia
+905,85-89,236,10-19,Red Blend,South Australia
+906,85-89,302,10-19,Shiraz,South Australia
+907,90-94,262,30-39,Muscat,Victoria
+908,90-94,190,100+,Muscat,Victoria
+909,85-89,253,30-39,Grenache,South Australia
+910,85-89,253,30-39,Grenache,South Australia
+911,85-89,269,30-39,Shiraz,South Australia
+912,90-94,259,30-39,Shiraz,South Australia
+913,85-89,322,10-19,Shiraz-Grenache,South Australia
+914,85-89,325,60-79,Grenache,South Australia
+915,85-89,298,10-19,Cabernet Sauvignon,South Australia
+916,85-89,294,10-19,Sauvignon Blanc,South Australia
+917,90-94,207,20-29,Shiraz,South Australia
+918,90-94,238,10-19,Shiraz,South Australia
+919,85-89,163,20-29,Shiraz,South Australia
+920,95-99,340,100+,Shiraz,South Australia
+921,85-89,256,10-19,Merlot,Australia Other
+922,85-89,223,60-79,Shiraz,South Australia
+923,90-94,204,40-49,G-S-M,South Australia
+924,90-94,281,30-39,Shiraz,South Australia
+925,85-89,204,20-29,Chardonnay,Victoria
+926,85-89,230,<10,Chardonnay,Australia Other
+927,85-89,248,30-39,Chardonnay,Western Australia
+928,85-89,317,30-39,Chardonnay,South Australia
+929,85-89,265,20-29,Chardonnay,South Australia
+930,90-94,252,30-39,Riesling,South Australia
+931,90-94,294,10-19,Cabernet Sauvignon,South Australia
+932,85-89,295,10-19,Shiraz,South Australia
+933,85-89,196,20-29,Shiraz,South Australia
+934,85-89,276,10-19,Riesling,South Australia
+935,95-99,375,100+,Shiraz,South Australia
+936,95-99,311,100+,Shiraz,South Australia
+937,90-94,276,10-19,Shiraz,Western Australia
+938,90-94,224,30-39,Shiraz,South Australia
+939,90-94,260,40-49,Shiraz,South Australia
+940,90-94,339,40-49,Shiraz,South Australia
+941,90-94,264,50-59,Shiraz,South Australia
+942,90-94,367,20-29,Shiraz,New South Wales
+943,85-89,302,100+,Red Blend,Victoria
+944,85-89,315,10-19,Shiraz,South Australia
+945,85-89,307,60-79,Red Blend,Victoria
+946,90-94,322,60-79,Grenache,South Australia
+947,90-94,312,100+,Shiraz,South Australia
+948,90-94,345,50-59,Shiraz,South Australia
+949,90-94,422,80-99,Shiraz,South Australia
+950,90-94,242,30-39,Sémillon,New South Wales
+951,85-89,403,30-39,Bordeaux-style Red Blend,Western Australia
+952,85-89,244,10-19,Chardonnay,South Australia
+953,90-94,364,60-79,Shiraz,South Australia
+954,90-94,339,30-39,Shiraz,South Australia
+955,85-89,248,20-29,Shiraz,New South Wales
+956,85-89,304,10-19,Red Blend,South Australia
+957,90-94,336,30-39,Chardonnay,Australia Other
+958,90-94,340,60-79,Chardonnay,South Australia
+959,85-89,240,10-19,Riesling,South Australia
+960,85-89,265,10-19,Viognier,South Australia
+961,85-89,262,10-19,Rhône-style White Blend,South Australia
+962,85-89,179,<10,Moscato,New South Wales
+963,90-94,359,80-99,Sparkling Blend,Tasmania
+964,85-89,188,10-19,Chardonnay,New South Wales
+965,85-89,242,10-19,Chardonnay,New South Wales
+966,85-89,215,10-19,Chardonnay,South Australia
+967,85-89,233,10-19,Chardonnay,South Australia
+968,85-89,151,10-19,Chardonnay,South Australia
+969,85-89,193,<10,Chardonnay,Australia Other
+970,85-89,260,10-19,Chardonnay,Australia Other
+971,85-89,249,<10,Chardonnay,Australia Other
+972,90-94,350,10-19,Cabernet Sauvignon,South Australia
+973,90-94,498,80-99,Bordeaux-style Red Blend,Victoria
+974,85-89,261,10-19,Chardonnay,New South Wales
+975,95-99,354,100+,Shiraz,South Australia
+976,95-99,262,60-79,Shiraz,South Australia
+977,80-84,168,10-19,Shiraz,Victoria
+978,90-94,182,30-39,Chardonnay,Western Australia
+979,90-94,267,80-99,Shiraz,South Australia
+980,90-94,230,60-79,Shiraz,South Australia
+981,85-89,185,20-29,Champagne Blend,South Australia
+982,90-94,372,50-59,Shiraz,South Australia
+983,90-94,538,100+,Shiraz,Victoria
+984,85-89,161,10-19,Riesling,Victoria
+985,90-94,301,20-29,Cabernet Sauvignon-Shiraz,South Australia
+986,90-94,315,40-49,Pinot Noir,Victoria
+987,90-94,296,40-49,Pinot Noir,Victoria
+988,90-94,254,20-29,Shiraz,South Australia
+989,90-94,259,30-39,Cabernet Sauvignon,South Australia
+990,85-89,175,10-19,Sauvignon Blanc,South Australia
+991,85-89,192,20-29,Sauvignon Blanc-Semillon,Western Australia
+992,90-94,244,30-39,Pinot Noir,Tasmania
+993,85-89,259,10-19,Pinot Grigio,South Australia
+994,85-89,166,30-39,Zinfandel,South Australia
+995,85-89,419,10-19,G-S-M,Australia Other
+996,85-89,194,20-29,G-S-M,South Australia
+997,85-89,218,10-19,Grenache-Shiraz,South Australia
+998,80-84,247,10-19,Muscat,Australia Other
+999,90-94,209,60-79,Shiraz-Grenache,South Australia
+1000,90-94,409,50-59,Pinot Noir,Victoria
+1001,90-94,287,20-29,Shiraz,South Australia
+1002,90-94,243,20-29,Shiraz-Viognier,South Australia
+1003,80-84,280,30-39,Durif,Victoria
+1004,80-84,181,10-19,Grenache,South Australia
+1005,80-84,215,<10,Shiraz,Australia Other
+1006,80-84,185,<10,Pinot Noir,South Australia
+1007,80-84,212,10-19,Red Blend,South Australia
+1008,85-89,211,30-39,Pinot Noir,Victoria
+1009,80-84,208,20-29,Pinot Noir,Victoria
+1010,80-84,141,10-19,Sparkling Blend,South Australia
+1011,80-84,232,10-19,Pinot Noir,South Australia
+1012,85-89,196,10-19,Chardonnay,South Australia
+1013,90-94,385,80-99,Shiraz-Viognier,Victoria
+1014,90-94,328,100+,Shiraz,South Australia
+1015,80-84,142,20-29,Rosé,Western Australia
+1016,85-89,227,30-39,Pinot Noir,South Australia
+1017,90-94,225,60-79,Cabernet Sauvignon,South Australia
+1018,90-94,211,30-39,Malbec,South Australia
+1019,90-94,277,10-19,Red Blend,South Australia
+1020,90-94,328,30-39,Cabernet Sauvignon,South Australia
+1021,90-94,296,20-29,Shiraz,South Australia
+1022,90-94,388,100+,Shiraz-Viognier,South Australia
+1023,90-94,278,40-49,Riesling,South Australia
+1024,90-94,252,60-79,Shiraz,South Australia
+1025,90-94,220,40-49,Cabernet Sauvignon,South Australia
+1026,90-94,272,60-79,Shiraz,South Australia
+1027,90-94,263,60-79,Shiraz,South Australia
+1028,90-94,270,10-19,Mourvèdre-Syrah,South Australia
+1029,90-94,375,60-79,Chardonnay,Western Australia
+1030,90-94,235,30-39,Chardonnay,South Australia
+1031,90-94,378,20-29,Shiraz,South Australia
+1032,80-84,162,10-19,Pinot Noir,Victoria
+1033,90-94,241,60-79,Chardonnay,South Australia
+1034,80-84,305,10-19,Pinot Noir,Western Australia
+1035,85-89,209,10-19,Sparkling Blend,South Australia
+1036,85-89,233,10-19,Cabernet Sauvignon,Australia Other
+1037,90-94,262,50-59,Pinot Noir,Victoria
+1038,90-94,344,60-79,Chardonnay,Victoria
+1039,85-89,299,10-19,Shiraz,South Australia
+1040,85-89,250,20-29,Shiraz-Viognier,South Australia
+1041,85-89,198,20-29,Red Blend,South Australia
+1042,85-89,330,30-39,Shiraz,Australia Other
+1043,85-89,263,30-39,Pinot Noir,New South Wales
+1044,90-94,285,50-59,Cabernet Sauvignon,South Australia
+1045,85-89,250,10-19,Cabernet Sauvignon,Western Australia
+1046,80-84,159,20-29,Red Blend,South Australia
+1047,90-94,223,30-39,Chardonnay,Victoria
+1048,90-94,259,20-29,Roussanne,South Australia
+1049,90-94,318,80-99,Grenache,South Australia
+1050,90-94,429,60-79,Cabernet Sauvignon,South Australia
+1051,85-89,177,10-19,Shiraz,Australia Other
+1052,90-94,209,20-29,Shiraz,South Australia
+1053,85-89,193,20-29,Shiraz,South Australia
+1054,90-94,339,60-79,G-S-M,South Australia
+1055,90-94,244,20-29,Muscat Hamburg,New South Wales
+1056,90-94,290,40-49,Shiraz,South Australia
+1057,90-94,285,20-29,Cabernet Sauvignon,South Australia
+1058,85-89,271,20-29,Shiraz,South Australia
+1059,85-89,416,30-39,Sauvignon,Victoria
+1060,85-89,216,10-19,Riesling,South Australia
+1061,85-89,211,10-19,Viognier,South Australia
+1062,85-89,218,20-29,Sauvignon Blanc,South Australia
+1063,90-94,262,100+,Muscat,Victoria
+1064,85-89,337,30-39,Shiraz,New South Wales
+1065,85-89,268,40-49,Pinot Noir,Victoria
+1066,90-94,256,60-79,Mataro,South Australia
+1067,80-84,245,<10,Sparkling Blend,Australia Other
+1068,80-84,198,10-19,Moscato,South Australia
+1069,90-94,256,20-29,Shiraz,South Australia
+1070,85-89,194,10-19,Chardonnay,South Australia
+1071,85-89,107,10-19,Chardonnay,Australia Other
+1072,80-84,201,20-29,Semillon-Sauvignon Blanc,Western Australia
+1073,90-94,237,40-49,Shiraz,South Australia
+1074,85-89,204,10-19,Cabernet Sauvignon,Western Australia
+1075,85-89,173,10-19,Chardonnay,South Australia
+1076,85-89,325,10-19,Chardonnay-Semillon,South Australia
+1077,90-94,313,20-29,Riesling,Western Australia
+1078,85-89,126,20-29,Chardonnay,South Australia
+1079,85-89,160,20-29,Cabernet Sauvignon,South Australia
+1080,85-89,209,10-19,Cabernet Sauvignon,South Australia
+1081,90-94,213,20-29,Shiraz,Victoria
+1082,85-89,179,10-19,Sauvignon Blanc,South Australia
+1083,85-89,244,10-19,Sauvignon Blanc,Victoria
+1084,85-89,159,80-99,Shiraz,South Australia
+1085,80-84,265,10-19,Chardonnay,South Australia
+1086,90-94,246,20-29,Shiraz,South Australia
+1087,85-89,249,30-39,Cabernet Sauvignon,Western Australia
+1088,85-89,217,10-19,Cabernet Sauvignon,South Australia
+1089,85-89,172,<10,Shiraz,Australia Other
+1090,80-84,161,20-29,Chardonnay,Western Australia
+1091,85-89,217,10-19,Vermentino,South Australia
+1092,90-94,246,60-79,Grenache,South Australia
+1093,90-94,336,100+,Shiraz,South Australia
+1094,85-89,238,10-19,Chardonnay,Australia Other
+1095,85-89,228,80-99,Shiraz,South Australia
+1096,90-94,264,10-19,G-S-M,South Australia
+1097,95-99,290,80-99,Shiraz,South Australia
+1098,85-89,205,20-29,Shiraz,South Australia
+1099,85-89,273,10-19,Red Blend,Australia Other
+1100,85-89,208,10-19,Cabernet Sauvignon,South Australia
+1101,85-89,140,10-19,Shiraz-Grenache,South Australia
+1102,85-89,234,10-19,Cabernet Sauvignon,South Australia
+1103,85-89,161,10-19,Pinot Grigio,Australia Other
+1104,95-99,341,100+,Shiraz,South Australia
+1105,95-99,447,100+,Cabernet Sauvignon,South Australia
+1106,95-99,276,100+,Grenache,South Australia
+1107,85-89,234,10-19,Red Blend,South Australia
+1108,90-94,343,100+,Cabernet Sauvignon,South Australia
+1109,90-94,316,100+,Shiraz,South Australia
+1110,90-94,260,30-39,Cabernet Sauvignon-Shiraz,South Australia
+1111,85-89,216,10-19,Chardonnay,Australia Other
+1112,85-89,238,20-29,Cabernet Sauvignon,Western Australia
+1113,85-89,168,20-29,Riesling,South Australia
+1114,85-89,183,10-19,Red Blend,South Australia
+1115,90-94,387,60-79,Red Blend,Victoria
+1116,85-89,288,20-29,Cabernet Sauvignon,South Australia
+1117,85-89,244,40-49,Pinot Noir,Victoria
+1118,85-89,228,10-19,Shiraz,Australia Other
+1119,85-89,370,30-39,Durif,Victoria
+1120,90-94,347,10-19,White Blend,South Australia
+1121,85-89,286,10-19,Shiraz,South Australia
+1122,85-89,228,30-39,Chardonnay,South Australia
+1123,85-89,317,20-29,Cabernet Sauvignon,Western Australia
+1124,90-94,224,20-29,Riesling,Western Australia
+1125,80-84,170,10-19,Chardonnay,South Australia
+1126,85-89,239,20-29,Chardonnay,Western Australia
+1127,85-89,222,10-19,Chardonnay,Victoria
+1128,85-89,193,20-29,Chardonnay,South Australia
+1129,90-94,240,80-99,Shiraz,South Australia
+1130,90-94,251,40-49,Chardonnay,Victoria
+1131,90-94,333,100+,Bordeaux-style Red Blend,Western Australia
+1132,90-94,211,40-49,Champagne Blend,Tasmania
+1133,90-94,235,20-29,Cabernet Sauvignon,South Australia
+1134,85-89,219,10-19,Chardonnay,South Australia
+1135,90-94,175,10-19,Shiraz,South Australia
+1136,90-94,245,30-39,Cabernet Sauvignon,South Australia
+1137,90-94,220,50-59,Shiraz,South Australia
+1138,90-94,180,20-29,Shiraz,South Australia
+1139,90-94,200,20-29,Shiraz,South Australia
+1140,85-89,234,30-39,Shiraz,Western Australia
+1141,90-94,288,100+,Syrah,South Australia
+1142,90-94,268,60-79,Pinot Noir,Victoria
+1143,85-89,316,50-59,Shiraz,South Australia
+1144,80-84,137,10-19,Malbec,New South Wales
+1145,80-84,232,30-39,Viognier,Victoria
+1146,85-89,232,10-19,Shiraz,New South Wales
+1147,85-89,222,20-29,Chardonnay,South Australia
+1148,90-94,237,30-39,Cabernet Sauvignon,South Australia
+1149,90-94,286,60-79,Cabernet Sauvignon,South Australia
+1150,90-94,264,80-99,Shiraz,South Australia
+1151,90-94,310,30-39,Shiraz,South Australia
+1152,90-94,224,30-39,Shiraz,South Australia
+1153,90-94,226,10-19,Viognier,South Australia
+1154,90-94,314,20-29,Shiraz,South Australia
+1155,90-94,284,60-79,Shiraz,Victoria
+1156,90-94,320,60-79,Sémillon,New South Wales
+1157,90-94,193,20-29,Chardonnay,Western Australia
+1158,90-94,311,50-59,Pinot Noir,Victoria
+1159,90-94,212,10-19,Chardonnay,South Australia
+1160,90-94,283,20-29,Shiraz,South Australia
+1161,90-94,256,30-39,Cabernet Sauvignon,South Australia
+1162,90-94,297,10-19,Rhône-style White Blend,Victoria
+1163,90-94,224,20-29,Shiraz,South Australia
+1164,90-94,259,20-29,Shiraz,South Australia
+1165,90-94,395,80-99,Shiraz,South Australia
+1166,90-94,328,60-79,Pinot Noir,Victoria
+1167,85-89,340,60-79,Cabernet Sauvignon,South Australia
+1168,85-89,323,10-19,Red Blend,South Australia
+1169,85-89,220,10-19,Shiraz,Australia Other
+1170,90-94,305,100+,Shiraz,South Australia
+1171,85-89,279,10-19,Riesling,Victoria
+1172,85-89,115,10-19,Chardonnay,South Australia
+1173,85-89,230,10-19,Shiraz-Grenache,South Australia
+1174,90-94,221,40-49,G-S-M,South Australia
+1175,90-94,295,30-39,Grenache-Shiraz,South Australia
+1176,90-94,332,100+,Syrah,South Australia
+1177,90-94,296,50-59,Shiraz,South Australia
+1178,90-94,322,100+,Syrah,South Australia
+1179,85-89,141,10-19,Chardonnay,South Australia
+1180,85-89,232,40-49,Shiraz,South Australia
+1181,85-89,297,10-19,Rhône-style Red Blend,South Australia
+1182,85-89,232,10-19,Chardonnay,South Australia
+1183,80-84,106,10-19,Chardonnay,Western Australia
+1184,90-94,301,20-29,Cabernet Sauvignon-Shiraz,South Australia
+1185,90-94,250,20-29,Viognier,South Australia
+1186,85-89,182,30-39,Pinot Noir,Victoria
+1187,90-94,363,30-39,Cabernet Sauvignon,South Australia
+1188,90-94,349,50-59,Cabernet Sauvignon,South Australia
+1189,90-94,229,20-29,Shiraz,South Australia
+1190,85-89,204,10-19,Chardonnay,Western Australia
+1191,85-89,237,10-19,Cabernet Sauvignon,South Australia
+1192,90-94,328,50-59,Chardonnay,Western Australia
+1193,85-89,322,20-29,Petit Verdot,South Australia
+1194,85-89,274,20-29,Shiraz-Viognier,Victoria
+1195,85-89,234,20-29,Shiraz,South Australia
+1196,85-89,192,10-19,Shiraz,South Australia
+1197,90-94,272,30-39,Chardonnay,New South Wales
+1198,90-94,397,30-39,Riesling,South Australia
+1199,90-94,228,60-79,Cabernet Sauvignon,South Australia
+1200,90-94,361,40-49,Sémillon,New South Wales
+1201,90-94,264,60-79,Shiraz,South Australia
+1202,80-84,111,10-19,Shiraz,Australia Other
+1203,85-89,210,60-79,Shiraz-Cabernet,South Australia
+1204,80-84,210,10-19,Red Blend,South Australia
+1205,90-94,429,80-99,Chardonnay,Western Australia
+1206,90-94,360,60-79,Shiraz,South Australia
+1207,85-89,169,10-19,Sauvignon Blanc,South Australia
+1208,85-89,185,10-19,Red Blend,South Australia
+1209,90-94,307,20-29,Shiraz,South Australia
+1210,90-94,299,10-19,Viognier,South Australia
+1211,85-89,223,10-19,Grenache,South Australia
+1212,85-89,267,10-19,Shiraz,South Australia
+1213,95-99,384,100+,Muscadelle,Victoria
+1214,95-99,435,80-99,Shiraz,South Australia
+1215,85-89,277,10-19,Sangiovese,South Australia
+1216,85-89,227,10-19,Riesling,South Australia
+1217,90-94,266,100+,Shiraz,South Australia
+1218,90-94,371,60-79,Cabernet Sauvignon,South Australia
+1219,85-89,283,10-19,Shiraz-Cabernet Sauvignon,South Australia
+1220,85-89,283,10-19,Red Blend,South Australia
+1221,90-94,223,50-59,Shiraz,South Australia
+1222,90-94,326,50-59,Cabernet Sauvignon,South Australia
+1223,85-89,305,10-19,Cabernet Sauvignon,Australia Other
+1224,85-89,225,10-19,Sémillon,South Australia
+1225,90-94,297,20-29,Riesling,South Australia
+1226,85-89,306,10-19,Savagnin,South Australia
+1227,85-89,208,30-39,Grenache,South Australia
+1228,85-89,230,40-49,Pinot Noir,Victoria
+1229,90-94,219,30-39,Cabernet Sauvignon,South Australia
+1230,90-94,284,20-29,Shiraz,South Australia
+1231,85-89,247,20-29,Red Blend,South Australia
+1232,85-89,222,10-19,Shiraz,Western Australia
+1233,85-89,181,10-19,Verdelho,South Australia
+1234,85-89,316,20-29,Grenache,South Australia
+1235,85-89,292,20-29,Shiraz-Mourvèdre,South Australia
+1236,85-89,315,10-19,Shiraz,South Australia
+1237,85-89,250,60-79,G-S-M,South Australia
+1238,85-89,242,30-39,Chardonnay,Victoria
+1239,85-89,281,10-19,Shiraz,Victoria
+1240,85-89,278,10-19,Red Blend,South Australia
+1241,90-94,243,50-59,Chardonnay,Western Australia
+1242,85-89,165,10-19,Chardonnay,South Australia
+1243,85-89,173,10-19,Shiraz,Australia Other
+1244,85-89,247,20-29,Red Blend,South Australia
+1245,85-89,174,10-19,Chardonnay,Australia Other
+1246,85-89,228,10-19,Cabernet Sauvignon-Merlot,Western Australia
+1247,85-89,258,80-99,Merlot,South Australia
+1248,85-89,292,10-19,Chardonnay,South Australia
+1249,85-89,286,40-49,Pinot Noir,South Australia
+1250,90-94,281,50-59,Shiraz,South Australia
+1251,90-94,309,20-29,Shiraz,South Australia
+1252,90-94,281,80-99,Shiraz,South Australia
+1253,85-89,199,10-19,Rosé,Victoria
+1254,90-94,195,50-59,Grenache,South Australia
+1255,90-94,273,20-29,Shiraz,South Australia
+1256,90-94,313,20-29,Syrah,South Australia
+1257,90-94,314,60-79,Shiraz,South Australia
+1258,85-89,258,20-29,Chardonnay,South Australia
+1259,85-89,239,10-19,White Blend,South Australia
+1260,90-94,252,100+,Tokay,Victoria
+1261,90-94,242,10-19,Sauvignon Blanc,Western Australia
+1262,90-94,283,60-79,Red Blend,South Australia
+1263,90-94,212,10-19,Pinot Grigio,South Australia
+1264,90-94,260,20-29,Shiraz,South Australia
+1265,90-94,342,30-39,Shiraz,South Australia
+1266,85-89,218,40-49,Chardonnay,Western Australia
+1267,85-89,273,10-19,Shiraz,Western Australia
+1268,85-89,225,20-29,Champagne Blend,Australia Other
+1269,90-94,232,60-79,Cabernet Sauvignon,South Australia
+1270,85-89,251,10-19,Shiraz,Western Australia
+1271,85-89,377,10-19,Cabernet Sauvignon,Australia Other
+1272,85-89,348,10-19,Shiraz-Viognier,Western Australia
+1273,85-89,265,<10,Red Blend,Western Australia
+1274,85-89,301,10-19,Shiraz,South Australia
+1275,85-89,294,20-29,Grenache,South Australia
+1276,90-94,238,30-39,Shiraz,Victoria
+1277,90-94,251,60-79,Shiraz,South Australia
+1278,90-94,320,30-39,Cabernet Sauvignon,South Australia
+1279,90-94,241,20-29,Riesling,South Australia
+1280,90-94,204,30-39,Riesling,South Australia
+1281,90-94,231,20-29,Riesling,South Australia
+1282,90-94,338,40-49,Cabernet Sauvignon,Western Australia
+1283,90-94,331,80-99,Shiraz-Viognier,Victoria
+1284,90-94,341,40-49,Red Blend,Western Australia
+1285,90-94,316,50-59,Bordeaux-style Red Blend,Western Australia
+1286,90-94,281,30-39,Riesling,Western Australia
+1287,85-89,209,20-29,Rosé,South Australia
+1288,90-94,229,50-59,Shiraz,South Australia
+1289,85-89,253,10-19,Riesling,South Australia
+1290,90-94,214,10-19,Riesling,South Australia
+1291,90-94,367,10-19,Riesling,South Australia
+1292,85-89,291,60-79,Shiraz,South Australia
+1293,85-89,165,10-19,Rosé,South Australia
+1294,85-89,267,20-29,Sauvignon Blanc-Semillon,Western Australia
+1295,90-94,178,60-79,Shiraz,South Australia
+1296,85-89,301,10-19,Sparkling Blend,Australia Other
+1297,85-89,283,10-19,Red Blend,South Australia
+1298,85-89,260,10-19,Vermentino,South Australia
+1299,80-84,232,10-19,Pinot Noir,South Australia
+1300,80-84,266,20-29,Sparkling Blend,South Australia
+1301,80-84,255,50-59,Pinot Noir,Victoria
+1302,80-84,135,20-29,Champagne Blend,South Australia
+1303,80-84,241,20-29,Chardonnay,South Australia
+1304,90-94,268,30-39,Pinot Noir,Tasmania
+1305,90-94,235,40-49,Riesling,Western Australia
+1306,90-94,209,40-49,Chardonnay,Victoria
+1307,85-89,219,10-19,Chardonnay,South Australia
+1308,85-89,215,10-19,Chardonnay,Australia Other
+1309,85-89,216,10-19,Chardonnay,Western Australia
+1310,90-94,368,40-49,Shiraz,Western Australia
+1311,85-89,298,40-49,Shiraz,South Australia
+1312,85-89,312,60-79,Shiraz,Victoria
+1313,90-94,210,60-79,Cabernet Sauvignon,South Australia
+1314,85-89,287,10-19,Cabernet Sauvignon,Western Australia
+1315,85-89,296,10-19,Sparkling Blend,Victoria
+1316,85-89,216,10-19,Cabernet Sauvignon,South Australia
+1317,85-89,228,10-19,Sauvignon Blanc,South Australia
+1318,90-94,267,60-79,Shiraz,South Australia
+1319,90-94,324,80-99,Shiraz,South Australia
+1320,90-94,177,80-99,Shiraz,South Australia
+1321,90-94,253,20-29,Shiraz,South Australia
+1322,90-94,386,60-79,Grenache,South Australia
+1323,90-94,231,30-39,Grenache,South Australia
+1324,90-94,267,10-19,Shiraz,Victoria
+1325,90-94,280,20-29,Shiraz-Grenache,South Australia
+1326,90-94,253,60-79,Chardonnay,Victoria
+1327,90-94,291,20-29,Red Blend,South Australia
+1328,90-94,224,60-79,Shiraz,South Australia
+1329,90-94,200,30-39,Shiraz,South Australia
+1330,85-89,243,10-19,Shiraz-Mourvèdre,South Australia
+1331,85-89,296,50-59,Syrah,South Australia
+1332,85-89,236,20-29,Cabernet Sauvignon,Western Australia
+1333,90-94,424,30-39,Chardonnay,South Australia
+1334,90-94,251,30-39,Shiraz,South Australia
+1335,90-94,334,10-19,Riesling,South Australia
+1336,90-94,370,20-29,Rhône-style Red Blend,South Australia
+1337,90-94,256,20-29,Shiraz-Grenache,South Australia
+1338,90-94,213,20-29,Chardonnay,South Australia
+1339,90-94,325,10-19,Riesling,South Australia
+1340,90-94,287,40-49,Riesling,South Australia
+1341,90-94,273,20-29,Riesling,South Australia
+1342,85-89,209,10-19,Cabernet Sauvignon,South Australia
+1343,90-94,214,40-49,Shiraz,South Australia
+1344,85-89,142,20-29,Mourvèdre,South Australia
+1345,90-94,211,80-99,Shiraz,South Australia
+1346,90-94,228,80-99,Shiraz,South Australia
+1347,85-89,201,10-19,Chardonnay,Western Australia
+1348,85-89,181,10-19,Chardonnay,Western Australia
+1349,85-89,251,10-19,Chardonnay,Victoria
+1350,85-89,236,10-19,Chardonnay,New South Wales
+1351,90-94,293,20-29,Shiraz-Viognier,South Australia
+1352,90-94,231,10-19,Riesling,South Australia
+1353,90-94,277,40-49,Sémillon,New South Wales
+1354,95-99,277,100+,Shiraz,South Australia
+1355,95-99,328,80-99,Shiraz-Cabernet Sauvignon,South Australia
+1356,85-89,167,10-19,White Blend,South Australia
+1357,85-89,328,40-49,Cabernet Sauvignon-Merlot,Western Australia
+1358,80-84,244,<10,Chardonnay,Australia Other
+1359,80-84,210,10-19,Chardonnay,New South Wales
+1360,85-89,287,10-19,Rosé,South Australia
+1361,85-89,183,20-29,Shiraz,South Australia
+1362,85-89,256,10-19,Chardonnay,Australia Other
+1363,90-94,292,60-79,Shiraz-Grenache,South Australia
+1364,90-94,320,60-79,Shiraz,South Australia
+1365,90-94,205,60-79,Shiraz,South Australia
+1366,90-94,355,20-29,Riesling,South Australia
+1367,95-99,434,100+,Shiraz,South Australia
+1368,90-94,259,60-79,Shiraz,South Australia
+1369,90-94,347,60-79,Shiraz,South Australia
+1370,90-94,253,30-39,Shiraz,South Australia
+1371,85-89,163,10-19,Chardonnay,Western Australia
+1372,80-84,174,10-19,Merlot,South Australia
+1373,80-84,279,10-19,Shiraz,South Australia
+1374,80-84,207,<10,Merlot,South Australia
+1375,85-89,278,10-19,Chardonnay,New South Wales
+1376,90-94,178,10-19,Shiraz,South Australia
+1377,85-89,185,10-19,Red Blend,South Australia
+1378,85-89,248,40-49,Pinot Noir,Tasmania
+1379,90-94,249,50-59,Bordeaux-style Red Blend,South Australia
+1380,90-94,298,50-59,Cabernet Sauvignon,Western Australia
+1381,90-94,388,100+,Cabernet Sauvignon,South Australia
+1382,90-94,278,80-99,Shiraz,South Australia
+1383,90-94,347,80-99,Cabernet Sauvignon,South Australia
+1384,90-94,338,100+,Shiraz,South Australia
+1385,90-94,220,30-39,Chardonnay,Western Australia
+1386,90-94,221,20-29,Riesling,South Australia
+1387,90-94,297,60-79,Cabernet Sauvignon,South Australia
+1388,80-84,146,10-19,Cabernet Sauvignon,South Australia
+1389,90-94,217,60-79,Shiraz,New South Wales
+1390,85-89,161,50-59,Chardonnay,South Australia
+1391,85-89,289,20-29,Cabernet Sauvignon,South Australia
+1392,85-89,196,20-29,Shiraz,South Australia
+1393,90-94,296,60-79,Shiraz,South Australia
+1394,90-94,252,10-19,Roussanne,South Australia
+1395,90-94,272,30-39,Bordeaux-style Red Blend,Western Australia
+1396,90-94,288,20-29,Sauvignon Blanc-Semillon,Western Australia
+1397,85-89,192,20-29,Riesling,Western Australia
+1398,90-94,294,30-39,Grenache,South Australia
+1399,80-84,146,10-19,Chardonnay,South Australia
+1400,85-89,192,10-19,Chardonnay,South Australia
+1401,85-89,260,20-29,Viognier,South Australia
+1402,85-89,271,60-79,Shiraz,South Australia
+1403,85-89,266,10-19,Shiraz-Malbec,South Australia
+1404,85-89,267,30-39,Bordeaux-style Red Blend,Victoria
+1405,85-89,246,20-29,Pinot Noir,Victoria
+1406,90-94,353,80-99,Mourvèdre,South Australia
+1407,85-89,238,30-39,Cabernet Sauvignon,South Australia
+1408,85-89,323,80-99,Shiraz,Victoria
+1409,85-89,251,30-39,Shiraz,New South Wales
+1410,85-89,321,60-79,Shiraz,South Australia
+1411,85-89,273,100+,Shiraz,South Australia
+1412,85-89,318,60-79,Shiraz,South Australia
+1413,90-94,157,80-99,Shiraz,South Australia
+1414,90-94,203,10-19,Chardonnay,Western Australia
+1415,90-94,350,50-59,Shiraz,South Australia
+1416,85-89,214,30-39,Chardonnay,Western Australia
+1417,85-89,257,10-19,White Blend,South Australia
+1418,80-84,181,10-19,Red Blend,Australia Other
+1419,90-94,324,100+,Shiraz,South Australia
+1420,85-89,206,20-29,Red Blend,South Australia
+1421,85-89,149,10-19,Sparkling Blend,Australia Other
+1422,85-89,211,10-19,Viognier,South Australia
+1423,90-94,369,60-79,Syrah,Victoria
+1424,90-94,229,30-39,Shiraz,South Australia
+1425,85-89,117,<10,Chardonnay,Australia Other
+1426,90-94,304,80-99,Cabernet Sauvignon,Western Australia
+1427,90-94,289,60-79,Pinot Noir,Victoria
+1428,90-94,253,60-79,Red Blend,South Australia
+1429,80-84,234,<10,Chardonnay,Australia Other
+1430,80-84,198,10-19,Chardonnay,South Australia
+1431,80-84,157,10-19,Chardonnay,South Australia
+1432,80-84,159,10-19,Chardonnay,Australia Other
+1433,80-84,188,10-19,Chardonnay,South Australia
+1434,90-94,414,20-29,Riesling,South Australia
+1435,90-94,305,20-29,Shiraz,South Australia
+1436,85-89,232,10-19,Rosé,South Australia
+1437,85-89,324,30-39,Mourvèdre,South Australia
+1438,90-94,247,20-29,Shiraz,South Australia
+1439,90-94,333,80-99,Grenache,South Australia
+1440,90-94,294,60-79,Syrah,South Australia
+1441,85-89,239,80-99,Shiraz,South Australia
+1442,85-89,265,20-29,Bordeaux-style Red Blend,Western Australia
+1443,85-89,233,10-19,Riesling,Victoria
+1444,85-89,295,10-19,Cabernet Sauvignon,Australia Other
+1445,85-89,329,20-29,Pinot Noir,Tasmania
+1446,85-89,193,20-29,Pinot Noir,South Australia
+1447,90-94,254,50-59,Chardonnay,South Australia

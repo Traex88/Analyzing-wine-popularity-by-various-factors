@@ -1,0 +1,2819 @@
+,points_range,deslen,price_range,variety,province
+0,85-89,284,30-39,Malbec,Other
+1,85-89,245,10-19,Malbec,Mendoza Province
+2,90-94,224,20-29,Malbec,Mendoza Province
+3,85-89,252,10-19,Chardonnay,Other
+4,85-89,290,10-19,Malbec,Mendoza Province
+5,85-89,327,10-19,Red Blend,Mendoza Province
+6,85-89,273,10-19,Red Blend,Mendoza Province
+7,85-89,245,30-39,Cabernet Sauvignon,Mendoza Province
+8,90-94,345,100+,Malbec,Mendoza Province
+9,90-94,323,30-39,Malbec,Mendoza Province
+10,90-94,266,40-49,Malbec,Mendoza Province
+11,90-94,319,50-59,Malbec,Mendoza Province
+12,85-89,275,30-39,Red Blend,Mendoza Province
+13,90-94,352,20-29,Red Blend,Mendoza Province
+14,85-89,220,10-19,Torrontés,Other
+15,85-89,202,10-19,Torrontés,Other
+16,85-89,240,10-19,Malbec,Mendoza Province
+17,90-94,254,40-49,Chardonnay,Mendoza Province
+18,85-89,229,30-39,Bordeaux-style Red Blend,Mendoza Province
+19,85-89,200,20-29,Malbec,Other
+20,85-89,232,10-19,Pinot Gris,Mendoza Province
+21,85-89,208,10-19,Sauvignon Blanc,Mendoza Province
+22,85-89,289,100+,Malbec,Mendoza Province
+23,85-89,226,10-19,Malbec,Mendoza Province
+24,85-89,346,20-29,Cabernet Sauvignon,Mendoza Province
+25,85-89,274,20-29,Malbec,Mendoza Province
+26,85-89,198,10-19,Malbec,Mendoza Province
+27,85-89,263,10-19,Chardonnay,Mendoza Province
+28,85-89,339,10-19,Merlot,Mendoza Province
+29,85-89,231,10-19,Cabernet Sauvignon,Mendoza Province
+30,85-89,249,40-49,Malbec,Mendoza Province
+31,85-89,298,20-29,Bordeaux-style Red Blend,Mendoza Province
+32,85-89,234,10-19,Malbec,Mendoza Province
+33,85-89,260,10-19,Cabernet Sauvignon,Mendoza Province
+34,85-89,191,10-19,Chardonnay,Other
+35,85-89,225,10-19,Chardonnay,Mendoza Province
+36,85-89,182,10-19,Torrontés,Mendoza Province
+37,85-89,155,10-19,Torrontés,Mendoza Province
+38,85-89,169,10-19,Rosé,Mendoza Province
+39,85-89,191,10-19,Malbec,Mendoza Province
+40,85-89,187,10-19,Rosé,Mendoza Province
+41,85-89,210,10-19,Viognier,Mendoza Province
+42,85-89,157,10-19,Malbec,Mendoza Province
+43,85-89,255,20-29,Merlot,Other
+44,85-89,161,10-19,White Blend,Other
+45,90-94,272,10-19,Malbec,Mendoza Province
+46,85-89,176,10-19,Malbec,Mendoza Province
+47,85-89,231,10-19,Rosado,Mendoza Province
+48,85-89,360,10-19,Cabernet Sauvignon-Merlot,Mendoza Province
+49,85-89,309,10-19,Malbec,Mendoza Province
+50,80-84,212,10-19,Cabernet Sauvignon,Mendoza Province
+51,80-84,224,10-19,Cabernet Sauvignon,Mendoza Province
+52,80-84,185,10-19,Moscato,Mendoza Province
+53,90-94,289,30-39,Malbec,Mendoza Province
+54,80-84,180,10-19,Cabernet Sauvignon,Mendoza Province
+55,80-84,166,10-19,Viognier,Other
+56,85-89,297,10-19,Cabernet Sauvignon,Mendoza Province
+57,85-89,285,20-29,Malbec,Mendoza Province
+58,80-84,225,10-19,Malbec,Mendoza Province
+59,85-89,221,10-19,Malbec,Mendoza Province
+60,85-89,220,10-19,Malbec,Mendoza Province
+61,85-89,262,20-29,Malbec,Mendoza Province
+62,80-84,201,10-19,Chardonnay,Other
+63,90-94,263,30-39,Cabernet Franc,Mendoza Province
+64,80-84,170,10-19,Chardonnay,Mendoza Province
+65,80-84,259,10-19,Cabernet Sauvignon,Mendoza Province
+66,80-84,212,10-19,Chardonnay,Mendoza Province
+67,80-84,262,10-19,Tempranillo,Mendoza Province
+68,80-84,230,10-19,Sauvignon Blanc,Mendoza Province
+69,80-84,199,10-19,Sauvignon Blanc,Mendoza Province
+70,85-89,225,10-19,Syrah,Mendoza Province
+71,85-89,264,10-19,Sauvignon Blanc,Mendoza Province
+72,85-89,181,30-39,Malbec,Mendoza Province
+73,85-89,196,10-19,Cabernet Sauvignon,Mendoza Province
+74,85-89,252,20-29,Malbec,Mendoza Province
+75,85-89,324,20-29,Malbec,Mendoza Province
+76,85-89,322,20-29,Malbec,Mendoza Province
+77,85-89,230,10-19,Malbec,Mendoza Province
+78,85-89,190,30-39,Cabernet Blend,Mendoza Province
+79,85-89,211,20-29,Malbec,Mendoza Province
+80,85-89,311,10-19,Red Blend,Mendoza Province
+81,85-89,306,40-49,Malbec,Mendoza Province
+82,80-84,177,10-19,Chardonnay,Other
+83,80-84,196,10-19,Cabernet Sauvignon,Mendoza Province
+84,85-89,229,10-19,Cabernet Sauvignon,Mendoza Province
+85,85-89,261,20-29,Malbec,Mendoza Province
+86,85-89,197,20-29,Chardonnay,Mendoza Province
+87,85-89,257,10-19,Bonarda,Mendoza Province
+88,85-89,250,20-29,Malbec,Other
+89,90-94,334,60-79,Bordeaux-style Red Blend,Mendoza Province
+90,90-94,283,40-49,Bordeaux-style Red Blend,Mendoza Province
+91,90-94,324,20-29,Red Blend,Mendoza Province
+92,85-89,221,10-19,Red Blend,Mendoza Province
+93,85-89,193,20-29,Malbec,Mendoza Province
+94,85-89,272,30-39,Chardonnay,Mendoza Province
+95,80-84,199,<10,Red Blend,Mendoza Province
+96,80-84,209,10-19,Red Blend,Mendoza Province
+97,80-84,278,20-29,Malbec,Mendoza Province
+98,80-84,183,10-19,Rosé,Mendoza Province
+99,80-84,209,10-19,Malbec,Mendoza Province
+100,90-94,299,10-19,Bonarda,Mendoza Province
+101,85-89,180,10-19,Torrontés,Other
+102,85-89,225,10-19,Cabernet Sauvignon,Mendoza Province
+103,85-89,280,20-29,Cabernet Sauvignon,Mendoza Province
+104,85-89,213,20-29,Malbec,Mendoza Province
+105,85-89,264,20-29,Malbec,Mendoza Province
+106,85-89,258,30-39,White Blend,Mendoza Province
+107,85-89,260,50-59,Malbec,Mendoza Province
+108,85-89,239,10-19,Torrontés,Mendoza Province
+109,90-94,275,100+,Pinot Noir,Other
+110,90-94,332,10-19,Red Blend,Mendoza Province
+111,85-89,271,10-19,Cabernet Sauvignon,Mendoza Province
+112,90-94,322,50-59,Malbec,Mendoza Province
+113,90-94,361,60-79,Red Blend,Other
+114,90-94,335,100+,Cabernet Sauvignon-Malbec,Mendoza Province
+115,85-89,285,10-19,Malbec,Mendoza Province
+116,90-94,206,20-29,Malbec,Mendoza Province
+117,90-94,268,10-19,Malbec,Mendoza Province
+118,90-94,352,80-99,Malbec-Cabernet Sauvignon,Mendoza Province
+119,85-89,214,10-19,Rosé,Mendoza Province
+120,85-89,307,10-19,Pinot Noir,Other
+121,90-94,345,60-79,Cabernet Franc,Mendoza Province
+122,90-94,337,100+,Malbec-Cabernet Sauvignon,Other
+123,85-89,280,20-29,Malbec,Other
+124,90-94,319,40-49,Malbec,Mendoza Province
+125,85-89,236,10-19,Malbec,Mendoza Province
+126,85-89,298,10-19,White Blend,Mendoza Province
+127,90-94,287,30-39,Malbec,Mendoza Province
+128,85-89,294,20-29,Malbec,Mendoza Province
+129,85-89,274,50-59,Malbec,Mendoza Province
+130,85-89,224,10-19,Malbec,Mendoza Province
+131,85-89,220,30-39,Pinot Noir,Other
+132,85-89,195,10-19,Malbec,Other
+133,85-89,199,30-39,Malbec,Mendoza Province
+134,85-89,271,60-79,Nebbiolo,Mendoza Province
+135,85-89,240,30-39,Malbec,Mendoza Province
+136,85-89,275,10-19,Malbec,Mendoza Province
+137,85-89,253,20-29,Malbec,Other
+138,90-94,360,60-79,Malbec,Mendoza Province
+139,90-94,239,20-29,Malbec,Mendoza Province
+140,90-94,285,20-29,Malbec,Mendoza Province
+141,90-94,291,20-29,Red Blend,Mendoza Province
+142,85-89,248,10-19,Torrontés,Other
+143,85-89,371,30-39,Cabernet Blend,Mendoza Province
+144,80-84,161,10-19,Malbec,Mendoza Province
+145,80-84,241,20-29,Malbec,Mendoza Province
+146,80-84,161,<10,Malbec,Mendoza Province
+147,80-84,221,10-19,Chardonnay,Mendoza Province
+148,80-84,216,10-19,Viognier,Mendoza Province
+149,80-84,153,10-19,Torrontés,Mendoza Province
+150,80-84,174,10-19,Cabernet Sauvignon,Other
+151,80-84,140,10-19,Cabernet Sauvignon,Mendoza Province
+152,80-84,190,20-29,Malbec,Mendoza Province
+153,80-84,184,10-19,Cabernet Sauvignon-Malbec,Mendoza Province
+154,85-89,232,10-19,Chardonnay,Mendoza Province
+155,85-89,224,10-19,Sparkling Blend,Mendoza Province
+156,85-89,273,10-19,Malbec-Syrah,Mendoza Province
+157,85-89,248,10-19,Pinot Grigio,Mendoza Province
+158,80-84,225,10-19,Viognier,Mendoza Province
+159,80-84,183,10-19,Chardonnay,Mendoza Province
+160,90-94,371,60-79,Cabernet Franc,Mendoza Province
+161,85-89,260,20-29,Malbec-Syrah,Mendoza Province
+162,85-89,186,10-19,Malbec-Syrah,Mendoza Province
+163,85-89,250,30-39,Malbec-Cabernet Sauvignon,Other
+164,85-89,218,10-19,Rosé,Mendoza Province
+165,80-84,217,10-19,Pinot Noir,Mendoza Province
+166,80-84,207,10-19,Cabernet Sauvignon,Other
+167,80-84,232,10-19,Cabernet Sauvignon,Other
+168,80-84,182,10-19,Bonarda,Other
+169,80-84,253,10-19,Bonarda,Mendoza Province
+170,85-89,291,50-59,Malbec,Mendoza Province
+171,90-94,253,20-29,Malbec,Other
+172,90-94,294,20-29,Malbec,Mendoza Province
+173,85-89,239,10-19,Malbec,Mendoza Province
+174,85-89,256,60-79,Malbec-Cabernet Sauvignon,Mendoza Province
+175,85-89,290,40-49,Cabernet Sauvignon,Mendoza Province
+176,85-89,323,50-59,Syrah-Viognier,Mendoza Province
+177,90-94,272,20-29,Malbec,Mendoza Province
+178,90-94,351,20-29,Bordeaux-style Red Blend,Mendoza Province
+179,85-89,249,20-29,Cabernet Franc,Mendoza Province
+180,85-89,209,10-19,Torrontés,Other
+181,85-89,244,20-29,Malbec,Mendoza Province
+182,85-89,281,20-29,Malbec,Mendoza Province
+183,85-89,228,10-19,Malbec,Mendoza Province
+184,85-89,212,10-19,Chardonnay,Mendoza Province
+185,80-84,202,10-19,Cabernet Sauvignon,Mendoza Province
+186,80-84,184,10-19,Torrontés,Other
+187,80-84,215,10-19,Sparkling Blend,Mendoza Province
+188,80-84,354,10-19,Malbec,Mendoza Province
+189,85-89,240,10-19,Pinot Gris,Mendoza Province
+190,90-94,275,20-29,Cabernet Franc,Mendoza Province
+191,90-94,228,40-49,Bordeaux-style Red Blend,Mendoza Province
+192,85-89,250,10-19,Malbec,Mendoza Province
+193,80-84,201,10-19,Chardonnay,Other
+194,90-94,299,60-79,Malbec,Mendoza Province
+195,90-94,260,100+,Red Blend,Mendoza Province
+196,85-89,208,10-19,Malbec,Mendoza Province
+197,85-89,207,10-19,Cabernet Franc,Other
+198,90-94,333,40-49,Malbec,Mendoza Province
+199,90-94,357,40-49,Malbec,Mendoza Province
+200,90-94,326,80-99,Malbec,Mendoza Province
+201,90-94,327,80-99,Malbec,Mendoza Province
+202,90-94,256,10-19,Malbec,Mendoza Province
+203,90-94,343,60-79,Malbec-Cabernet Sauvignon,Other
+204,85-89,264,<10,Cabernet Sauvignon,Mendoza Province
+205,90-94,343,50-59,Bordeaux-style Red Blend,Mendoza Province
+206,85-89,225,20-29,Cabernet Sauvignon,Mendoza Province
+207,85-89,214,10-19,Torrontés,Other
+208,90-94,290,40-49,Malbec,Mendoza Province
+209,90-94,296,30-39,Malbec,Mendoza Province
+210,95-99,361,60-79,Cabernet Sauvignon-Malbec,Mendoza Province
+211,85-89,333,10-19,Syrah,Mendoza Province
+212,85-89,362,20-29,Bordeaux-style Red Blend,Mendoza Province
+213,85-89,287,10-19,Malbec,Mendoza Province
+214,90-94,369,60-79,Red Blend,Mendoza Province
+215,90-94,320,80-99,Red Blend,Mendoza Province
+216,90-94,265,100+,Malbec,Mendoza Province
+217,80-84,232,10-19,Malbec,Mendoza Province
+218,80-84,220,20-29,Champagne Blend,Mendoza Province
+219,80-84,256,10-19,Cabernet Sauvignon,Mendoza Province
+220,90-94,330,80-99,Malbec,Mendoza Province
+221,85-89,283,10-19,Merlot,Mendoza Province
+222,85-89,332,10-19,Malbec,Mendoza Province
+223,85-89,286,10-19,Chardonnay,Mendoza Province
+224,85-89,250,10-19,Chardonnay,Mendoza Province
+225,85-89,284,10-19,Syrah,Mendoza Province
+226,90-94,297,50-59,Malbec,Mendoza Province
+227,90-94,241,30-39,Malbec,Mendoza Province
+228,85-89,265,10-19,Cabernet Sauvignon,Mendoza Province
+229,85-89,258,20-29,Syrah,Mendoza Province
+230,90-94,315,100+,Malbec,Mendoza Province
+231,90-94,378,100+,Malbec,Mendoza Province
+232,90-94,351,20-29,Malbec,Mendoza Province
+233,90-94,253,30-39,Chardonnay,Mendoza Province
+234,90-94,354,100+,Malbec,Mendoza Province
+235,85-89,257,10-19,Malbec,Mendoza Province
+236,85-89,199,10-19,Malbec,Mendoza Province
+237,85-89,249,10-19,Cabernet Sauvignon,Mendoza Province
+238,85-89,271,10-19,Red Blend,Mendoza Province
+239,85-89,224,10-19,Malbec,Mendoza Province
+240,85-89,288,20-29,Pinot Noir,Mendoza Province
+241,85-89,252,20-29,Malbec,Other
+242,85-89,275,10-19,Bonarda,Mendoza Province
+243,85-89,315,80-99,Malbec,Other
+244,85-89,255,20-29,Cabernet Sauvignon,Mendoza Province
+245,85-89,187,10-19,Malbec,Mendoza Province
+246,85-89,280,10-19,Malbec,Mendoza Province
+247,85-89,249,20-29,Cabernet Sauvignon,Mendoza Province
+248,85-89,291,20-29,Cabernet Sauvignon,Mendoza Province
+249,85-89,220,10-19,Malbec,Mendoza Province
+250,85-89,282,10-19,Malbec,Mendoza Province
+251,85-89,269,10-19,Bonarda,Mendoza Province
+252,85-89,237,10-19,Malbec,Mendoza Province
+253,90-94,294,40-49,Bordeaux-style Red Blend,Mendoza Province
+254,80-84,187,10-19,Sauvignon Blanc,Other
+255,80-84,231,10-19,Chardonnay,Other
+256,80-84,192,10-19,Malbec,Mendoza Province
+257,80-84,231,20-29,Chardonnay,Mendoza Province
+258,80-84,123,10-19,Sauvignon Blanc,Mendoza Province
+259,90-94,248,100+,Malbec,Mendoza Province
+260,90-94,342,100+,Malbec,Mendoza Province
+261,85-89,213,20-29,Malbec,Mendoza Province
+262,85-89,236,20-29,Malbec,Mendoza Province
+263,90-94,268,40-49,Malbec,Mendoza Province
+264,90-94,301,20-29,Cabernet Franc,Mendoza Province
+265,85-89,196,30-39,Cabernet Sauvignon,Mendoza Province
+266,80-84,233,10-19,Syrah,Mendoza Province
+267,80-84,294,10-19,Cabernet Sauvignon,Other
+268,80-84,246,10-19,Torrontés,Mendoza Province
+269,85-89,232,50-59,Malbec,Mendoza Province
+270,85-89,265,10-19,Cabernet Sauvignon,Mendoza Province
+271,90-94,309,20-29,Malbec,Other
+272,85-89,307,10-19,Champagne Blend,Mendoza Province
+273,80-84,225,10-19,Chardonnay,Mendoza Province
+274,80-84,237,10-19,Malbec,Other
+275,80-84,200,10-19,Torrontés,Other
+276,80-84,217,10-19,Cabernet Sauvignon,Mendoza Province
+277,80-84,251,10-19,Malbec,Mendoza Province
+278,80-84,273,10-19,Malbec,Mendoza Province
+279,85-89,228,10-19,Malbec,Mendoza Province
+280,85-89,208,40-49,Malbec,Other
+281,85-89,222,20-29,Red Blend,Other
+282,90-94,308,20-29,Malbec,Mendoza Province
+283,80-84,204,20-29,Malbec,Mendoza Province
+284,85-89,224,10-19,Bonarda,Mendoza Province
+285,85-89,262,10-19,Cabernet Sauvignon,Other
+286,85-89,282,10-19,Malbec,Mendoza Province
+287,85-89,227,10-19,Malbec,Mendoza Province
+288,85-89,246,20-29,Malbec,Mendoza Province
+289,80-84,222,10-19,Chardonnay,Mendoza Province
+290,80-84,256,10-19,Malbec,Mendoza Province
+291,80-84,267,10-19,Malbec,Mendoza Province
+292,80-84,272,10-19,Torrontés,Mendoza Province
+293,85-89,283,20-29,Chardonnay,Mendoza Province
+294,85-89,286,20-29,Malbec,Mendoza Province
+295,85-89,235,<10,Sauvignon Blanc,Mendoza Province
+296,85-89,291,10-19,Tempranillo,Mendoza Province
+297,85-89,305,20-29,Cabernet Sauvignon,Mendoza Province
+298,80-84,261,<10,Cabernet Sauvignon-Malbec,Mendoza Province
+299,80-84,127,<10,Chardonnay,Mendoza Province
+300,80-84,184,10-19,Torrontés,Mendoza Province
+301,80-84,238,10-19,Cabernet Sauvignon,Mendoza Province
+302,80-84,225,10-19,Cabernet Sauvignon,Mendoza Province
+303,80-84,120,10-19,Chardonnay,Mendoza Province
+304,85-89,306,20-29,Malbec,Mendoza Province
+305,80-84,186,10-19,Malbec,Other
+306,80-84,214,10-19,Cabernet Sauvignon,Mendoza Province
+307,80-84,243,10-19,Sparkling Blend,Other
+308,90-94,298,30-39,Cabernet Sauvignon,Mendoza Province
+309,90-94,256,40-49,Malbec,Mendoza Province
+310,90-94,296,30-39,Malbec-Cabernet Sauvignon,Mendoza Province
+311,90-94,285,100+,Malbec,Mendoza Province
+312,90-94,283,20-29,Malbec,Mendoza Province
+313,90-94,268,50-59,Malbec,Mendoza Province
+314,90-94,273,40-49,Malbec,Mendoza Province
+315,90-94,331,30-39,Red Blend,Mendoza Province
+316,90-94,267,100+,Cabernet Franc,Mendoza Province
+317,85-89,270,10-19,Torrontés,Other
+318,85-89,198,10-19,Sauvignon Blanc,Other
+319,85-89,247,10-19,Cabernet Sauvignon,Mendoza Province
+320,85-89,281,10-19,Malbec,Mendoza Province
+321,80-84,219,<10,Pinot Grigio,Other
+322,85-89,302,10-19,Malbec,Mendoza Province
+323,85-89,302,10-19,Bonarda,Mendoza Province
+324,85-89,372,20-29,Malbec-Cabernet Sauvignon,Mendoza Province
+325,85-89,216,20-29,Chardonnay,Mendoza Province
+326,85-89,306,20-29,Merlot-Cabernet Franc,Mendoza Province
+327,85-89,201,10-19,Malbec,Mendoza Province
+328,85-89,213,10-19,Cabernet Sauvignon,Mendoza Province
+329,85-89,253,10-19,Malbec,Mendoza Province
+330,80-84,241,10-19,Malbec,Mendoza Province
+331,80-84,281,10-19,Malbec,Mendoza Province
+332,80-84,253,10-19,Cabernet Sauvignon,Mendoza Province
+333,85-89,191,10-19,Malbec,Mendoza Province
+334,85-89,194,10-19,Malbec,Mendoza Province
+335,80-84,203,10-19,Malbec,Mendoza Province
+336,90-94,289,30-39,Malbec,Mendoza Province
+337,90-94,269,20-29,Red Blend,Mendoza Province
+338,85-89,302,30-39,Cabernet Sauvignon,Mendoza Province
+339,85-89,259,10-19,Bonarda,Mendoza Province
+340,85-89,356,10-19,Red Blend,Other
+341,85-89,271,20-29,Malbec,Mendoza Province
+342,85-89,205,10-19,Malbec,Mendoza Province
+343,85-89,276,20-29,Cabernet Sauvignon,Other
+344,85-89,301,20-29,Cabernet Sauvignon,Mendoza Province
+345,90-94,237,30-39,Malbec,Mendoza Province
+346,90-94,285,30-39,Cabernet Franc,Mendoza Province
+347,80-84,205,10-19,Chardonnay,Mendoza Province
+348,80-84,244,10-19,Cabernet Sauvignon,Mendoza Province
+349,80-84,225,10-19,Chardonnay,Mendoza Province
+350,85-89,272,10-19,Malbec,Mendoza Province
+351,85-89,253,10-19,Red Blend,Mendoza Province
+352,85-89,290,10-19,Cabernet Sauvignon,Mendoza Province
+353,80-84,198,10-19,Pinot Noir,Mendoza Province
+354,80-84,237,20-29,Chardonnay,Mendoza Province
+355,90-94,306,30-39,Malbec,Mendoza Province
+356,90-94,367,20-29,Bordeaux-style Red Blend,Mendoza Province
+357,85-89,286,20-29,Cabernet Sauvignon,Mendoza Province
+358,80-84,183,10-19,Cabernet Sauvignon-Malbec,Mendoza Province
+359,80-84,231,10-19,Torrontés,Mendoza Province
+360,80-84,249,10-19,Pinot Noir,Mendoza Province
+361,85-89,269,10-19,Malbec,Mendoza Province
+362,90-94,279,10-19,Cabernet Sauvignon,Mendoza Province
+363,80-84,236,10-19,Malbec,Mendoza Province
+364,90-94,241,20-29,Cabernet Franc,Mendoza Province
+365,90-94,265,20-29,Malbec,Mendoza Province
+366,85-89,215,10-19,Pinot Noir,Mendoza Province
+367,85-89,265,10-19,Malbec,Mendoza Province
+368,85-89,226,10-19,Riesling,Mendoza Province
+369,85-89,223,10-19,Malbec,Mendoza Province
+370,85-89,246,10-19,Bordeaux-style Red Blend,Mendoza Province
+371,85-89,250,10-19,Malbec,Mendoza Province
+372,85-89,200,10-19,Cabernet Sauvignon,Mendoza Province
+373,90-94,383,80-99,Malbec,Mendoza Province
+374,90-94,318,100+,Malbec,Other
+375,90-94,315,100+,Malbec,Mendoza Province
+376,85-89,247,10-19,Malbec,Mendoza Province
+377,85-89,281,20-29,Malbec,Mendoza Province
+378,85-89,210,10-19,Cabernet Sauvignon,Mendoza Province
+379,85-89,217,20-29,Sauvignon Blanc,Mendoza Province
+380,80-84,168,10-19,Chardonnay,Mendoza Province
+381,80-84,175,10-19,Torrontés,Mendoza Province
+382,85-89,184,10-19,Malbec,Mendoza Province
+383,85-89,282,10-19,Viognier,Other
+384,85-89,186,10-19,Malbec,Mendoza Province
+385,90-94,299,60-79,Malbec,Mendoza Province
+386,90-94,260,100+,Red Blend,Mendoza Province
+387,80-84,166,20-29,Sauvignon Blanc,Mendoza Province
+388,80-84,219,10-19,Malbec,Mendoza Province
+389,80-84,313,20-29,Sparkling Blend,Mendoza Province
+390,80-84,218,20-29,Malbec,Mendoza Province
+391,80-84,160,10-19,Sauvignon Blanc,Mendoza Province
+392,80-84,208,10-19,Merlot,Mendoza Province
+393,80-84,205,20-29,Red Blend,Mendoza Province
+394,85-89,185,10-19,Malbec,Mendoza Province
+395,85-89,313,20-29,Red Blend,Mendoza Province
+396,85-89,263,10-19,Malbec,Mendoza Province
+397,85-89,248,20-29,Malbec,Mendoza Province
+398,85-89,301,10-19,Tannat,Other
+399,85-89,276,10-19,Malbec,Mendoza Province
+400,85-89,200,30-39,Malbec,Mendoza Province
+401,85-89,285,50-59,White Blend,Mendoza Province
+402,80-84,257,10-19,Red Blend,Other
+403,80-84,154,10-19,Bonarda,Mendoza Province
+404,80-84,234,10-19,Malbec,Mendoza Province
+405,90-94,364,50-59,Malbec,Mendoza Province
+406,90-94,394,80-99,Malbec,Mendoza Province
+407,85-89,322,20-29,Red Blend,Mendoza Province
+408,85-89,235,10-19,Malbec,Mendoza Province
+409,90-94,333,50-59,Cabernet Sauvignon,Mendoza Province
+410,85-89,256,10-19,Red Blend,Other
+411,85-89,299,10-19,Cabernet Sauvignon,Other
+412,85-89,217,10-19,Malbec,Mendoza Province
+413,85-89,238,10-19,Red Blend,Mendoza Province
+414,85-89,222,10-19,Torrontés,Other
+415,85-89,257,10-19,Syrah,Other
+416,80-84,220,20-29,Rosé,Mendoza Province
+417,80-84,185,10-19,Malbec,Other
+418,80-84,244,10-19,Cabernet Sauvignon,Mendoza Province
+419,80-84,230,10-19,Malbec,Mendoza Province
+420,80-84,193,20-29,Cabernet Sauvignon,Mendoza Province
+421,90-94,285,30-39,Malbec,Mendoza Province
+422,85-89,297,20-29,Red Blend,Mendoza Province
+423,85-89,272,30-39,Malbec,Mendoza Province
+424,85-89,253,20-29,Cabernet Sauvignon,Mendoza Province
+425,85-89,270,<10,Chardonnay,Mendoza Province
+426,85-89,232,10-19,Cabernet Sauvignon,Mendoza Province
+427,80-84,157,10-19,Malbec,Mendoza Province
+428,80-84,224,10-19,Sparkling Blend,Mendoza Province
+429,80-84,215,10-19,Chardonnay,Mendoza Province
+430,80-84,174,10-19,Malbec,Mendoza Province
+431,80-84,207,10-19,Malbec,Other
+432,80-84,165,10-19,Malbec,Mendoza Province
+433,80-84,245,10-19,Malbec,Mendoza Province
+434,85-89,178,10-19,Tocai,Mendoza Province
+435,85-89,251,10-19,Pinot Noir,Mendoza Province
+436,85-89,190,10-19,Sauvignon Blanc,Mendoza Province
+437,90-94,323,30-39,Bordeaux-style Red Blend,Mendoza Province
+438,90-94,315,60-79,Malbec,Mendoza Province
+439,90-94,256,20-29,Malbec,Mendoza Province
+440,90-94,320,60-79,Petit Verdot,Mendoza Province
+441,80-84,258,30-39,White Blend,Mendoza Province
+442,80-84,166,10-19,Cabernet Sauvignon,Mendoza Province
+443,90-94,402,50-59,Red Blend,Mendoza Province
+444,90-94,368,100+,Red Blend,Mendoza Province
+445,85-89,268,10-19,Malbec,Mendoza Province
+446,85-89,217,10-19,Malbec,Mendoza Province
+447,85-89,195,10-19,Cabernet Sauvignon,Mendoza Province
+448,85-89,180,10-19,Cabernet Sauvignon,Mendoza Province
+449,85-89,198,10-19,Cabernet Sauvignon,Other
+450,90-94,224,40-49,Malbec,Mendoza Province
+451,90-94,353,40-49,Malbec,Mendoza Province
+452,85-89,211,10-19,Malbec,Mendoza Province
+453,90-94,295,40-49,Malbec-Petit Verdot,Mendoza Province
+454,90-94,283,30-39,Malbec,Mendoza Province
+455,85-89,242,10-19,Chardonnay,Mendoza Province
+456,85-89,165,10-19,Chardonnay,Mendoza Province
+457,80-84,188,10-19,Cabernet Sauvignon,Mendoza Province
+458,80-84,182,10-19,Chardonnay,Mendoza Province
+459,80-84,225,10-19,Torrontés,Mendoza Province
+460,80-84,193,20-29,Malbec,Mendoza Province
+461,80-84,179,20-29,Sangiovese,Mendoza Province
+462,80-84,222,10-19,Malbec,Mendoza Province
+463,85-89,252,20-29,Champagne Blend,Mendoza Province
+464,85-89,253,50-59,Malbec,Mendoza Province
+465,80-84,168,10-19,Sauvignon Blanc,Mendoza Province
+466,80-84,173,10-19,Chardonnay,Mendoza Province
+467,80-84,175,10-19,Malbec,Mendoza Province
+468,80-84,202,10-19,Malbec,Other
+469,80-84,227,10-19,Sparkling Blend,Mendoza Province
+470,80-84,259,20-29,Red Blend,Other
+471,85-89,280,20-29,Cabernet Sauvignon,Mendoza Province
+472,85-89,213,20-29,Malbec,Mendoza Province
+473,85-89,227,20-29,Sauvignon Blanc,Other
+474,85-89,282,30-39,Chardonnay,Mendoza Province
+475,85-89,232,10-19,Malbec,Mendoza Province
+476,85-89,233,10-19,Malbec,Mendoza Province
+477,85-89,234,40-49,Malbec,Mendoza Province
+478,85-89,330,20-29,Bordeaux-style Red Blend,Mendoza Province
+479,85-89,289,10-19,Merlot,Mendoza Province
+480,85-89,215,10-19,Pinot Noir,Mendoza Province
+481,85-89,246,10-19,Cabernet Sauvignon,Mendoza Province
+482,90-94,354,10-19,Malbec,Mendoza Province
+483,90-94,340,20-29,Red Blend,Mendoza Province
+484,90-94,273,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+485,80-84,229,10-19,Malbec,Mendoza Province
+486,80-84,207,10-19,Pinot Noir,Mendoza Province
+487,80-84,219,20-29,Malbec,Mendoza Province
+488,80-84,232,10-19,Malbec,Mendoza Province
+489,85-89,226,10-19,Rosado,Mendoza Province
+490,85-89,248,10-19,Malbec,Mendoza Province
+491,85-89,297,100+,Chardonnay,Mendoza Province
+492,85-89,244,10-19,Pinot Noir,Mendoza Province
+493,80-84,184,10-19,Malbec,Mendoza Province
+494,85-89,252,20-29,Malbec,Other
+495,85-89,233,20-29,Chardonnay,Mendoza Province
+496,90-94,296,20-29,Red Blend,Mendoza Province
+497,90-94,300,100+,Malbec,Mendoza Province
+498,90-94,321,100+,Malbec,Mendoza Province
+499,85-89,279,10-19,Malbec,Mendoza Province
+500,85-89,285,20-29,Pinot Noir,Other
+501,90-94,259,40-49,Malbec,Mendoza Province
+502,90-94,297,30-39,Malbec,Mendoza Province
+503,90-94,269,30-39,Red Blend,Mendoza Province
+504,90-94,276,20-29,Bordeaux-style Red Blend,Mendoza Province
+505,90-94,242,20-29,Malbec,Mendoza Province
+506,85-89,256,30-39,Bordeaux-style Red Blend,Mendoza Province
+507,90-94,270,20-29,Cabernet Franc,Mendoza Province
+508,90-94,325,30-39,Malbec,Mendoza Province
+509,90-94,250,10-19,Bonarda,Mendoza Province
+510,90-94,248,10-19,Cabernet Franc,Mendoza Province
+511,90-94,341,60-79,Malbec,Mendoza Province
+512,90-94,262,100+,Malbec,Mendoza Province
+513,90-94,324,100+,Cabernet Franc,Mendoza Province
+514,85-89,268,20-29,Chardonnay,Mendoza Province
+515,85-89,258,10-19,Cabernet Sauvignon,Mendoza Province
+516,85-89,269,10-19,Sauvignon Blanc,Mendoza Province
+517,80-84,114,<10,Moscato,Mendoza Province
+518,80-84,135,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+519,80-84,110,<10,Malbec,Mendoza Province
+520,85-89,283,10-19,Cabernet Sauvignon,Mendoza Province
+521,85-89,279,10-19,Torrontés,Other
+522,80-84,264,40-49,Red Blend,Other
+523,80-84,287,10-19,Merlot,Mendoza Province
+524,90-94,256,40-49,Red Blend,Mendoza Province
+525,90-94,310,40-49,Malbec,Mendoza Province
+526,90-94,339,50-59,Cabernet Sauvignon,Mendoza Province
+527,85-89,241,20-29,Chardonnay,Mendoza Province
+528,85-89,248,10-19,Malbec,Other
+529,85-89,221,10-19,Malbec,Mendoza Province
+530,85-89,224,10-19,Sparkling Blend,Mendoza Province
+531,85-89,285,10-19,Malbec-Syrah,Mendoza Province
+532,85-89,300,20-29,Cabernet Sauvignon,Mendoza Province
+533,85-89,245,20-29,Malbec,Mendoza Province
+534,85-89,273,10-19,Malbec,Mendoza Province
+535,85-89,274,10-19,Malbec,Mendoza Province
+536,85-89,252,20-29,Malbec,Mendoza Province
+537,85-89,193,10-19,Torrontés,Other
+538,85-89,222,20-29,Malbec,Other
+539,85-89,171,10-19,Rosé,Mendoza Province
+540,85-89,224,10-19,Red Blend,Mendoza Province
+541,85-89,217,10-19,Chardonnay,Mendoza Province
+542,85-89,216,10-19,Sauvignon Blanc,Mendoza Province
+543,85-89,206,10-19,Sauvignon Blanc,Mendoza Province
+544,80-84,160,10-19,Malbec,Mendoza Province
+545,80-84,309,30-39,Malbec,Other
+546,80-84,240,10-19,Sauvignon Blanc,Mendoza Province
+547,80-84,327,30-39,Bonarda,Mendoza Province
+548,85-89,230,<10,Chardonnay,Mendoza Province
+549,85-89,257,20-29,Cabernet Sauvignon,Mendoza Province
+550,85-89,306,10-19,Bordeaux-style Red Blend,Mendoza Province
+551,85-89,323,10-19,Red Blend,Mendoza Province
+552,85-89,225,10-19,Torrontés,Mendoza Province
+553,90-94,356,20-29,Malbec,Mendoza Province
+554,85-89,333,10-19,Chardonnay,Mendoza Province
+555,85-89,323,10-19,Tempranillo,Mendoza Province
+556,85-89,213,10-19,Merlot,Mendoza Province
+557,85-89,261,10-19,Chardonnay,Mendoza Province
+558,85-89,242,20-29,Cabernet Sauvignon,Mendoza Province
+559,85-89,191,10-19,Malbec,Mendoza Province
+560,85-89,272,10-19,Cabernet Sauvignon,Mendoza Province
+561,90-94,313,60-79,Red Blend,Other
+562,90-94,324,50-59,Bordeaux-style Red Blend,Mendoza Province
+563,85-89,217,20-29,Malbec,Mendoza Province
+564,85-89,201,10-19,Malbec,Mendoza Province
+565,85-89,225,10-19,Cabernet Sauvignon,Mendoza Province
+566,85-89,214,20-29,Chardonnay,Mendoza Province
+567,85-89,197,10-19,Torrontés,Other
+568,85-89,236,<10,Rosé,Mendoza Province
+569,85-89,218,10-19,Malbec,Mendoza Province
+570,85-89,256,10-19,Red Blend,Mendoza Province
+571,85-89,224,10-19,Sparkling Blend,Mendoza Province
+572,90-94,325,100+,Malbec,Mendoza Province
+573,85-89,210,10-19,Malbec,Mendoza Province
+574,85-89,229,10-19,Malbec,Other
+575,85-89,258,10-19,Torrontés,Other
+576,85-89,258,10-19,Torrontés,Other
+577,85-89,196,10-19,Cabernet Sauvignon,Other
+578,85-89,204,10-19,Torrontés,Mendoza Province
+579,85-89,263,10-19,White Blend,Other
+580,90-94,249,10-19,Malbec,Mendoza Province
+581,80-84,159,10-19,Malbec,Other
+582,80-84,220,10-19,Torrontés,Mendoza Province
+583,80-84,213,10-19,Torrontés,Mendoza Province
+584,85-89,262,20-29,Cabernet Sauvignon,Mendoza Province
+585,90-94,341,40-49,Malbec,Mendoza Province
+586,90-94,317,40-49,Malbec,Other
+587,85-89,244,20-29,Malbec,Mendoza Province
+588,85-89,215,10-19,Malbec,Mendoza Province
+589,85-89,224,10-19,Torrontés,Other
+590,85-89,257,10-19,Red Blend,Mendoza Province
+591,90-94,368,50-59,Bordeaux-style Red Blend,Mendoza Province
+592,90-94,354,10-19,Malbec,Mendoza Province
+593,85-89,234,30-39,Pinot Noir,Mendoza Province
+594,90-94,311,100+,Malbec-Cabernet,Mendoza Province
+595,90-94,238,50-59,Malbec,Mendoza Province
+596,90-94,265,30-39,Petit Verdot,Mendoza Province
+597,90-94,254,20-29,Malbec,Mendoza Province
+598,90-94,367,60-79,Malbec,Mendoza Province
+599,80-84,250,10-19,Sparkling Blend,Other
+600,80-84,345,<10,Sparkling Blend,Other
+601,85-89,226,10-19,Malbec,Mendoza Province
+602,85-89,277,20-29,Malbec,Mendoza Province
+603,90-94,355,50-59,Malbec,Mendoza Province
+604,90-94,245,30-39,Malbec-Cabernet Sauvignon,Mendoza Province
+605,85-89,273,20-29,Malbec,Mendoza Province
+606,85-89,250,<10,Pinot Grigio,Other
+607,85-89,258,20-29,Malbec,Mendoza Province
+608,85-89,393,20-29,Malbec,Mendoza Province
+609,85-89,233,10-19,Cabernet Sauvignon,Mendoza Province
+610,85-89,252,10-19,Torrontés,Mendoza Province
+611,85-89,239,10-19,Malbec,Mendoza Province
+612,85-89,232,10-19,Pinot Noir,Other
+613,85-89,251,10-19,Malbec,Mendoza Province
+614,85-89,258,20-29,Malbec,Mendoza Province
+615,85-89,290,10-19,Cabernet Sauvignon,Mendoza Province
+616,85-89,299,10-19,Sémillon,Mendoza Province
+617,85-89,237,10-19,Chardonnay,Mendoza Province
+618,85-89,294,30-39,Malbec,Other
+619,85-89,266,10-19,Bonarda,Mendoza Province
+620,85-89,224,10-19,Malbec,Mendoza Province
+621,85-89,204,10-19,Sauvignon Blanc,Other
+622,85-89,187,20-29,Chardonnay,Mendoza Province
+623,90-94,348,20-29,Malbec,Mendoza Province
+624,90-94,337,20-29,Malbec,Mendoza Province
+625,85-89,313,10-19,Pinot Noir,Mendoza Province
+626,85-89,258,20-29,Malbec,Mendoza Province
+627,85-89,269,50-59,Cabernet Franc,Mendoza Province
+628,85-89,323,20-29,Pinot Noir,Other
+629,85-89,257,40-49,Chardonnay,Mendoza Province
+630,85-89,305,20-29,Malbec,Mendoza Province
+631,85-89,234,20-29,Malbec,Mendoza Province
+632,80-84,222,10-19,Cabernet Sauvignon,Other
+633,80-84,211,10-19,White Blend,Other
+634,80-84,218,<10,Torrontés,Mendoza Province
+635,80-84,203,20-29,Merlot,Other
+636,80-84,264,10-19,Cabernet Sauvignon,Mendoza Province
+637,80-84,229,10-19,Cabernet Sauvignon,Mendoza Province
+638,90-94,379,40-49,Bordeaux-style Red Blend,Mendoza Province
+639,90-94,326,20-29,Malbec,Mendoza Province
+640,80-84,254,10-19,Viognier,Mendoza Province
+641,90-94,251,30-39,Bordeaux-style Red Blend,Mendoza Province
+642,85-89,220,10-19,Pinot Noir,Mendoza Province
+643,85-89,219,10-19,Bonarda,Other
+644,85-89,224,30-39,Cabernet Franc,Mendoza Province
+645,85-89,256,10-19,Torrontés,Mendoza Province
+646,85-89,250,10-19,Malbec,Mendoza Province
+647,85-89,221,10-19,Cabernet Sauvignon,Mendoza Province
+648,85-89,238,10-19,Red Blend,Mendoza Province
+649,85-89,222,10-19,Torrontés,Other
+650,85-89,263,30-39,Red Blend,Mendoza Province
+651,90-94,279,50-59,Malbec,Mendoza Province
+652,85-89,215,10-19,Pinot Grigio,Mendoza Province
+653,85-89,234,10-19,Chenin Blanc-Chardonnay,Mendoza Province
+654,85-89,166,10-19,Pinot Noir,Mendoza Province
+655,85-89,155,30-39,Bordeaux-style Red Blend,Mendoza Province
+656,85-89,201,10-19,Malbec,Mendoza Province
+657,80-84,240,10-19,Malbec,Mendoza Province
+658,80-84,190,10-19,Cabernet Sauvignon,Mendoza Province
+659,80-84,236,<10,Malbec-Syrah,Mendoza Province
+660,80-84,277,10-19,Chardonnay-Viognier,Mendoza Province
+661,85-89,221,10-19,Malbec,Mendoza Province
+662,85-89,203,10-19,Cabernet Sauvignon,Mendoza Province
+663,85-89,206,20-29,Malbec,Mendoza Province
+664,85-89,268,10-19,Torrontés,Other
+665,85-89,226,10-19,Cabernet Sauvignon,Mendoza Province
+666,85-89,217,60-79,Red Blend,Mendoza Province
+667,80-84,265,20-29,White Blend,Mendoza Province
+668,80-84,246,10-19,Sauvignon Blanc,Mendoza Province
+669,80-84,196,20-29,Malbec,Mendoza Province
+670,90-94,316,20-29,Malbec,Mendoza Province
+671,90-94,280,100+,Cabernet Franc,Mendoza Province
+672,85-89,195,10-19,Pinot Grigio,Mendoza Province
+673,85-89,200,20-29,Cabernet Franc,Other
+674,90-94,341,30-39,Malbec,Mendoza Province
+675,90-94,288,20-29,Cabernet Sauvignon,Mendoza Province
+676,90-94,314,30-39,Malbec,Mendoza Province
+677,90-94,261,100+,Malbec,Mendoza Province
+678,90-94,341,80-99,Cabernet Sauvignon,Mendoza Province
+679,90-94,291,60-79,Malbec,Mendoza Province
+680,90-94,315,60-79,Malbec,Mendoza Province
+681,90-94,323,20-29,Red Blend,Mendoza Province
+682,90-94,288,30-39,Red Blend,Mendoza Province
+683,85-89,296,60-79,Nebbiolo,Mendoza Province
+684,85-89,239,40-49,Cabernet Sauvignon-Malbec,Mendoza Province
+685,85-89,235,10-19,Chardonnay,Mendoza Province
+686,90-94,267,10-19,Malbec,Mendoza Province
+687,85-89,292,20-29,Malbec,Mendoza Province
+688,85-89,287,10-19,Malbec,Mendoza Province
+689,80-84,228,10-19,Cabernet Sauvignon,Other
+690,80-84,200,10-19,Tempranillo,Mendoza Province
+691,85-89,268,10-19,Cabernet Sauvignon,Mendoza Province
+692,85-89,187,10-19,Syrah,Mendoza Province
+693,85-89,182,10-19,Malbec,Other
+694,85-89,204,10-19,Malbec-Syrah,Mendoza Province
+695,85-89,174,10-19,Chardonnay,Mendoza Province
+696,85-89,185,40-49,Sauvignon Blanc,Mendoza Province
+697,85-89,228,40-49,Cabernet Franc,Mendoza Province
+698,85-89,169,10-19,Cabernet Sauvignon,Mendoza Province
+699,85-89,179,10-19,Cabernet Sauvignon,Mendoza Province
+700,85-89,217,10-19,Torrontés,Other
+701,85-89,206,20-29,Sparkling Blend,Mendoza Province
+702,85-89,184,10-19,Torrontés,Other
+703,80-84,128,20-29,Cabernet Sauvignon,Mendoza Province
+704,80-84,158,10-19,Rosé,Mendoza Province
+705,80-84,210,20-29,Chardonnay,Mendoza Province
+706,80-84,161,10-19,Chardonnay,Mendoza Province
+707,80-84,237,10-19,Merlot,Mendoza Province
+708,80-84,204,10-19,Chardonnay,Other
+709,90-94,309,30-39,Red Blend,Mendoza Province
+710,90-94,260,30-39,Cabernet Sauvignon,Mendoza Province
+711,90-94,357,60-79,Malbec,Mendoza Province
+712,85-89,249,10-19,Malbec-Syrah,Mendoza Province
+713,85-89,328,40-49,Malbec,Mendoza Province
+714,85-89,250,10-19,Cabernet Sauvignon,Mendoza Province
+715,90-94,323,10-19,Malbec,Mendoza Province
+716,90-94,214,20-29,Malbec,Mendoza Province
+717,90-94,383,30-39,Malbec,Mendoza Province
+718,90-94,290,20-29,Pinot Noir,Other
+719,90-94,380,100+,Malbec,Mendoza Province
+720,90-94,261,40-49,Red Blend,Mendoza Province
+721,90-94,338,40-49,Red Blend,Other
+722,80-84,274,10-19,Bordeaux-style Red Blend,Mendoza Province
+723,90-94,327,20-29,Malbec,Mendoza Province
+724,90-94,338,60-79,Malbec,Mendoza Province
+725,90-94,310,20-29,Malbec,Mendoza Province
+726,85-89,257,20-29,Malbec,Mendoza Province
+727,85-89,221,10-19,Malbec,Mendoza Province
+728,85-89,241,30-39,Red Blend,Mendoza Province
+729,85-89,232,10-19,Malbec,Mendoza Province
+730,85-89,242,10-19,Merlot,Mendoza Province
+731,80-84,215,10-19,Malbec,Mendoza Province
+732,90-94,363,40-49,Red Blend,Other
+733,90-94,309,50-59,Malbec,Mendoza Province
+734,85-89,281,10-19,Cabernet Sauvignon,Mendoza Province
+735,85-89,201,10-19,Malbec,Mendoza Province
+736,90-94,260,40-49,Malbec,Mendoza Province
+737,85-89,268,20-29,Cabernet Sauvignon,Mendoza Province
+738,85-89,309,80-99,Chardonnay,Mendoza Province
+739,85-89,210,10-19,Bonarda,Mendoza Province
+740,85-89,251,10-19,Merlot,Mendoza Province
+741,85-89,244,10-19,Cabernet Sauvignon,Mendoza Province
+742,85-89,257,10-19,Malbec,Mendoza Province
+743,85-89,270,10-19,Chardonnay,Mendoza Province
+744,85-89,231,10-19,Malbec,Mendoza Province
+745,80-84,219,20-29,Malbec,Mendoza Province
+746,80-84,213,10-19,Chardonnay,Mendoza Province
+747,80-84,210,10-19,Torrontés,Mendoza Province
+748,85-89,280,20-29,Cabernet Sauvignon,Mendoza Province
+749,85-89,332,20-29,Red Blend,Mendoza Province
+750,85-89,278,10-19,Malbec,Mendoza Province
+751,85-89,213,10-19,Malbec,Mendoza Province
+752,85-89,280,10-19,Pinot Grigio,Mendoza Province
+753,85-89,276,10-19,Malbec,Mendoza Province
+754,85-89,267,10-19,Malbec,Mendoza Province
+755,80-84,211,10-19,Chardonnay,Mendoza Province
+756,80-84,236,10-19,Cabernet Sauvignon,Mendoza Province
+757,80-84,237,20-29,Cabernet Sauvignon,Other
+758,80-84,235,10-19,Malbec,Other
+759,80-84,261,10-19,Malbec,Other
+760,85-89,211,10-19,Malbec,Mendoza Province
+761,85-89,256,10-19,Malbec,Mendoza Province
+762,85-89,227,10-19,Malbec,Mendoza Province
+763,85-89,267,10-19,Malbec,Mendoza Province
+764,85-89,199,10-19,Malbec,Mendoza Province
+765,85-89,207,10-19,Torrontés,Mendoza Province
+766,85-89,200,10-19,Cabernet Sauvignon,Mendoza Province
+767,80-84,245,20-29,Syrah,Mendoza Province
+768,80-84,136,10-19,Syrah,Mendoza Province
+769,80-84,149,10-19,Bordeaux-style Red Blend,Mendoza Province
+770,80-84,134,10-19,Pinot Grigio,Other
+771,90-94,347,30-39,Cabernet Blend,Mendoza Province
+772,85-89,295,10-19,Cabernet Sauvignon,Mendoza Province
+773,85-89,232,10-19,Torrontés,Mendoza Province
+774,85-89,201,10-19,Malbec,Mendoza Province
+775,85-89,308,10-19,Malbec,Mendoza Province
+776,85-89,230,10-19,Malbec,Mendoza Province
+777,80-84,224,10-19,Syrah,Mendoza Province
+778,80-84,219,<10,Pinot Grigio,Other
+779,80-84,237,20-29,Cabernet Sauvignon,Other
+780,80-84,274,10-19,Malbec,Mendoza Province
+781,85-89,337,10-19,Sauvignon Blanc,Mendoza Province
+782,90-94,283,20-29,Malbec,Mendoza Province
+783,90-94,310,40-49,Malbec,Mendoza Province
+784,85-89,241,30-39,Red Blend,Mendoza Province
+785,85-89,232,10-19,Malbec,Mendoza Province
+786,85-89,293,20-29,Malbec,Mendoza Province
+787,90-94,310,60-79,Red Blend,Mendoza Province
+788,90-94,261,40-49,Malbec,Mendoza Province
+789,90-94,287,20-29,Malbec,Mendoza Province
+790,85-89,226,10-19,Riesling,Mendoza Province
+791,85-89,238,10-19,Malbec,Mendoza Province
+792,80-84,257,10-19,Syrah,Mendoza Province
+793,85-89,263,30-39,Malbec,Other
+794,85-89,200,10-19,Malbec,Mendoza Province
+795,85-89,228,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+796,85-89,217,20-29,Cabernet Sauvignon,Mendoza Province
+797,90-94,250,40-49,Malbec,Mendoza Province
+798,90-94,261,40-49,Red Blend,Mendoza Province
+799,85-89,276,10-19,Malbec,Mendoza Province
+800,85-89,257,<10,Pinot Noir,Other
+801,90-94,278,30-39,Malbec,Mendoza Province
+802,85-89,322,10-19,Red Blend,Mendoza Province
+803,80-84,262,40-49,Cabernet Franc,Mendoza Province
+804,80-84,148,10-19,Torrontés,Mendoza Province
+805,80-84,160,10-19,Malbec,Mendoza Province
+806,80-84,259,10-19,Cabernet Franc,Other
+807,80-84,180,<10,Malbec,Mendoza Province
+808,80-84,213,10-19,Chardonnay,Mendoza Province
+809,80-84,188,<10,Pinot Grigio,Other
+810,85-89,180,10-19,Bonarda,Mendoza Province
+811,90-94,316,80-99,Red Blend,Mendoza Province
+812,90-94,254,40-49,Chardonnay,Mendoza Province
+813,90-94,338,60-79,Malbec,Mendoza Province
+814,85-89,242,20-29,Bonarda,Mendoza Province
+815,85-89,252,10-19,Malbec,Mendoza Province
+816,90-94,277,10-19,Malbec,Mendoza Province
+817,90-94,328,30-39,Red Blend,Mendoza Province
+818,85-89,232,10-19,Malbec,Other
+819,90-94,264,30-39,Petit Verdot,Mendoza Province
+820,90-94,348,100+,Malbec,Mendoza Province
+821,90-94,221,20-29,Malbec,Mendoza Province
+822,85-89,277,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+823,90-94,307,30-39,Cabernet Franc-Malbec,Mendoza Province
+824,85-89,249,10-19,Bonarda,Mendoza Province
+825,85-89,232,10-19,Malbec,Mendoza Province
+826,85-89,254,20-29,Malbec,Mendoza Province
+827,85-89,221,10-19,Malbec,Mendoza Province
+828,85-89,243,20-29,Malbec,Mendoza Province
+829,80-84,171,10-19,Malbec,Other
+830,80-84,202,10-19,Cabernet Sauvignon,Other
+831,80-84,170,20-29,Cabernet Sauvignon,Mendoza Province
+832,80-84,261,10-19,Cabernet Sauvignon,Other
+833,85-89,216,10-19,Red Blend,Mendoza Province
+834,80-84,231,10-19,Red Blend,Mendoza Province
+835,90-94,348,60-79,Cabernet Sauvignon-Malbec,Other
+836,90-94,285,20-29,Red Blend,Mendoza Province
+837,90-94,278,100+,Malbec,Mendoza Province
+838,90-94,275,100+,Malbec,Mendoza Province
+839,90-94,273,40-49,Malbec,Mendoza Province
+840,90-94,285,30-39,Malbec,Mendoza Province
+841,90-94,254,80-99,Malbec,Mendoza Province
+842,80-84,202,10-19,Malbec,Mendoza Province
+843,80-84,238,10-19,Cabernet Sauvignon,Mendoza Province
+844,80-84,221,10-19,Malbec,Mendoza Province
+845,80-84,214,10-19,Torrontés,Mendoza Province
+846,85-89,202,10-19,Cabernet Sauvignon,Mendoza Province
+847,85-89,245,20-29,Malbec,Mendoza Province
+848,85-89,300,20-29,Cabernet Sauvignon,Mendoza Province
+849,85-89,226,20-29,Malbec,Mendoza Province
+850,85-89,167,30-39,Sparkling Blend,Other
+851,85-89,241,20-29,White Blend,Mendoza Province
+852,90-94,307,40-49,Malbec,Mendoza Province
+853,85-89,202,10-19,Malbec,Mendoza Province
+854,85-89,191,10-19,Cabernet Sauvignon,Mendoza Province
+855,90-94,270,10-19,Cabernet Sauvignon,Mendoza Province
+856,85-89,289,10-19,Cabernet Sauvignon,Mendoza Province
+857,85-89,237,10-19,Malbec,Mendoza Province
+858,85-89,216,10-19,Malbec,Mendoza Province
+859,85-89,237,10-19,Chardonnay,Mendoza Province
+860,85-89,222,10-19,Malbec,Mendoza Province
+861,85-89,256,10-19,Red Blend,Mendoza Province
+862,85-89,265,10-19,Cabernet Sauvignon,Mendoza Province
+863,80-84,193,10-19,Torrontés,Mendoza Province
+864,80-84,227,10-19,Malbec,Other
+865,80-84,213,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+866,90-94,277,10-19,Cabernet Franc,Other
+867,90-94,259,60-79,Cabernet Franc,Mendoza Province
+868,85-89,181,10-19,Malbec,Mendoza Province
+869,90-94,271,10-19,Malbec,Mendoza Province
+870,85-89,202,10-19,Malbec,Mendoza Province
+871,85-89,192,10-19,Malbec,Mendoza Province
+872,85-89,208,10-19,Cabernet Sauvignon,Mendoza Province
+873,85-89,203,10-19,Malbec,Mendoza Province
+874,85-89,286,30-39,Malbec,Mendoza Province
+875,90-94,312,80-99,Malbec,Mendoza Province
+876,90-94,265,20-29,Cabernet Franc,Mendoza Province
+877,90-94,305,10-19,Malbec,Other
+878,90-94,286,10-19,Red Blend,Mendoza Province
+879,90-94,317,20-29,Malbec,Other
+880,85-89,234,30-39,Cabernet Franc,Mendoza Province
+881,80-84,171,10-19,Malbec,Mendoza Province
+882,80-84,181,10-19,Cabernet Sauvignon,Mendoza Province
+883,80-84,168,10-19,Malbec,Mendoza Province
+884,80-84,198,10-19,Rosé,Mendoza Province
+885,95-99,380,60-79,Bordeaux-style Red Blend,Mendoza Province
+886,85-89,249,30-39,Pinot Noir,Other
+887,80-84,200,10-19,Cabernet Sauvignon,Mendoza Province
+888,90-94,307,80-99,Malbec,Mendoza Province
+889,90-94,338,30-39,Malbec,Mendoza Province
+890,90-94,376,100+,Cabernet Sauvignon,Mendoza Province
+891,90-94,361,60-79,Malbec,Mendoza Province
+892,85-89,228,10-19,White Blend,Other
+893,85-89,240,10-19,Rosé,Mendoza Province
+894,85-89,253,10-19,Torrontés,Other
+895,85-89,278,20-29,Chardonnay,Mendoza Province
+896,85-89,229,20-29,Cabernet Sauvignon,Mendoza Province
+897,80-84,322,20-29,Malbec,Other
+898,85-89,280,<10,Torrontés,Other
+899,85-89,254,10-19,Cabernet Sauvignon,Mendoza Province
+900,85-89,289,10-19,Chardonnay,Mendoza Province
+901,85-89,261,10-19,Malbec,Mendoza Province
+902,90-94,267,10-19,Malbec,Mendoza Province
+903,90-94,258,30-39,Malbec,Mendoza Province
+904,90-94,343,40-49,Malbec-Cabernet Franc,Mendoza Province
+905,85-89,292,10-19,Malbec,Other
+906,85-89,301,10-19,Bonarda,Mendoza Province
+907,85-89,285,10-19,Syrah,Mendoza Province
+908,85-89,351,30-39,Bordeaux-style Red Blend,Other
+909,85-89,276,10-19,Cabernet Sauvignon,Mendoza Province
+910,85-89,323,20-29,Sparkling Blend,Mendoza Province
+911,80-84,196,10-19,Torrontés,Mendoza Province
+912,85-89,229,10-19,Malbec,Mendoza Province
+913,85-89,323,50-59,Syrah-Viognier,Mendoza Province
+914,85-89,189,10-19,Sparkling Blend,Mendoza Province
+915,85-89,259,10-19,Malbec,Mendoza Province
+916,80-84,240,10-19,Sparkling Blend,Mendoza Province
+917,85-89,236,10-19,Merlot,Mendoza Province
+918,85-89,237,10-19,Torrontés,Other
+919,85-89,242,10-19,Cabernet Sauvignon,Other
+920,85-89,226,10-19,Cabernet Sauvignon,Mendoza Province
+921,85-89,220,20-29,Cabernet Sauvignon,Mendoza Province
+922,85-89,221,10-19,Pinot Noir,Mendoza Province
+923,85-89,280,10-19,Malbec,Mendoza Province
+924,90-94,275,20-29,Malbec,Mendoza Province
+925,80-84,271,10-19,Cabernet Sauvignon,Mendoza Province
+926,90-94,320,30-39,Red Blend,Mendoza Province
+927,90-94,249,20-29,Malbec,Mendoza Province
+928,85-89,217,60-79,Red Blend,Mendoza Province
+929,85-89,215,10-19,Cabernet Sauvignon,Mendoza Province
+930,85-89,236,20-29,Malbec,Mendoza Province
+931,85-89,221,50-59,Red Blend,Mendoza Province
+932,85-89,204,10-19,Cabernet Sauvignon,Mendoza Province
+933,85-89,239,20-29,Pinot Noir,Other
+934,90-94,331,60-79,Malbec,Other
+935,85-89,224,20-29,Red Blend,Mendoza Province
+936,85-89,223,10-19,Red Blend,Mendoza Province
+937,85-89,217,20-29,Cabernet Sauvignon,Mendoza Province
+938,85-89,263,20-29,Bonarda,Mendoza Province
+939,90-94,231,20-29,Malbec,Mendoza Province
+940,85-89,312,10-19,Malbec,Mendoza Province
+941,90-94,214,20-29,Malbec,Mendoza Province
+942,90-94,304,50-59,Cabernet Sauvignon,Mendoza Province
+943,85-89,305,40-49,Red Blend,Mendoza Province
+944,85-89,147,10-19,Chardonnay,Mendoza Province
+945,85-89,239,10-19,Malbec,Mendoza Province
+946,85-89,259,40-49,Bonarda,Mendoza Province
+947,90-94,314,50-59,Malbec,Mendoza Province
+948,80-84,247,10-19,Torrontés,Mendoza Province
+949,80-84,245,30-39,Malbec,Mendoza Province
+950,80-84,197,10-19,Chardonnay,Mendoza Province
+951,80-84,233,10-19,Torrontés,Other
+952,80-84,185,10-19,Cabernet Sauvignon,Mendoza Province
+953,80-84,209,<10,Cabernet Sauvignon,Other
+954,85-89,241,20-29,Red Blend,Mendoza Province
+955,85-89,272,20-29,Malbec-Cabernet Franc,Mendoza Province
+956,85-89,254,20-29,Cabernet Sauvignon,Other
+957,85-89,237,10-19,Chardonnay,Mendoza Province
+958,85-89,190,10-19,Torrontés,Mendoza Province
+959,80-84,172,10-19,Torrontés,Other
+960,80-84,195,10-19,Pinot Grigio,Mendoza Province
+961,80-84,252,10-19,Rosé,Mendoza Province
+962,85-89,237,10-19,Malbec,Mendoza Province
+963,80-84,195,10-19,Viognier,Mendoza Province
+964,80-84,141,<10,Malbec,Mendoza Province
+965,85-89,239,10-19,Malbec,Mendoza Province
+966,90-94,285,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+967,85-89,236,10-19,Malbec,Mendoza Province
+968,80-84,237,20-29,Pinot Noir,Other
+969,80-84,204,10-19,Malbec,Mendoza Province
+970,85-89,229,10-19,Bonarda,Mendoza Province
+971,85-89,212,10-19,Bonarda,Mendoza Province
+972,80-84,225,10-19,Cabernet Sauvignon,Mendoza Province
+973,80-84,227,30-39,Cabernet Sauvignon,Mendoza Province
+974,80-84,306,20-29,White Blend,Mendoza Province
+975,80-84,199,10-19,Malbec,Mendoza Province
+976,80-84,198,10-19,Malbec,Mendoza Province
+977,80-84,214,10-19,Malbec,Mendoza Province
+978,80-84,253,30-39,Tannat,Other
+979,80-84,229,10-19,Tempranillo,Mendoza Province
+980,80-84,210,20-29,Red Blend,Mendoza Province
+981,80-84,191,10-19,Torrontés,Mendoza Province
+982,80-84,215,30-39,White Blend,Mendoza Province
+983,90-94,352,20-29,Red Blend,Mendoza Province
+984,85-89,329,20-29,Malbec,Other
+985,85-89,284,20-29,Red Blend,Mendoza Province
+986,85-89,292,20-29,Bordeaux-style Red Blend,Other
+987,85-89,347,40-49,Malbec,Other
+988,85-89,240,10-19,Cabernet Sauvignon,Mendoza Province
+989,85-89,214,10-19,Malbec,Mendoza Province
+990,85-89,223,10-19,Malbec,Mendoza Province
+991,85-89,234,10-19,Torrontés,Other
+992,85-89,202,10-19,Malbec,Other
+993,85-89,254,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+994,85-89,285,20-29,Syrah,Mendoza Province
+995,85-89,177,<10,Malbec,Other
+996,85-89,214,10-19,Malbec,Mendoza Province
+997,90-94,383,30-39,Malbec,Mendoza Province
+998,85-89,269,30-39,Pinot Noir,Mendoza Province
+999,85-89,225,10-19,Malbec,Mendoza Province
+1000,85-89,305,10-19,Bonarda,Mendoza Province
+1001,85-89,167,10-19,Chardonnay,Mendoza Province
+1002,80-84,228,10-19,Cabernet Sauvignon,Other
+1003,90-94,276,60-79,Malbec,Mendoza Province
+1004,90-94,286,60-79,Malbec,Mendoza Province
+1005,90-94,395,60-79,Malbec,Mendoza Province
+1006,85-89,224,10-19,Cabernet Franc,Other
+1007,85-89,197,10-19,Cabernet Sauvignon,Other
+1008,85-89,179,10-19,Malbec,Mendoza Province
+1009,80-84,259,10-19,Malbec,Mendoza Province
+1010,90-94,328,20-29,Syrah,Mendoza Province
+1011,90-94,334,100+,Malbec-Cabernet Sauvignon,Mendoza Province
+1012,80-84,257,10-19,Syrah,Mendoza Province
+1013,85-89,230,10-19,Chardonnay,Mendoza Province
+1014,85-89,285,20-29,Malbec-Bonarda,Mendoza Province
+1015,85-89,207,10-19,Chardonnay,Mendoza Province
+1016,85-89,216,40-49,Petit Verdot,Mendoza Province
+1017,90-94,317,10-19,Red Blend,Mendoza Province
+1018,90-94,252,30-39,Chardonnay,Mendoza Province
+1019,90-94,266,30-39,Malbec-Bonarda,Other
+1020,85-89,211,10-19,Malbec,Mendoza Province
+1021,85-89,227,10-19,Malbec,Mendoza Province
+1022,85-89,261,20-29,Malbec,Other
+1023,85-89,266,30-39,Malbec,Mendoza Province
+1024,85-89,214,20-29,Malbec,Mendoza Province
+1025,85-89,310,10-19,Cabernet Sauvignon,Other
+1026,85-89,292,10-19,Malbec,Other
+1027,85-89,300,10-19,Cabernet Sauvignon,Mendoza Province
+1028,90-94,282,50-59,Malbec,Mendoza Province
+1029,85-89,182,10-19,Malbec,Mendoza Province
+1030,85-89,174,10-19,Torrontés,Other
+1031,85-89,255,10-19,Red Blend,Mendoza Province
+1032,90-94,317,50-59,Red Blend,Mendoza Province
+1033,85-89,227,10-19,Malbec,Mendoza Province
+1034,80-84,274,10-19,Malbec,Mendoza Province
+1035,85-89,189,10-19,Chardonnay,Mendoza Province
+1036,85-89,196,10-19,Malbec,Mendoza Province
+1037,85-89,241,20-29,Malbec,Mendoza Province
+1038,90-94,273,60-79,Malbec,Mendoza Province
+1039,90-94,289,20-29,Red Blend,Mendoza Province
+1040,90-94,297,20-29,Bordeaux-style Red Blend,Mendoza Province
+1041,90-94,216,20-29,Cabernet Sauvignon,Mendoza Province
+1042,90-94,319,50-59,Red Blend,Mendoza Province
+1043,85-89,293,20-29,Malbec,Mendoza Province
+1044,85-89,223,20-29,Malbec,Mendoza Province
+1045,85-89,280,10-19,Cabernet-Syrah,Mendoza Province
+1046,90-94,252,80-99,Malbec,Mendoza Province
+1047,90-94,279,80-99,Malbec,Mendoza Province
+1048,90-94,306,60-79,Malbec,Mendoza Province
+1049,80-84,194,10-19,Cabernet Sauvignon,Mendoza Province
+1050,80-84,207,10-19,Malbec,Mendoza Province
+1051,80-84,156,10-19,Malbec,Mendoza Province
+1052,85-89,250,<10,Malbec,Mendoza Province
+1053,85-89,195,10-19,Malbec,Mendoza Province
+1054,90-94,393,60-79,Red Blend,Mendoza Province
+1055,90-94,331,80-99,Red Blend,Mendoza Province
+1056,90-94,327,30-39,Red Blend,Mendoza Province
+1057,85-89,237,20-29,Chardonnay,Mendoza Province
+1058,90-94,303,20-29,Cabernet Franc,Other
+1059,85-89,286,10-19,Malbec,Other
+1060,85-89,295,10-19,Cabernet Sauvignon,Mendoza Province
+1061,85-89,368,10-19,Malbec,Mendoza Province
+1062,85-89,241,50-59,Malbec,Mendoza Province
+1063,90-94,227,20-29,Cabernet Sauvignon,Mendoza Province
+1064,90-94,443,30-39,Red Blend,Mendoza Province
+1065,90-94,281,20-29,Bordeaux-style Red Blend,Mendoza Province
+1066,90-94,241,20-29,Malbec,Mendoza Province
+1067,80-84,204,10-19,Malbec,Mendoza Province
+1068,80-84,200,20-29,Chardonnay,Mendoza Province
+1069,85-89,235,10-19,Malbec,Mendoza Province
+1070,85-89,263,20-29,Malbec,Mendoza Province
+1071,85-89,287,10-19,Chardonnay,Mendoza Province
+1072,85-89,276,20-29,Malbec,Mendoza Province
+1073,85-89,225,20-29,Malbec,Mendoza Province
+1074,80-84,177,10-19,Chardonnay,Other
+1075,80-84,182,10-19,Rosé,Mendoza Province
+1076,90-94,310,60-79,Red Blend,Mendoza Province
+1077,80-84,247,10-19,Cabernet Sauvignon,Mendoza Province
+1078,80-84,236,10-19,Malbec,Mendoza Province
+1079,80-84,193,10-19,Viognier,Mendoza Province
+1080,80-84,231,10-19,Malbec,Mendoza Province
+1081,90-94,291,20-29,Malbec-Bonarda,Mendoza Province
+1082,90-94,299,20-29,Malbec,Mendoza Province
+1083,90-94,283,50-59,White Blend,Mendoza Province
+1084,85-89,252,20-29,Malbec,Mendoza Province
+1085,85-89,269,10-19,Cabernet Sauvignon,Mendoza Province
+1086,85-89,278,10-19,Torrontés,Mendoza Province
+1087,80-84,188,10-19,Torrontés,Other
+1088,80-84,217,20-29,Malbec,Mendoza Province
+1089,80-84,181,10-19,Torrontés,Mendoza Province
+1090,85-89,264,20-29,Cabernet Sauvignon,Mendoza Province
+1091,80-84,145,20-29,Malbec,Other
+1092,90-94,399,60-79,Malbec,Mendoza Province
+1093,90-94,368,20-29,Bordeaux-style Red Blend,Mendoza Province
+1094,85-89,216,10-19,Malbec,Mendoza Province
+1095,85-89,229,10-19,Bonarda,Mendoza Province
+1096,90-94,303,10-19,Malbec,Mendoza Province
+1097,85-89,396,40-49,Red Blend,Mendoza Province
+1098,85-89,307,10-19,Chardonnay,Mendoza Province
+1099,90-94,308,20-29,Red Blend,Mendoza Province
+1100,90-94,254,10-19,Cabernet Sauvignon,Mendoza Province
+1101,85-89,196,10-19,Sémillon,Mendoza Province
+1102,85-89,201,10-19,Bonarda,Mendoza Province
+1103,80-84,228,10-19,Viognier,Mendoza Province
+1104,80-84,266,10-19,Malbec,Mendoza Province
+1105,80-84,147,10-19,Chardonnay,Mendoza Province
+1106,80-84,200,20-29,Malbec,Mendoza Province
+1107,80-84,232,10-19,Malbec,Mendoza Province
+1108,80-84,212,10-19,Cabernet Sauvignon,Mendoza Province
+1109,90-94,359,30-39,Malbec,Other
+1110,85-89,233,20-29,Malbec,Mendoza Province
+1111,85-89,223,10-19,Malbec,Mendoza Province
+1112,85-89,175,10-19,Cabernet Sauvignon,Mendoza Province
+1113,85-89,238,10-19,Malbec,Mendoza Province
+1114,85-89,287,10-19,Cabernet Sauvignon,Mendoza Province
+1115,85-89,243,30-39,Malbec,Mendoza Province
+1116,90-94,288,20-29,Malbec,Mendoza Province
+1117,80-84,259,10-19,Malbec,Other
+1118,80-84,434,20-29,Malbec,Mendoza Province
+1119,90-94,306,20-29,Pinot Noir,Mendoza Province
+1120,90-94,263,50-59,Cabernet Sauvignon,Mendoza Province
+1121,90-94,302,40-49,Malbec,Mendoza Province
+1122,90-94,279,50-59,Malbec,Mendoza Province
+1123,90-94,322,50-59,Malbec,Mendoza Province
+1124,80-84,252,10-19,Pinot Grigio,Other
+1125,85-89,242,10-19,Cabernet Sauvignon,Mendoza Province
+1126,85-89,261,30-39,White Blend,Mendoza Province
+1127,85-89,241,10-19,Malbec,Mendoza Province
+1128,85-89,246,20-29,Malbec,Other
+1129,80-84,206,20-29,Pinot Noir,Other
+1130,85-89,306,10-19,Bonarda,Mendoza Province
+1131,90-94,385,80-99,Cabernet Franc-Cabernet Sauvignon,Mendoza Province
+1132,85-89,239,10-19,Cabernet Sauvignon,Mendoza Province
+1133,85-89,235,10-19,Malbec,Mendoza Province
+1134,85-89,236,10-19,Barbera,Other
+1135,90-94,343,80-99,Malbec,Mendoza Province
+1136,90-94,286,20-29,Malbec,Mendoza Province
+1137,85-89,241,10-19,Pinot Noir,Other
+1138,90-94,323,40-49,Malbec,Mendoza Province
+1139,90-94,310,60-79,Malbec,Mendoza Province
+1140,90-94,400,100+,Malbec-Cabernet Sauvignon,Mendoza Province
+1141,85-89,317,40-49,Red Blend,Other
+1142,85-89,217,10-19,Torrontés,Other
+1143,90-94,255,10-19,Malbec,Mendoza Province
+1144,85-89,290,50-59,Cabernet Sauvignon,Mendoza Province
+1145,85-89,245,40-49,Malbec,Mendoza Province
+1146,85-89,234,10-19,Malbec,Mendoza Province
+1147,85-89,186,20-29,Torrontés,Other
+1148,85-89,192,10-19,Torrontés,Mendoza Province
+1149,85-89,303,20-29,Malbec-Cabernet Sauvignon,Mendoza Province
+1150,85-89,269,20-29,Malbec,Mendoza Province
+1151,85-89,307,10-19,Tannat,Other
+1152,85-89,227,10-19,Torrontés,Mendoza Province
+1153,90-94,351,20-29,Bordeaux-style Red Blend,Mendoza Province
+1154,85-89,274,10-19,Malbec,Mendoza Province
+1155,85-89,244,10-19,Sauvignon Blanc,Mendoza Province
+1156,80-84,195,10-19,Chardonnay,Other
+1157,80-84,221,10-19,Cabernet Sauvignon,Mendoza Province
+1158,80-84,204,10-19,Cabernet Sauvignon,Mendoza Province
+1159,80-84,195,10-19,Malbec,Mendoza Province
+1160,80-84,181,10-19,Cabernet Sauvignon,Mendoza Province
+1161,85-89,303,60-79,Malbec,Mendoza Province
+1162,85-89,300,10-19,Malbec,Mendoza Province
+1163,85-89,257,80-99,Red Blend,Mendoza Province
+1164,85-89,234,20-29,Malbec,Mendoza Province
+1165,85-89,302,60-79,Malbec,Mendoza Province
+1166,85-89,212,10-19,Cabernet Sauvignon,Mendoza Province
+1167,85-89,209,10-19,Torrontés,Other
+1168,85-89,244,20-29,Malbec,Mendoza Province
+1169,85-89,208,10-19,Sparkling Blend,Mendoza Province
+1170,85-89,252,10-19,White Blend,Mendoza Province
+1171,90-94,270,10-19,Cabernet Sauvignon,Other
+1172,90-94,322,20-29,Malbec,Mendoza Province
+1173,80-84,187,10-19,Red Blend,Mendoza Province
+1174,80-84,219,<10,Red Blend,Mendoza Province
+1175,80-84,204,10-19,Chardonnay,Mendoza Province
+1176,85-89,206,10-19,Sauvignon Blanc,Mendoza Province
+1177,85-89,194,10-19,Chardonnay,Mendoza Province
+1178,85-89,273,10-19,Cabernet Sauvignon,Mendoza Province
+1179,85-89,197,10-19,Torrontés,Mendoza Province
+1180,85-89,205,10-19,Chardonnay,Mendoza Province
+1181,85-89,232,10-19,Chardonnay,Mendoza Province
+1182,90-94,325,100+,Cabernet Franc,Mendoza Province
+1183,90-94,277,10-19,Cabernet Franc,Other
+1184,85-89,208,10-19,Sauvignon Blanc,Mendoza Province
+1185,85-89,255,10-19,Red Blend,Mendoza Province
+1186,80-84,177,20-29,Malbec,Mendoza Province
+1187,80-84,226,10-19,Cabernet Sauvignon,Mendoza Province
+1188,90-94,367,30-39,Malbec,Mendoza Province
+1189,85-89,259,10-19,Malbec,Mendoza Province
+1190,85-89,244,10-19,Torrontés,Other
+1191,85-89,270,20-29,Cabernet Sauvignon,Mendoza Province
+1192,85-89,239,20-29,Malbec,Mendoza Province
+1193,85-89,213,10-19,Cabernet Sauvignon,Mendoza Province
+1194,85-89,253,10-19,Malbec,Mendoza Province
+1195,85-89,217,10-19,Cabernet Sauvignon,Mendoza Province
+1196,85-89,189,10-19,Sauvignon Blanc,Mendoza Province
+1197,80-84,217,20-29,Malbec-Merlot,Mendoza Province
+1198,80-84,315,30-39,Malbec,Mendoza Province
+1199,80-84,238,10-19,Cabernet Sauvignon,Mendoza Province
+1200,85-89,251,10-19,Malbec,Other
+1201,90-94,298,60-79,Pinot Noir,Other
+1202,85-89,247,30-39,Chardonnay,Mendoza Province
+1203,85-89,252,20-29,Cabernet Sauvignon,Mendoza Province
+1204,85-89,244,30-39,Red Blend,Mendoza Province
+1205,85-89,248,20-29,Cabernet Sauvignon,Mendoza Province
+1206,85-89,219,10-19,Cabernet Sauvignon,Mendoza Province
+1207,85-89,212,10-19,Malbec,Mendoza Province
+1208,85-89,261,10-19,Malbec,Mendoza Province
+1209,85-89,238,10-19,Cabernet Sauvignon,Mendoza Province
+1210,85-89,201,10-19,Moscato,Mendoza Province
+1211,85-89,309,20-29,Red Blend,Mendoza Province
+1212,85-89,259,10-19,Cabernet Sauvignon,Mendoza Province
+1213,90-94,295,20-29,Malbec,Other
+1214,90-94,286,10-19,Red Blend,Mendoza Province
+1215,90-94,305,10-19,Malbec,Other
+1216,85-89,303,10-19,Cabernet Sauvignon,Mendoza Province
+1217,85-89,243,10-19,Cabernet Sauvignon,Mendoza Province
+1218,85-89,219,20-29,Chardonnay,Mendoza Province
+1219,85-89,183,10-19,Malbec,Mendoza Province
+1220,80-84,202,10-19,White Blend,Mendoza Province
+1221,80-84,223,10-19,Chardonnay,Mendoza Province
+1222,85-89,167,30-39,Sparkling Blend,Other
+1223,85-89,241,10-19,Malbec,Mendoza Province
+1224,85-89,287,10-19,Malbec,Mendoza Province
+1225,85-89,251,20-29,Malbec,Mendoza Province
+1226,85-89,311,10-19,Syrah,Mendoza Province
+1227,90-94,336,60-79,Bordeaux-style Red Blend,Mendoza Province
+1228,90-94,312,100+,Malbec-Cabernet,Mendoza Province
+1229,85-89,227,10-19,Cabernet Sauvignon,Mendoza Province
+1230,85-89,248,10-19,Malbec,Mendoza Province
+1231,85-89,257,20-29,Malbec,Mendoza Province
+1232,85-89,196,10-19,Chardonnay,Mendoza Province
+1233,85-89,152,10-19,Cabernet Sauvignon,Mendoza Province
+1234,85-89,271,80-99,Cabernet Blend,Mendoza Province
+1235,85-89,226,20-29,Malbec,Mendoza Province
+1236,85-89,321,40-49,Cabernet Sauvignon,Mendoza Province
+1237,90-94,251,100+,Malbec,Mendoza Province
+1238,80-84,239,20-29,Bordeaux-style Red Blend,Mendoza Province
+1239,80-84,216,10-19,Sauvignon Blanc,Mendoza Province
+1240,85-89,200,10-19,Chardonnay,Mendoza Province
+1241,85-89,244,10-19,Malbec,Mendoza Province
+1242,90-94,352,20-29,Malbec,Mendoza Province
+1243,85-89,216,10-19,Merlot,Other
+1244,85-89,278,10-19,Chardonnay,Other
+1245,90-94,268,50-59,Malbec,Mendoza Province
+1246,90-94,302,80-99,Red Blend,Mendoza Province
+1247,90-94,293,10-19,Malbec,Mendoza Province
+1248,85-89,244,10-19,Malbec,Mendoza Province
+1249,85-89,280,10-19,Red Blend,Mendoza Province
+1250,85-89,308,20-29,Malbec,Mendoza Province
+1251,85-89,282,20-29,Malbec-Cabernet Sauvignon,Mendoza Province
+1252,90-94,364,40-49,Malbec-Cabernet Sauvignon,Mendoza Province
+1253,90-94,309,100+,Bordeaux-style Red Blend,Mendoza Province
+1254,85-89,229,10-19,Torrontés,Other
+1255,90-94,275,30-39,Cabernet Sauvignon,Mendoza Province
+1256,85-89,260,20-29,Malbec,Other
+1257,85-89,375,30-39,Red Blend,Mendoza Province
+1258,85-89,263,20-29,Malbec,Other
+1259,85-89,262,20-29,Cabernet Sauvignon,Mendoza Province
+1260,90-94,290,40-49,Malbec,Mendoza Province
+1261,85-89,274,10-19,Malbec,Mendoza Province
+1262,90-94,270,50-59,Chardonnay,Mendoza Province
+1263,80-84,235,10-19,Torrontés,Other
+1264,80-84,212,10-19,Pinot Noir,Mendoza Province
+1265,80-84,202,10-19,Chardonnay,Mendoza Province
+1266,80-84,214,10-19,Pinot Noir,Mendoza Province
+1267,80-84,267,10-19,Pinot Noir,Mendoza Province
+1268,85-89,322,60-79,Cabernet Franc,Mendoza Province
+1269,85-89,193,<10,Torrontés,Other
+1270,90-94,392,20-29,Bordeaux-style Red Blend,Mendoza Province
+1271,85-89,277,10-19,Red Blend,Mendoza Province
+1272,85-89,191,10-19,Malbec,Mendoza Province
+1273,85-89,283,30-39,Malbec,Mendoza Province
+1274,90-94,294,30-39,Bordeaux-style Red Blend,Mendoza Province
+1275,90-94,235,30-39,Chardonnay,Mendoza Province
+1276,85-89,194,10-19,Torrontés,Mendoza Province
+1277,90-94,281,100+,Malbec,Mendoza Province
+1278,90-94,344,40-49,Malbec,Mendoza Province
+1279,85-89,231,10-19,Cabernet Sauvignon,Mendoza Province
+1280,90-94,308,20-29,Cabernet Sauvignon,Mendoza Province
+1281,85-89,191,20-29,Cabernet Sauvignon,Mendoza Province
+1282,85-89,237,10-19,Cabernet Sauvignon,Mendoza Province
+1283,85-89,222,10-19,Torrontés,Mendoza Province
+1284,85-89,190,10-19,Chardonnay,Mendoza Province
+1285,85-89,272,30-39,Malbec,Mendoza Province
+1286,90-94,271,30-39,Red Blend,Mendoza Province
+1287,90-94,231,80-99,Malbec,Mendoza Province
+1288,85-89,261,20-29,Cabernet Sauvignon,Mendoza Province
+1289,85-89,231,40-49,Malbec,Mendoza Province
+1290,80-84,227,10-19,Chardonnay,Mendoza Province
+1291,80-84,233,30-39,Cabernet Sauvignon,Mendoza Province
+1292,80-84,195,10-19,Sauvignon Blanc,Mendoza Province
+1293,80-84,253,10-19,Syrah,Mendoza Province
+1294,80-84,207,10-19,Malbec,Mendoza Province
+1295,85-89,240,20-29,Malbec,Mendoza Province
+1296,85-89,297,10-19,Torrontés,Other
+1297,85-89,201,10-19,Cabernet Sauvignon,Mendoza Province
+1298,85-89,243,10-19,Malbec,Mendoza Province
+1299,85-89,269,10-19,Malbec,Mendoza Province
+1300,85-89,312,10-19,Syrah,Mendoza Province
+1301,85-89,255,10-19,Red Blend,Mendoza Province
+1302,85-89,235,10-19,Malbec,Mendoza Province
+1303,80-84,287,10-19,Cabernet Sauvignon,Mendoza Province
+1304,80-84,272,10-19,Red Blend,Mendoza Province
+1305,85-89,339,20-29,Malbec-Cabernet Sauvignon,Mendoza Province
+1306,90-94,349,100+,Malbec,Other
+1307,90-94,282,40-49,Malbec,Mendoza Province
+1308,80-84,190,10-19,Cabernet Sauvignon,Mendoza Province
+1309,80-84,205,10-19,Syrah,Other
+1310,80-84,163,10-19,Chenin Blanc,Mendoza Province
+1311,80-84,217,10-19,Bordeaux-style Red Blend,Mendoza Province
+1312,80-84,191,10-19,Cabernet Sauvignon,Mendoza Province
+1313,85-89,336,20-29,Cabernet Sauvignon,Mendoza Province
+1314,85-89,318,10-19,Torrontés,Mendoza Province
+1315,85-89,276,10-19,Cabernet Sauvignon,Mendoza Province
+1316,85-89,272,30-39,Chardonnay,Mendoza Province
+1317,90-94,261,20-29,Malbec,Mendoza Province
+1318,85-89,257,10-19,Malbec,Mendoza Province
+1319,85-89,317,40-49,Red Blend,Other
+1320,90-94,317,20-29,Malbec,Mendoza Province
+1321,90-94,328,40-49,Red Blend,Mendoza Province
+1322,85-89,241,20-29,Sparkling Blend,Mendoza Province
+1323,85-89,234,10-19,Malbec,Mendoza Province
+1324,80-84,365,10-19,Torrontés,Other
+1325,80-84,362,10-19,Torrontés,Mendoza Province
+1326,85-89,316,10-19,Malbec,Mendoza Province
+1327,85-89,293,10-19,Cabernet Sauvignon,Mendoza Province
+1328,85-89,292,10-19,Cabernet Sauvignon,Mendoza Province
+1329,80-84,214,10-19,Malbec,Mendoza Province
+1330,85-89,275,20-29,Red Blend,Mendoza Province
+1331,85-89,288,10-19,Bonarda,Mendoza Province
+1332,85-89,246,10-19,Bordeaux-style Red Blend,Mendoza Province
+1333,85-89,287,10-19,Malbec,Mendoza Province
+1334,85-89,276,50-59,Malbec,Mendoza Province
+1335,85-89,240,20-29,Malbec,Mendoza Province
+1336,85-89,163,10-19,Torrontés,Other
+1337,90-94,284,20-29,Cabernet Franc,Mendoza Province
+1338,90-94,360,100+,Cabernet Sauvignon,Mendoza Province
+1339,85-89,300,10-19,Cabernet Sauvignon,Other
+1340,85-89,218,10-19,Bonarda,Mendoza Province
+1341,85-89,294,10-19,Cabernet Sauvignon,Mendoza Province
+1342,85-89,239,10-19,Torrontés,Mendoza Province
+1343,80-84,233,10-19,Red Blend,Mendoza Province
+1344,80-84,187,10-19,Malbec,Mendoza Province
+1345,80-84,208,10-19,Chardonnay,Mendoza Province
+1346,80-84,181,10-19,Malbec,Mendoza Province
+1347,90-94,309,10-19,Cabernet Sauvignon,Mendoza Province
+1348,85-89,262,20-29,Pinot Noir,Mendoza Province
+1349,85-89,286,10-19,Malbec,Mendoza Province
+1350,85-89,244,10-19,Sauvignon Blanc,Mendoza Province
+1351,85-89,205,<10,Shiraz,Other
+1352,90-94,313,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+1353,85-89,224,20-29,Cabernet Sauvignon,Mendoza Province
+1354,90-94,328,100+,Cabernet Sauvignon-Malbec,Mendoza Province
+1355,85-89,206,10-19,Cabernet Sauvignon,Mendoza Province
+1356,85-89,177,10-19,Torrontés,Other
+1357,85-89,319,30-39,Malbec,Mendoza Province
+1358,85-89,374,50-59,Malbec,Mendoza Province
+1359,85-89,249,10-19,Chardonnay,Other
+1360,80-84,304,20-29,Merlot,Other
+1361,90-94,274,20-29,Red Blend,Mendoza Province
+1362,85-89,234,10-19,Malbec,Mendoza Province
+1363,85-89,212,10-19,Malbec,Mendoza Province
+1364,85-89,287,30-39,Malbec,Other
+1365,85-89,344,20-29,Malbec,Mendoza Province
+1366,90-94,270,60-79,Malbec,Mendoza Province
+1367,85-89,266,10-19,Malbec,Mendoza Province
+1368,85-89,218,10-19,Malbec,Mendoza Province
+1369,85-89,265,10-19,Torrontés,Mendoza Province
+1370,85-89,257,20-29,Malbec,Mendoza Province
+1371,85-89,195,10-19,Torrontés,Mendoza Province
+1372,85-89,214,10-19,Red Blend,Mendoza Province
+1373,85-89,257,20-29,Champagne Blend,Mendoza Province
+1374,85-89,276,10-19,Malbec,Mendoza Province
+1375,90-94,384,30-39,Malbec,Mendoza Province
+1376,85-89,221,10-19,Syrah,Mendoza Province
+1377,85-89,253,10-19,Bonarda,Mendoza Province
+1378,85-89,284,10-19,Red Blend,Mendoza Province
+1379,85-89,253,10-19,Merlot,Mendoza Province
+1380,85-89,330,20-29,Bordeaux-style Red Blend,Mendoza Province
+1381,85-89,289,10-19,Merlot,Mendoza Province
+1382,85-89,253,20-29,Malbec,Mendoza Province
+1383,85-89,331,10-19,Tempranillo,Mendoza Province
+1384,85-89,282,20-29,Malbec,Other
+1385,85-89,287,10-19,Cabernet Sauvignon,Mendoza Province
+1386,85-89,268,10-19,Cabernet Sauvignon,Mendoza Province
+1387,85-89,240,10-19,Cabernet Sauvignon,Mendoza Province
+1388,85-89,245,40-49,Malbec,Mendoza Province
+1389,85-89,268,10-19,Malbec,Mendoza Province
+1390,85-89,259,20-29,Malbec,Mendoza Province
+1391,85-89,203,10-19,Torrontés,Other
+1392,90-94,305,50-59,Malbec,Mendoza Province
+1393,85-89,226,10-19,Cabernet Franc,Mendoza Province
+1394,85-89,305,10-19,Malbec,Mendoza Province
+1395,85-89,275,10-19,Malbec,Mendoza Province
+1396,85-89,234,20-29,Malbec,Mendoza Province
+1397,85-89,241,10-19,Pinot Noir,Other
+1398,85-89,221,10-19,Cabernet Sauvignon,Mendoza Province
+1399,80-84,238,10-19,Cabernet Sauvignon,Mendoza Province
+1400,80-84,259,10-19,Pinot Noir,Other
+1401,80-84,281,10-19,Malbec,Mendoza Province
+1402,80-84,229,10-19,Cabernet Sauvignon,Mendoza Province
+1403,80-84,241,10-19,Malbec,Mendoza Province
+1404,80-84,174,10-19,Chardonnay,Mendoza Province
+1405,85-89,247,10-19,White Blend,Mendoza Province
+1406,85-89,257,10-19,Torrontés,Other
+1407,80-84,227,10-19,Torrontés,Other
+1408,85-89,223,20-29,Malbec,Mendoza Province
+1409,85-89,153,10-19,Malbec,Mendoza Province
+1410,90-94,323,30-39,Bordeaux-style Red Blend,Mendoza Province
+1411,90-94,297,100+,Cabernet Franc,Mendoza Province
+1412,90-94,259,40-49,Malbec,Mendoza Province
+1413,85-89,231,10-19,Sauvignon Blanc,Other
+1414,85-89,292,10-19,Torrontés,Mendoza Province
+1415,85-89,303,10-19,Merlot,Mendoza Province
+1416,80-84,245,10-19,Chardonnay,Mendoza Province
+1417,80-84,282,10-19,Malbec,Mendoza Province
+1418,80-84,246,10-19,Chardonnay,Mendoza Province
+1419,85-89,230,10-19,Cabernet Sauvignon,Mendoza Province
+1420,85-89,228,20-29,Malbec,Mendoza Province
+1421,90-94,280,40-49,Cabernet Sauvignon,Mendoza Province
+1422,90-94,301,20-29,Malbec,Mendoza Province
+1423,85-89,301,20-29,Cabernet Sauvignon,Other
+1424,85-89,178,10-19,Cabernet Sauvignon,Mendoza Province
+1425,85-89,303,10-19,Cabernet Sauvignon,Mendoza Province
+1426,85-89,294,40-49,Chardonnay,Mendoza Province
+1427,80-84,201,10-19,Pinot Grigio,Other
+1428,80-84,274,10-19,Bordeaux-style White Blend,Mendoza Province
+1429,80-84,298,10-19,Syrah,Other
+1430,85-89,197,10-19,Cabernet Sauvignon,Mendoza Province
+1431,85-89,194,10-19,Malbec,Mendoza Province
+1432,85-89,170,10-19,Malbec,Other
+1433,85-89,236,20-29,Cabernet Sauvignon,Mendoza Province
+1434,85-89,204,10-19,Sauvignon Blanc,Mendoza Province
+1435,80-84,136,10-19,Chardonnay,Mendoza Province
+1436,80-84,158,10-19,Chardonnay,Mendoza Province
+1437,80-84,136,10-19,Pinot Grigio,Mendoza Province
+1438,80-84,184,10-19,Sauvignon Blanc,Mendoza Province
+1439,85-89,274,10-19,Syrah,Mendoza Province
+1440,90-94,329,50-59,Cabernet Sauvignon,Mendoza Province
+1441,85-89,200,10-19,Torrontés,Mendoza Province
+1442,85-89,198,20-29,Malbec,Mendoza Province
+1443,85-89,230,10-19,Pinot Gris,Mendoza Province
+1444,85-89,313,20-29,Chardonnay,Mendoza Province
+1445,90-94,358,50-59,Bordeaux-style Red Blend,Mendoza Province
+1446,90-94,260,20-29,Malbec,Mendoza Province
+1447,90-94,399,30-39,Bordeaux-style Red Blend,Mendoza Province
+1448,90-94,260,100+,Malbec,Mendoza Province
+1449,90-94,297,100+,Cabernet Franc,Mendoza Province
+1450,85-89,245,10-19,Malbec,Mendoza Province
+1451,85-89,218,10-19,Torrontés,Other
+1452,85-89,195,10-19,Chardonnay,Mendoza Province
+1453,85-89,224,20-29,Red Blend,Mendoza Province
+1454,90-94,347,40-49,Malbec,Mendoza Province
+1455,85-89,300,20-29,Malbec,Mendoza Province
+1456,85-89,206,10-19,Sauvignon Blanc,Mendoza Province
+1457,85-89,273,10-19,Cabernet Sauvignon,Mendoza Province
+1458,85-89,231,10-19,Malbec-Cabernet Franc,Mendoza Province
+1459,85-89,248,10-19,Cabernet Sauvignon,Mendoza Province
+1460,85-89,278,10-19,Malbec,Mendoza Province
+1461,80-84,258,10-19,Chardonnay,Other
+1462,85-89,304,10-19,Malbec,Mendoza Province
+1463,85-89,330,20-29,Red Blend,Mendoza Province
+1464,85-89,286,20-29,Red Blend,Mendoza Province
+1465,85-89,217,10-19,Chardonnay,Mendoza Province
+1466,85-89,201,10-19,Chardonnay,Mendoza Province
+1467,85-89,239,10-19,Rosé,Mendoza Province
+1468,85-89,189,20-29,Chardonnay,Mendoza Province
+1469,90-94,326,60-79,Malbec,Mendoza Province
+1470,90-94,305,50-59,Malbec,Mendoza Province
+1471,85-89,238,30-39,Malbec,Mendoza Province
+1472,85-89,245,10-19,Malbec,Mendoza Province
+1473,85-89,359,10-19,Bonarda,Mendoza Province
+1474,85-89,312,10-19,Red Blend,Mendoza Province
+1475,85-89,331,10-19,White Blend,Mendoza Province
+1476,85-89,252,40-49,Cabernet Sauvignon,Mendoza Province
+1477,85-89,275,20-29,Cabernet Sauvignon,Mendoza Province
+1478,85-89,200,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+1479,85-89,210,30-39,Petit Verdot,Mendoza Province
+1480,85-89,195,10-19,Torrontés,Other
+1481,85-89,279,10-19,Malbec,Other
+1482,85-89,237,10-19,Malbec,Mendoza Province
+1483,85-89,255,10-19,Red Blend,Mendoza Province
+1484,90-94,347,50-59,Cabernet Sauvignon,Mendoza Province
+1485,90-94,332,40-49,Red Blend,Mendoza Province
+1486,90-94,275,50-59,Malbec,Mendoza Province
+1487,85-89,298,30-39,Malbec,Mendoza Province
+1488,85-89,275,20-29,Malbec-Cabernet Sauvignon,Mendoza Province
+1489,85-89,340,10-19,Cabernet Sauvignon,Mendoza Province
+1490,85-89,321,40-49,Malbec,Mendoza Province
+1491,85-89,202,20-29,Cabernet Sauvignon,Mendoza Province
+1492,85-89,240,30-39,Malbec,Mendoza Province
+1493,90-94,295,40-49,Malbec-Petit Verdot,Mendoza Province
+1494,90-94,255,60-79,Malbec,Mendoza Province
+1495,90-94,239,30-39,Malbec,Mendoza Province
+1496,85-89,261,50-59,Syrah,Mendoza Province
+1497,85-89,299,80-99,Malbec Blend,Mendoza Province
+1498,90-94,284,10-19,Cabernet Sauvignon,Mendoza Province
+1499,90-94,238,20-29,Malbec,Mendoza Province
+1500,85-89,170,10-19,Malbec,Mendoza Province
+1501,90-94,276,40-49,Malbec,Mendoza Province
+1502,90-94,340,20-29,Malbec,Mendoza Province
+1503,85-89,194,10-19,Syrah,Other
+1504,90-94,323,80-99,Malbec,Mendoza Province
+1505,85-89,165,10-19,Malbec,Mendoza Province
+1506,80-84,217,10-19,Merlot,Mendoza Province
+1507,80-84,225,10-19,Malbec,Mendoza Province
+1508,80-84,269,<10,Cabernet Sauvignon,Mendoza Province
+1509,80-84,217,<10,Malbec,Mendoza Province
+1510,80-84,218,30-39,Malbec,Mendoza Province
+1511,80-84,262,10-19,Cabernet Sauvignon,Mendoza Province
+1512,80-84,237,10-19,White Blend,Mendoza Province
+1513,85-89,206,10-19,Chardonnay,Mendoza Province
+1514,85-89,229,10-19,Malbec,Mendoza Province
+1515,85-89,158,10-19,Cabernet Sauvignon,Mendoza Province
+1516,85-89,251,10-19,Malbec,Mendoza Province
+1517,85-89,186,10-19,Malbec,Mendoza Province
+1518,85-89,274,10-19,Red Blend,Mendoza Province
+1519,85-89,228,10-19,Malbec,Other
+1520,85-89,303,20-29,Malbec,Mendoza Province
+1521,85-89,296,30-39,Malbec,Mendoza Province
+1522,80-84,262,100+,Malbec,Other
+1523,80-84,206,10-19,Torrontés,Mendoza Province
+1524,85-89,211,30-39,Pinot Noir,Other
+1525,80-84,171,10-19,Malbec,Mendoza Province
+1526,90-94,295,100+,Malbec-Cabernet Franc,Mendoza Province
+1527,85-89,234,10-19,Malbec,Mendoza Province
+1528,85-89,281,20-29,Cabernet Sauvignon,Mendoza Province
+1529,80-84,197,10-19,Sauvignon Blanc,Mendoza Province
+1530,80-84,234,10-19,Malbec-Tannat,Other
+1531,80-84,163,10-19,Cabernet Sauvignon,Mendoza Province
+1532,80-84,342,50-59,Chardonnay,Mendoza Province
+1533,80-84,185,10-19,Red Blend,Mendoza Province
+1534,80-84,236,10-19,Torrontés,Mendoza Province
+1535,90-94,293,50-59,Malbec,Mendoza Province
+1536,90-94,278,40-49,Red Blend,Mendoza Province
+1537,80-84,187,10-19,Sauvignon Blanc,Mendoza Province
+1538,90-94,310,40-49,Malbec,Mendoza Province
+1539,90-94,281,20-29,Malbec,Mendoza Province
+1540,90-94,334,100+,Malbec,Mendoza Province
+1541,90-94,281,20-29,Cabernet Sauvignon,Mendoza Province
+1542,85-89,242,20-29,Bonarda,Mendoza Province
+1543,85-89,252,10-19,Malbec,Mendoza Province
+1544,90-94,314,100+,Malbec,Mendoza Province
+1545,90-94,313,80-99,Bordeaux-style Red Blend,Mendoza Province
+1546,85-89,256,30-39,Cabernet Franc,Mendoza Province
+1547,85-89,284,30-39,Malbec,Mendoza Province
+1548,85-89,263,20-29,Merlot,Mendoza Province
+1549,90-94,261,40-49,Malbec,Mendoza Province
+1550,90-94,287,20-29,Malbec,Mendoza Province
+1551,85-89,274,10-19,Malbec,Other
+1552,85-89,298,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+1553,85-89,378,30-39,Malbec,Mendoza Province
+1554,85-89,268,20-29,Chardonnay,Mendoza Province
+1555,80-84,217,10-19,Malbec,Mendoza Province
+1556,80-84,256,10-19,Cabernet Sauvignon,Mendoza Province
+1557,85-89,243,10-19,Torrontés,Mendoza Province
+1558,85-89,280,10-19,Malbec,Mendoza Province
+1559,85-89,187,10-19,Malbec,Mendoza Province
+1560,85-89,226,10-19,Malbec,Mendoza Province
+1561,85-89,295,20-29,Malbec,Mendoza Province
+1562,85-89,343,50-59,Red Blend,Other
+1563,85-89,243,10-19,Malbec,Mendoza Province
+1564,85-89,300,60-79,Malbec,Mendoza Province
+1565,85-89,321,40-49,Chardonnay,Mendoza Province
+1566,85-89,301,10-19,Pinot Noir,Mendoza Province
+1567,85-89,290,10-19,Cabernet Sauvignon-Malbec,Mendoza Province
+1568,90-94,409,30-39,Malbec,Mendoza Province
+1569,85-89,235,10-19,Torrontés,Mendoza Province
+1570,90-94,270,20-29,Malbec,Mendoza Province
+1571,90-94,237,30-39,Malbec,Mendoza Province
+1572,90-94,293,20-29,Malbec,Mendoza Province
+1573,90-94,382,30-39,Malbec,Mendoza Province
+1574,90-94,423,30-39,Malbec,Mendoza Province
+1575,80-84,211,10-19,Malbec,Mendoza Province
+1576,85-89,307,10-19,Malbec,Mendoza Province
+1577,90-94,282,60-79,Malbec,Mendoza Province
+1578,90-94,298,80-99,Malbec,Mendoza Province
+1579,85-89,253,20-29,Sparkling Blend,Mendoza Province
+1580,85-89,313,10-19,Malbec,Mendoza Province
+1581,85-89,232,10-19,Bonarda,Mendoza Province
+1582,80-84,238,10-19,Chardonnay,Mendoza Province
+1583,80-84,230,10-19,Chardonnay-Sauvignon,Mendoza Province
+1584,85-89,187,10-19,Syrah,Mendoza Province
+1585,85-89,301,20-29,Malbec,Other
+1586,85-89,313,10-19,Red Blend,Mendoza Province
+1587,85-89,292,50-59,Malbec,Mendoza Province
+1588,85-89,279,10-19,Red Blend,Mendoza Province
+1589,85-89,193,<10,Torrontés,Other
+1590,85-89,244,10-19,Torrontés,Other
+1591,90-94,313,50-59,Red Blend,Mendoza Province
+1592,90-94,342,60-79,Red Blend,Mendoza Province
+1593,85-89,239,10-19,Malbec,Mendoza Province
+1594,85-89,214,10-19,Torrontés,Other
+1595,90-94,252,20-29,Malbec,Mendoza Province
+1596,90-94,374,20-29,Malbec,Mendoza Province
+1597,90-94,257,50-59,Malbec,Mendoza Province
+1598,85-89,253,30-39,Cabernet Sauvignon,Mendoza Province
+1599,85-89,212,10-19,Chenin Blanc-Chardonnay,Mendoza Province
+1600,85-89,313,20-29,Red Blend,Mendoza Province
+1601,85-89,282,20-29,Cabernet Sauvignon,Mendoza Province
+1602,85-89,215,10-19,Malbec,Mendoza Province
+1603,85-89,242,10-19,Malbec,Mendoza Province
+1604,85-89,191,10-19,Malbec,Mendoza Province
+1605,85-89,260,10-19,Red Blend,Other
+1606,85-89,205,20-29,Cabernet Sauvignon,Mendoza Province
+1607,85-89,224,50-59,White Blend,Mendoza Province
+1608,85-89,256,20-29,Torrontés,Other
+1609,85-89,309,20-29,Cabernet Sauvignon,Mendoza Province
+1610,90-94,374,100+,Malbec,Mendoza Province
+1611,90-94,305,30-39,Bordeaux-style Red Blend,Mendoza Province
+1612,90-94,277,20-29,Cabernet Sauvignon,Mendoza Province
+1613,90-94,337,40-49,Malbec,Mendoza Province
+1614,85-89,307,10-19,Malbec,Mendoza Province
+1615,85-89,379,100+,Malbec,Mendoza Province
+1616,85-89,271,10-19,Syrah,Other
+1617,85-89,243,10-19,Torrontés,Mendoza Province
+1618,85-89,276,10-19,Merlot,Mendoza Province
+1619,80-84,178,10-19,Sauvignon Blanc,Mendoza Province
+1620,80-84,178,20-29,Viognier,Mendoza Province
+1621,80-84,176,10-19,White Blend,Other
+1622,85-89,214,20-29,Cabernet Sauvignon,Mendoza Province
+1623,85-89,240,<10,Torrontés,Other
+1624,85-89,221,20-29,Cabernet Sauvignon,Mendoza Province
+1625,80-84,212,10-19,Cabernet Sauvignon,Mendoza Province
+1626,80-84,153,10-19,Malbec,Mendoza Province
+1627,80-84,271,10-19,Merlot,Mendoza Province
+1628,80-84,219,10-19,White Blend,Other
+1629,80-84,197,10-19,Torrontés,Mendoza Province
+1630,80-84,187,10-19,Red Blend,Mendoza Province
+1631,80-84,145,10-19,Rosé,Mendoza Province
+1632,80-84,190,10-19,Rosé,Mendoza Province
+1633,80-84,166,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+1634,80-84,149,30-39,Torrontés,Other
+1635,80-84,184,<10,Malbec,Mendoza Province
+1636,85-89,261,20-29,Cabernet Sauvignon,Mendoza Province
+1637,85-89,298,30-39,Red Blend,Mendoza Province
+1638,85-89,217,30-39,Champagne Blend,Mendoza Province
+1639,80-84,172,10-19,Malbec,Mendoza Province
+1640,80-84,247,10-19,Malbec,Mendoza Province
+1641,80-84,191,10-19,Cabernet Sauvignon,Mendoza Province
+1642,85-89,261,30-39,Cabernet Sauvignon,Mendoza Province
+1643,80-84,220,10-19,Chardonnay,Other
+1644,90-94,345,60-79,Malbec,Mendoza Province
+1645,90-94,270,20-29,Cabernet Franc,Mendoza Province
+1646,90-94,325,30-39,Malbec,Mendoza Province
+1647,90-94,278,20-29,Malbec,Mendoza Province
+1648,90-94,272,30-39,Malbec,Mendoza Province
+1649,90-94,323,20-29,Red Blend,Mendoza Province
+1650,85-89,339,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+1651,90-94,311,80-99,Cabernet Sauvignon,Mendoza Province
+1652,85-89,274,10-19,Cabernet Sauvignon,Other
+1653,85-89,281,10-19,Syrah,Mendoza Province
+1654,85-89,267,10-19,Pinot Noir,Mendoza Province
+1655,85-89,279,<10,Malbec,Other
+1656,85-89,236,10-19,Malbec,Mendoza Province
+1657,85-89,174,10-19,Chardonnay,Mendoza Province
+1658,85-89,185,40-49,Sauvignon Blanc,Mendoza Province
+1659,85-89,228,40-49,Cabernet Franc,Mendoza Province
+1660,85-89,169,10-19,Cabernet Sauvignon,Mendoza Province
+1661,85-89,179,10-19,Cabernet Sauvignon,Mendoza Province
+1662,85-89,277,20-29,Cabernet Sauvignon,Mendoza Province
+1663,85-89,189,10-19,Chardonnay,Mendoza Province
+1664,85-89,285,10-19,Cabernet Sauvignon,Mendoza Province
+1665,90-94,292,30-39,Chardonnay,Mendoza Province
+1666,85-89,277,10-19,Malbec,Mendoza Province
+1667,85-89,245,10-19,Cabernet Sauvignon-Shiraz,Other
+1668,85-89,196,<10,Rosé,Mendoza Province
+1669,80-84,219,10-19,Pinot Grigio,Mendoza Province
+1670,80-84,196,10-19,Malbec,Mendoza Province
+1671,85-89,257,10-19,Merlot,Mendoza Province
+1672,85-89,297,10-19,Malbec,Mendoza Province
+1673,85-89,254,10-19,Bonarda,Mendoza Province
+1674,85-89,242,30-39,Malbec,Mendoza Province
+1675,80-84,229,20-29,Malbec-Cabernet Sauvignon,Other
+1676,80-84,226,10-19,Malbec,Mendoza Province
+1677,80-84,223,20-29,Merlot,Mendoza Province
+1678,85-89,168,10-19,Pinot Grigio,Mendoza Province
+1679,90-94,437,60-79,Syrah-Viognier,Mendoza Province
+1680,85-89,186,10-19,Chardonnay,Mendoza Province
+1681,85-89,211,10-19,Torrontés,Other
+1682,85-89,219,10-19,Rosé,Mendoza Province
+1683,80-84,218,20-29,Torrontés,Mendoza Province
+1684,80-84,189,10-19,Bonarda,Mendoza Province
+1685,80-84,213,10-19,Sparkling Blend,Mendoza Province
+1686,80-84,150,20-29,Pinot Noir,Mendoza Province
+1687,80-84,198,10-19,Pinot Noir,Mendoza Province
+1688,80-84,176,10-19,Malbec,Mendoza Province
+1689,90-94,312,50-59,Cabernet Sauvignon,Mendoza Province
+1690,85-89,272,80-99,Malbec-Tannat,Other
+1691,90-94,381,40-49,Malbec,Mendoza Province
+1692,90-94,306,20-29,Malbec,Mendoza Province
+1693,90-94,329,60-79,Red Blend,Mendoza Province
+1694,85-89,220,10-19,Malbec,Mendoza Province
+1695,80-84,194,10-19,Tempranillo,Mendoza Province
+1696,80-84,199,10-19,Chardonnay,Mendoza Province
+1697,80-84,166,30-39,Malbec,Mendoza Province
+1698,80-84,177,10-19,Chardonnay,Mendoza Province
+1699,80-84,252,10-19,Cabernet Sauvignon,Other
+1700,80-84,172,10-19,Malbec,Mendoza Province
+1701,90-94,313,30-39,Cabernet Blend,Mendoza Province
+1702,85-89,247,10-19,Cabernet Sauvignon,Mendoza Province
+1703,85-89,218,10-19,Torrontés,Other
+1704,80-84,265,10-19,Malbec,Mendoza Province
+1705,80-84,170,10-19,Chardonnay,Other
+1706,80-84,200,10-19,Cabernet Sauvignon,Mendoza Province
+1707,85-89,222,10-19,Chardonnay,Mendoza Province
+1708,90-94,321,40-49,Malbec,Mendoza Province
+1709,85-89,258,20-29,Cabernet Sauvignon,Mendoza Province
+1710,90-94,290,20-29,Malbec,Mendoza Province
+1711,90-94,332,50-59,Malbec-Cabernet Franc,Mendoza Province
+1712,90-94,294,10-19,Malbec,Mendoza Province
+1713,95-99,318,100+,Malbec,Mendoza Province
+1714,95-99,347,80-99,Malbec,Other
+1715,85-89,216,10-19,Merlot,Other
+1716,85-89,278,10-19,Chardonnay,Other
+1717,90-94,312,10-19,Malbec,Mendoza Province
+1718,90-94,311,30-39,Malbec,Mendoza Province
+1719,90-94,353,30-39,Malbec-Merlot,Mendoza Province
+1720,85-89,319,10-19,Bonarda,Mendoza Province
+1721,85-89,309,20-29,Malbec,Mendoza Province
+1722,85-89,371,20-29,Malbec,Other
+1723,85-89,315,30-39,Malbec,Mendoza Province
+1724,85-89,282,10-19,Pinot Noir,Mendoza Province
+1725,85-89,254,20-29,Malbec,Mendoza Province
+1726,85-89,204,10-19,White Blend,Mendoza Province
+1727,85-89,258,20-29,Malbec,Mendoza Province
+1728,85-89,272,20-29,Malbec,Mendoza Province
+1729,85-89,274,20-29,Malbec,Mendoza Province
+1730,85-89,258,20-29,Malbec,Mendoza Province
+1731,85-89,265,30-39,Cabernet Franc,Mendoza Province
+1732,85-89,309,30-39,Pinot Noir,Mendoza Province
+1733,90-94,235,20-29,Malbec,Mendoza Province
+1734,90-94,282,80-99,Cabernet Franc,Mendoza Province
+1735,80-84,117,10-19,Chardonnay,Mendoza Province
+1736,80-84,159,10-19,Cabernet Sauvignon,Mendoza Province
+1737,90-94,282,30-39,Malbec,Mendoza Province
+1738,90-94,324,40-49,Malbec,Mendoza Province
+1739,90-94,295,20-29,Cabernet Sauvignon,Mendoza Province
+1740,85-89,204,10-19,Torrontés,Mendoza Province
+1741,85-89,249,10-19,Malbec,Mendoza Province
+1742,85-89,228,10-19,Malbec,Mendoza Province
+1743,85-89,211,10-19,Chardonnay,Mendoza Province
+1744,85-89,257,10-19,Cabernet Sauvignon,Mendoza Province
+1745,85-89,308,10-19,Malbec,Mendoza Province
+1746,80-84,119,10-19,Malbec,Mendoza Province
+1747,80-84,160,10-19,Syrah,Mendoza Province
+1748,80-84,71,10-19,Pinot Grigio,Mendoza Province
+1749,80-84,216,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+1750,80-84,338,20-29,Malbec,Mendoza Province
+1751,85-89,335,10-19,Red Blend,Mendoza Province
+1752,85-89,231,10-19,Torrontés,Mendoza Province
+1753,90-94,317,30-39,Malbec,Mendoza Province
+1754,90-94,246,30-39,Malbec,Mendoza Province
+1755,85-89,232,10-19,Torrontés,Mendoza Province
+1756,85-89,270,20-29,Malbec,Mendoza Province
+1757,85-89,340,20-29,Malbec,Other
+1758,85-89,144,20-29,Malbec,Mendoza Province
+1759,85-89,228,10-19,Cabernet Sauvignon,Mendoza Province
+1760,80-84,223,10-19,Malbec,Mendoza Province
+1761,90-94,319,50-59,Malbec,Mendoza Province
+1762,85-89,325,50-59,Malbec,Mendoza Province
+1763,90-94,321,80-99,Red Blend,Mendoza Province
+1764,80-84,210,10-19,Cabernet Sauvignon,Mendoza Province
+1765,80-84,194,10-19,Chardonnay-Viognier,Mendoza Province
+1766,80-84,189,10-19,Malbec,Mendoza Province
+1767,85-89,277,10-19,Bonarda,Other
+1768,80-84,123,10-19,Merlot,Mendoza Province
+1769,85-89,202,10-19,Malbec,Mendoza Province
+1770,85-89,230,10-19,Malbec,Mendoza Province
+1771,85-89,206,30-39,Malbec,Mendoza Province
+1772,85-89,283,10-19,Malbec,Mendoza Province
+1773,85-89,395,60-79,Trousseau,Other
+1774,85-89,203,10-19,Torrontés,Other
+1775,85-89,198,10-19,Malbec,Mendoza Province
+1776,85-89,194,10-19,Malbec,Mendoza Province
+1777,85-89,186,10-19,Malbec,Mendoza Province
+1778,80-84,192,10-19,Malbec,Mendoza Province
+1779,80-84,273,20-29,Cabernet Sauvignon,Mendoza Province
+1780,85-89,304,10-19,Bonarda,Mendoza Province
+1781,85-89,247,10-19,Cabernet Sauvignon,Mendoza Province
+1782,90-94,265,80-99,Malbec,Mendoza Province
+1783,90-94,298,30-39,Red Blend,Mendoza Province
+1784,90-94,376,30-39,Malbec,Mendoza Province
+1785,85-89,239,20-29,Malbec,Mendoza Province
+1786,90-94,339,50-59,Malbec,Mendoza Province
+1787,85-89,285,10-19,Syrah,Mendoza Province
+1788,85-89,270,10-19,Malbec,Mendoza Province
+1789,85-89,211,10-19,Pinot Grigio,Mendoza Province
+1790,85-89,179,10-19,Malbec,Mendoza Province
+1791,90-94,226,10-19,Cabernet Sauvignon,Mendoza Province
+1792,90-94,388,40-49,Malbec,Mendoza Province
+1793,90-94,278,30-39,Pinot Noir,Other
+1794,80-84,167,10-19,Sauvignon Blanc,Other
+1795,90-94,314,40-49,Malbec,Mendoza Province
+1796,90-94,380,50-59,Malbec,Mendoza Province
+1797,90-94,323,20-29,Malbec,Mendoza Province
+1798,85-89,275,10-19,Malbec,Other
+1799,85-89,255,30-39,Malbec,Mendoza Province
+1800,85-89,235,10-19,Malbec,Mendoza Province
+1801,85-89,238,10-19,Malbec,Mendoza Province
+1802,85-89,274,40-49,Malbec-Cabernet,Other
+1803,85-89,250,10-19,Torrontés,Other
+1804,90-94,280,10-19,Malbec,Mendoza Province
+1805,85-89,287,30-39,Pinot Noir,Mendoza Province
+1806,85-89,306,20-29,Cabernet Sauvignon,Mendoza Province
+1807,85-89,220,20-29,Torrontés,Other
+1808,90-94,225,60-79,Malbec,Mendoza Province
+1809,90-94,239,30-39,Malbec-Petit Verdot,Mendoza Province
+1810,90-94,262,50-59,Malbec,Mendoza Province
+1811,90-94,216,20-29,Petit Verdot,Mendoza Province
+1812,90-94,264,50-59,Malbec,Mendoza Province
+1813,85-89,183,10-19,Malbec,Mendoza Province
+1814,85-89,283,20-29,Champagne Blend,Mendoza Province
+1815,85-89,221,20-29,Rosé,Mendoza Province
+1816,85-89,224,10-19,Cabernet Franc-Cabernet Sauvignon,Mendoza Province
+1817,85-89,260,20-29,Malbec-Syrah,Mendoza Province
+1818,85-89,176,10-19,Cabernet Sauvignon,Mendoza Province
+1819,80-84,217,10-19,Merlot,Mendoza Province
+1820,80-84,237,<10,White Blend,Mendoza Province
+1821,95-99,353,100+,Malbec,Mendoza Province
+1822,90-94,313,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+1823,85-89,236,10-19,Torrontés,Other
+1824,85-89,240,20-29,Malbec,Mendoza Province
+1825,85-89,234,10-19,Malbec,Mendoza Province
+1826,85-89,216,10-19,Cabernet-Malbec,Mendoza Province
+1827,85-89,318,40-49,Bordeaux-style Red Blend,Mendoza Province
+1828,85-89,218,10-19,Torrontés,Other
+1829,85-89,263,20-29,Torrontés,Mendoza Province
+1830,85-89,223,10-19,Malbec,Mendoza Province
+1831,85-89,264,20-29,Cabernet Sauvignon,Mendoza Province
+1832,85-89,234,10-19,Torrontés,Other
+1833,90-94,261,40-49,Cabernet Sauvignon,Mendoza Province
+1834,90-94,336,30-39,Malbec,Mendoza Province
+1835,90-94,275,30-39,Cabernet Franc-Malbec,Mendoza Province
+1836,85-89,265,10-19,Malbec,Other
+1837,90-94,346,60-79,Malbec,Mendoza Province
+1838,85-89,343,10-19,Chardonnay,Mendoza Province
+1839,85-89,300,10-19,Malbec,Mendoza Province
+1840,85-89,328,10-19,Red Blend,Mendoza Province
+1841,85-89,286,30-39,Chardonnay,Mendoza Province
+1842,85-89,334,10-19,Chardonnay,Mendoza Province
+1843,85-89,253,10-19,Malbec,Mendoza Province
+1844,85-89,263,10-19,Chardonnay,Mendoza Province
+1845,85-89,306,10-19,Bordeaux-style Red Blend,Mendoza Province
+1846,85-89,256,20-29,Chardonnay,Mendoza Province
+1847,80-84,251,10-19,Pinot Noir,Mendoza Province
+1848,85-89,255,20-29,Malbec,Mendoza Province
+1849,85-89,243,10-19,Malbec,Mendoza Province
+1850,90-94,291,20-29,Red Blend,Mendoza Province
+1851,85-89,191,10-19,Bonarda,Mendoza Province
+1852,85-89,307,20-29,Malbec,Mendoza Province
+1853,85-89,277,10-19,Malbec,Mendoza Province
+1854,90-94,352,20-29,Malbec-Cabernet Sauvignon,Other
+1855,90-94,322,10-19,Bordeaux-style Red Blend,Mendoza Province
+1856,85-89,243,10-19,Torrontés,Other
+1857,85-89,233,10-19,Malbec,Mendoza Province
+1858,85-89,182,20-29,Malbec,Mendoza Province
+1859,85-89,274,20-29,Syrah,Other
+1860,85-89,254,10-19,Cabernet Sauvignon,Mendoza Province
+1861,85-89,231,20-29,Cabernet Sauvignon,Mendoza Province
+1862,85-89,249,10-19,Malbec,Mendoza Province
+1863,90-94,265,30-39,Red Blend,Mendoza Province
+1864,85-89,211,10-19,Chardonnay,Mendoza Province
+1865,85-89,207,10-19,Malbec,Mendoza Province
+1866,90-94,391,100+,Pinot Noir,Other
+1867,90-94,317,30-39,Malbec,Mendoza Province
+1868,85-89,228,10-19,Bonarda,Mendoza Province
+1869,85-89,268,20-29,Malbec,Mendoza Province
+1870,85-89,306,20-29,Red Blend,Mendoza Province
+1871,85-89,283,10-19,Malbec,Mendoza Province
+1872,85-89,272,20-29,Malbec,Mendoza Province
+1873,85-89,206,10-19,Malbec,Mendoza Province
+1874,85-89,225,10-19,Cabernet Sauvignon,Mendoza Province
+1875,85-89,238,10-19,Merlot,Mendoza Province
+1876,90-94,231,20-29,Malbec,Mendoza Province
+1877,90-94,257,20-29,Malbec,Mendoza Province
+1878,90-94,285,10-19,Red Blend,Mendoza Province
+1879,90-94,288,60-79,Cabernet Sauvignon,Mendoza Province
+1880,90-94,267,100+,Malbec,Mendoza Province
+1881,80-84,257,20-29,Cabernet Sauvignon,Mendoza Province
+1882,80-84,205,10-19,Malbec,Mendoza Province
+1883,80-84,240,10-19,Malbec,Mendoza Province
+1884,80-84,172,10-19,Cabernet Sauvignon,Mendoza Province
+1885,80-84,260,10-19,Cabernet Sauvignon,Mendoza Province
+1886,85-89,242,20-29,Cabernet Sauvignon,Mendoza Province
+1887,85-89,267,10-19,Malbec,Mendoza Province
+1888,85-89,346,10-19,Red Blend,Mendoza Province
+1889,90-94,260,20-29,Malbec,Mendoza Province
+1890,90-94,399,30-39,Bordeaux-style Red Blend,Mendoza Province
+1891,90-94,330,100+,Cabernet Sauvignon,Mendoza Province
+1892,85-89,204,10-19,Cabernet Sauvignon,Mendoza Province
+1893,85-89,263,10-19,Cabernet Sauvignon,Mendoza Province
+1894,90-94,381,80-99,Malbec,Mendoza Province
+1895,90-94,322,100+,Malbec-Cabernet Sauvignon,Mendoza Province
+1896,90-94,352,50-59,Red Blend,Mendoza Province
+1897,85-89,269,10-19,Cabernet Sauvignon,Mendoza Province
+1898,85-89,222,10-19,Torrontés,Other
+1899,85-89,246,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+1900,85-89,276,20-29,Malbec,Mendoza Province
+1901,90-94,319,30-39,Red Blend,Mendoza Province
+1902,90-94,237,10-19,Malbec,Mendoza Province
+1903,85-89,232,20-29,Malbec,Mendoza Province
+1904,85-89,222,20-29,Cabernet Franc,Mendoza Province
+1905,80-84,228,10-19,Red Blend,Other
+1906,80-84,222,10-19,Cabernet Sauvignon-Shiraz,Other
+1907,80-84,145,<10,Torrontés,Other
+1908,80-84,281,10-19,Torrontés,Other
+1909,90-94,320,100+,Cabernet Franc,Mendoza Province
+1910,85-89,236,10-19,Cabernet Sauvignon,Mendoza Province
+1911,85-89,218,10-19,Malbec,Other
+1912,85-89,209,10-19,Pinot Grigio,Mendoza Province
+1913,90-94,403,20-29,Malbec,Mendoza Province
+1914,85-89,230,10-19,Torrontés,Other
+1915,90-94,273,50-59,Bordeaux-style Red Blend,Mendoza Province
+1916,85-89,238,30-39,Malbec,Mendoza Province
+1917,90-94,305,60-79,Cabernet Sauvignon,Mendoza Province
+1918,85-89,235,20-29,Malbec,Mendoza Province
+1919,85-89,219,10-19,Malbec,Mendoza Province
+1920,85-89,226,20-29,Cabernet Sauvignon,Mendoza Province
+1921,85-89,285,10-19,Malbec,Mendoza Province
+1922,85-89,264,10-19,Cabernet Sauvignon,Mendoza Province
+1923,85-89,235,10-19,Torrontés,Other
+1924,85-89,256,20-29,Cabernet Sauvignon,Mendoza Province
+1925,95-99,323,50-59,Malbec,Mendoza Province
+1926,90-94,365,50-59,Malbec,Mendoza Province
+1927,90-94,333,80-99,Malbec,Mendoza Province
+1928,80-84,199,10-19,Torrontés,Other
+1929,80-84,193,10-19,Cabernet Sauvignon,Mendoza Province
+1930,90-94,301,20-29,Cabernet Franc,Mendoza Province
+1931,85-89,270,20-29,Chardonnay,Mendoza Province
+1932,85-89,319,40-49,Red Blend,Other
+1933,85-89,262,20-29,Cabernet Sauvignon,Mendoza Province
+1934,90-94,312,30-39,Red Blend,Mendoza Province
+1935,90-94,336,50-59,Red Blend,Mendoza Province
+1936,90-94,263,20-29,Malbec,Mendoza Province
+1937,90-94,316,40-49,Malbec,Mendoza Province
+1938,90-94,294,100+,Malbec,Mendoza Province
+1939,85-89,260,10-19,Syrah-Bonarda,Mendoza Province
+1940,85-89,259,10-19,Malbec,Mendoza Province
+1941,85-89,218,10-19,Torrontés,Other
+1942,85-89,249,10-19,Cabernet Sauvignon,Mendoza Province
+1943,85-89,219,10-19,Cabernet Sauvignon,Other
+1944,90-94,206,20-29,Malbec,Mendoza Province
+1945,90-94,268,10-19,Malbec,Mendoza Province
+1946,90-94,218,50-59,Red Blend,Mendoza Province
+1947,90-94,288,50-59,Red Blend,Mendoza Province
+1948,90-94,289,10-19,Cabernet Sauvignon,Mendoza Province
+1949,85-89,301,30-39,Bordeaux-style Red Blend,Mendoza Province
+1950,85-89,219,20-29,Chardonnay,Mendoza Province
+1951,85-89,239,10-19,Malbec,Mendoza Province
+1952,85-89,252,20-29,Red Blend,Mendoza Province
+1953,85-89,204,10-19,Cabernet Sauvignon,Mendoza Province
+1954,85-89,251,20-29,Malbec,Mendoza Province
+1955,85-89,208,20-29,Malbec,Mendoza Province
+1956,85-89,281,20-29,Cabernet Sauvignon,Mendoza Province
+1957,85-89,219,10-19,Malbec,Other
+1958,85-89,296,30-39,Malbec,Other
+1959,90-94,309,10-19,Malbec,Other
+1960,80-84,225,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+1961,80-84,203,10-19,Red Blend,Mendoza Province
+1962,80-84,117,10-19,Chenin Blanc,Mendoza Province
+1963,80-84,220,10-19,Pinot Noir,Mendoza Province
+1964,80-84,195,20-29,Malbec,Mendoza Province
+1965,80-84,194,10-19,Malbec,Mendoza Province
+1966,85-89,282,20-29,Torrontés,Other
+1967,85-89,242,20-29,Cabernet Sauvignon,Mendoza Province
+1968,85-89,228,10-19,Cabernet Sauvignon,Mendoza Province
+1969,90-94,289,10-19,Bonarda,Mendoza Province
+1970,90-94,308,10-19,Malbec,Mendoza Province
+1971,90-94,338,20-29,Malbec,Mendoza Province
+1972,90-94,326,60-79,Malbec,Other
+1973,90-94,312,100+,Malbec,Mendoza Province
+1974,90-94,328,40-49,Malbec,Mendoza Province
+1975,90-94,298,30-39,Cabernet Sauvignon,Mendoza Province
+1976,90-94,256,40-49,Malbec,Mendoza Province
+1977,90-94,337,20-29,Malbec,Mendoza Province
+1978,90-94,366,80-99,Malbec,Mendoza Province
+1979,90-94,338,80-99,Malbec,Mendoza Province
+1980,85-89,229,10-19,Torrontés,Mendoza Province
+1981,80-84,208,<10,Malbec,Other
+1982,80-84,119,<10,Malbec,Other
+1983,80-84,193,<10,Chardonnay,Mendoza Province
+1984,80-84,194,10-19,Malbec,Other
+1985,80-84,136,10-19,Chardonnay,Mendoza Province
+1986,80-84,224,10-19,White Blend,Mendoza Province
+1987,85-89,322,60-79,Cabernet Franc,Mendoza Province
+1988,80-84,401,10-19,Cabernet Sauvignon,Other
+1989,80-84,261,20-29,Sparkling Blend,Mendoza Province
+1990,80-84,338,10-19,Malbec,Mendoza Province
+1991,90-94,289,20-29,Malbec,Mendoza Province
+1992,85-89,230,10-19,Pinot Noir,Other
+1993,90-94,333,50-59,Malbec,Mendoza Province
+1994,85-89,243,10-19,Merlot,Mendoza Province
+1995,90-94,320,30-39,Bordeaux-style Red Blend,Mendoza Province
+1996,90-94,297,40-49,Red Blend,Mendoza Province
+1997,85-89,235,<10,Shiraz,Other
+1998,85-89,213,40-49,Bordeaux-style Red Blend,Other
+1999,85-89,273,<10,Malbec-Tempranillo,Mendoza Province
+2000,85-89,335,50-59,Red Blend,Mendoza Province
+2001,85-89,297,20-29,Cabernet Sauvignon,Mendoza Province
+2002,85-89,337,10-19,Pinot Noir,Mendoza Province
+2003,80-84,188,10-19,Malbec,Mendoza Province
+2004,80-84,176,10-19,Malbec,Mendoza Province
+2005,80-84,224,10-19,Rosé,Other
+2006,80-84,244,10-19,Red Blend,Mendoza Province
+2007,80-84,167,10-19,Chardonnay,Mendoza Province
+2008,80-84,155,30-39,Sauvignon Blanc,Other
+2009,80-84,220,10-19,Pinot Noir,Other
+2010,90-94,223,20-29,Cabernet Franc,Mendoza Province
+2011,90-94,239,30-39,Malbec-Petit Verdot,Mendoza Province
+2012,80-84,219,10-19,Cabernet Sauvignon,Mendoza Province
+2013,80-84,179,10-19,Pinot Noir,Mendoza Province
+2014,80-84,201,10-19,Red Blend,Mendoza Province
+2015,85-89,265,10-19,Cabernet Sauvignon,Mendoza Province
+2016,80-84,217,10-19,Cabernet Sauvignon,Other
+2017,85-89,235,10-19,Chardonnay,Mendoza Province
+2018,80-84,334,10-19,Malbec,Mendoza Province
+2019,80-84,311,10-19,Malbec,Mendoza Province
+2020,85-89,208,30-39,Red Blend,Other
+2021,90-94,296,60-79,Red Blend,Mendoza Province
+2022,90-94,364,30-39,Malbec,Mendoza Province
+2023,90-94,369,30-39,Malbec,Mendoza Province
+2024,90-94,335,30-39,Malbec,Mendoza Province
+2025,90-94,275,30-39,Cabernet Franc-Malbec,Mendoza Province
+2026,80-84,260,20-29,Viognier,Mendoza Province
+2027,85-89,243,30-39,Malbec,Mendoza Province
+2028,85-89,245,20-29,Malbec,Mendoza Province
+2029,85-89,253,10-19,Cabernet Sauvignon,Mendoza Province
+2030,90-94,291,100+,Cabernet Franc,Mendoza Province
+2031,85-89,262,20-29,Malbec,Other
+2032,85-89,212,10-19,Torrontés,Mendoza Province
+2033,85-89,210,10-19,Chardonnay,Mendoza Province
+2034,90-94,290,20-29,Malbec,Other
+2035,90-94,282,30-39,Malbec,Mendoza Province
+2036,85-89,255,20-29,Cabernet Sauvignon,Mendoza Province
+2037,85-89,276,10-19,Malbec,Mendoza Province
+2038,85-89,283,30-39,Malbec,Mendoza Province
+2039,90-94,269,30-39,Malbec Blend,Mendoza Province
+2040,85-89,275,20-29,Malbec-Cabernet Sauvignon,Mendoza Province
+2041,80-84,202,10-19,Chardonnay,Mendoza Province
+2042,80-84,221,10-19,Malbec,Mendoza Province
+2043,80-84,226,10-19,Malbec,Mendoza Province
+2044,80-84,222,10-19,Sauvignon Blanc,Mendoza Province
+2045,80-84,167,10-19,Chardonnay,Mendoza Province
+2046,85-89,273,10-19,Malbec,Mendoza Province
+2047,85-89,221,10-19,Malbec,Mendoza Province
+2048,85-89,229,10-19,Malbec,Mendoza Province
+2049,85-89,247,10-19,Bonarda,Mendoza Province
+2050,90-94,319,10-19,Shiraz-Malbec,Mendoza Province
+2051,90-94,325,20-29,Malbec,Mendoza Province
+2052,85-89,249,20-29,Malbec,Mendoza Province
+2053,85-89,260,10-19,Cabernet Sauvignon,Mendoza Province
+2054,85-89,283,30-39,Malbec,Mendoza Province
+2055,90-94,276,20-29,Malbec,Mendoza Province
+2056,90-94,238,20-29,Malbec,Mendoza Province
+2057,90-94,298,20-29,Cabernet Sauvignon,Mendoza Province
+2058,90-94,282,60-79,Malbec,Mendoza Province
+2059,85-89,357,20-29,Bordeaux-style Red Blend,Mendoza Province
+2060,85-89,347,30-39,Malbec,Mendoza Province
+2061,90-94,293,80-99,Malbec,Mendoza Province
+2062,90-94,301,20-29,Bordeaux-style Red Blend,Mendoza Province
+2063,90-94,269,50-59,Malbec,Mendoza Province
+2064,95-99,358,40-49,Malbec,Mendoza Province
+2065,85-89,237,20-29,Malbec,Mendoza Province
+2066,90-94,287,60-79,Malbec-Cabernet Franc,Mendoza Province
+2067,85-89,295,20-29,Cabernet Sauvignon,Mendoza Province
+2068,85-89,256,10-19,Cabernet Sauvignon,Mendoza Province
+2069,85-89,277,60-79,Cabernet Sauvignon,Mendoza Province
+2070,85-89,272,20-29,Cabernet Sauvignon,Mendoza Province
+2071,85-89,223,10-19,Malbec,Mendoza Province
+2072,90-94,308,20-29,Red Blend,Mendoza Province
+2073,90-94,254,10-19,Cabernet Sauvignon,Mendoza Province
+2074,80-84,277,10-19,Malbec,Mendoza Province
+2075,80-84,254,10-19,Malbec,Mendoza Province
+2076,80-84,337,20-29,Red Blend,Mendoza Province
+2077,80-84,366,10-19,Cabernet Sauvignon,Mendoza Province
+2078,85-89,262,10-19,Sparkling Blend,Mendoza Province
+2079,80-84,195,10-19,Chardonnay,Mendoza Province
+2080,80-84,278,20-29,Cabernet Sauvignon,Other
+2081,85-89,258,20-29,Malbec,Mendoza Province
+2082,85-89,185,10-19,Malbec-Tempranillo,Mendoza Province
+2083,85-89,208,10-19,Cabernet Sauvignon,Mendoza Province
+2084,85-89,225,20-29,Malbec,Mendoza Province
+2085,85-89,250,10-19,Cabernet Sauvignon,Mendoza Province
+2086,85-89,221,10-19,Syrah,Mendoza Province
+2087,85-89,166,10-19,Malbec,Mendoza Province
+2088,85-89,243,10-19,White Blend,Mendoza Province
+2089,80-84,219,10-19,Cabernet Sauvignon,Mendoza Province
+2090,80-84,190,10-19,Pinot Grigio,Mendoza Province
+2091,80-84,195,10-19,Viognier,Mendoza Province
+2092,80-84,222,10-19,Chardonnay,Mendoza Province
+2093,80-84,166,10-19,Cabernet Sauvignon,Mendoza Province
+2094,80-84,200,10-19,Rosé,Mendoza Province
+2095,85-89,265,10-19,Cabernet Franc,Mendoza Province
+2096,85-89,215,10-19,Red Blend,Mendoza Province
+2097,85-89,224,10-19,Malbec,Mendoza Province
+2098,85-89,185,10-19,Cabernet Sauvignon,Mendoza Province
+2099,85-89,283,10-19,Bonarda,Mendoza Province
+2100,85-89,224,10-19,Malbec,Mendoza Province
+2101,85-89,259,10-19,Malbec,Mendoza Province
+2102,85-89,306,10-19,Syrah,Mendoza Province
+2103,85-89,348,40-49,Malbec,Mendoza Province
+2104,80-84,155,10-19,Cabernet Sauvignon,Mendoza Province
+2105,80-84,262,10-19,Cabernet Sauvignon,Mendoza Province
+2106,80-84,278,10-19,Merlot,Mendoza Province
+2107,80-84,274,10-19,Chardonnay,Mendoza Province
+2108,80-84,313,20-29,Malbec,Mendoza Province
+2109,90-94,306,100+,Malbec-Cabernet Sauvignon,Mendoza Province
+2110,85-89,317,<10,Cabernet Sauvignon-Shiraz,Mendoza Province
+2111,90-94,333,60-79,Malbec,Mendoza Province
+2112,90-94,335,20-29,Malbec,Mendoza Province
+2113,85-89,291,20-29,Cabernet Sauvignon,Mendoza Province
+2114,85-89,258,10-19,Malbec,Mendoza Province
+2115,85-89,255,20-29,Torrontés,Other
+2116,85-89,270,10-19,Malbec,Other
+2117,85-89,242,10-19,Cabernet Sauvignon,Mendoza Province
+2118,85-89,199,10-19,Malbec,Mendoza Province
+2119,85-89,210,10-19,Malbec,Mendoza Province
+2120,85-89,263,10-19,Malbec,Mendoza Province
+2121,80-84,247,10-19,Cabernet Sauvignon,Mendoza Province
+2122,80-84,203,10-19,Merlot,Mendoza Province
+2123,80-84,219,20-29,Malbec,Mendoza Province
+2124,80-84,202,10-19,Malbec,Mendoza Province
+2125,85-89,292,30-39,Chardonnay,Mendoza Province
+2126,85-89,255,10-19,Chardonnay-Sauvignon,Mendoza Province
+2127,85-89,264,10-19,Chardonnay-Viognier,Mendoza Province
+2128,85-89,215,20-29,Chardonnay,Mendoza Province
+2129,85-89,279,20-29,Bordeaux-style Red Blend,Mendoza Province
+2130,85-89,287,30-39,Pinot Noir,Mendoza Province
+2131,85-89,329,40-49,Malbec,Mendoza Province
+2132,85-89,226,10-19,Cabernet Sauvignon,Mendoza Province
+2133,90-94,309,100+,Bordeaux-style Red Blend,Mendoza Province
+2134,90-94,364,40-49,Malbec-Cabernet Sauvignon,Mendoza Province
+2135,90-94,341,40-49,Malbec,Mendoza Province
+2136,90-94,384,50-59,Malbec,Mendoza Province
+2137,85-89,195,10-19,Chardonnay,Mendoza Province
+2138,85-89,214,10-19,Malbec,Mendoza Province
+2139,85-89,293,20-29,Red Blend,Mendoza Province
+2140,85-89,277,<10,Red Blend,Mendoza Province
+2141,85-89,270,10-19,Cabernet Sauvignon,Mendoza Province
+2142,85-89,221,10-19,Sauvignon Blanc,Mendoza Province
+2143,85-89,198,10-19,Chardonnay,Mendoza Province
+2144,85-89,276,20-29,Malbec-Cabernet Franc,Mendoza Province
+2145,85-89,238,10-19,Torrontés,Other
+2146,85-89,294,20-29,Syrah,Mendoza Province
+2147,85-89,310,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+2148,90-94,306,20-29,Pinot Noir,Mendoza Province
+2149,80-84,249,30-39,Malbec,Mendoza Province
+2150,80-84,269,10-19,Rosé,Mendoza Province
+2151,85-89,279,10-19,Pinot Noir,Mendoza Province
+2152,85-89,245,10-19,Red Blend,Other
+2153,85-89,304,10-19,Viognier,Mendoza Province
+2154,85-89,239,10-19,Malbec,Mendoza Province
+2155,85-89,312,10-19,Malbec,Mendoza Province
+2156,85-89,264,10-19,Chardonnay,Mendoza Province
+2157,85-89,277,20-29,Torrontés,Other
+2158,85-89,174,10-19,Malbec,Mendoza Province
+2159,90-94,310,40-49,Malbec,Mendoza Province
+2160,85-89,219,10-19,Chardonnay,Mendoza Province
+2161,85-89,243,20-29,Cabernet Sauvignon,Mendoza Province
+2162,85-89,222,20-29,Malbec,Mendoza Province
+2163,85-89,350,100+,Malbec,Mendoza Province
+2164,85-89,276,20-29,Malbec,Mendoza Province
+2165,85-89,288,30-39,Petit Verdot,Mendoza Province
+2166,85-89,339,20-29,Malbec,Mendoza Province
+2167,80-84,287,10-19,Chardonnay,Mendoza Province
+2168,85-89,253,10-19,Syrah,Mendoza Province
+2169,90-94,277,100+,Cabernet Franc,Mendoza Province
+2170,80-84,341,10-19,Malbec,Other
+2171,80-84,270,10-19,Malbec,Mendoza Province
+2172,80-84,291,10-19,Malbec,Mendoza Province
+2173,80-84,197,<10,Shiraz,Mendoza Province
+2174,80-84,207,<10,Malbec,Mendoza Province
+2175,80-84,197,<10,Chardonnay,Mendoza Province
+2176,85-89,263,50-59,Red Blend,Mendoza Province
+2177,85-89,227,10-19,Malbec,Mendoza Province
+2178,90-94,332,60-79,Bordeaux-style Red Blend,Mendoza Province
+2179,90-94,321,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+2180,85-89,258,20-29,Bonarda,Mendoza Province
+2181,85-89,290,20-29,Sauvignon Blanc,Mendoza Province
+2182,90-94,366,20-29,Red Blend,Mendoza Province
+2183,90-94,362,20-29,Malbec,Mendoza Province
+2184,85-89,244,10-19,Malbec,Mendoza Province
+2185,85-89,221,20-29,Cabernet Sauvignon,Mendoza Province
+2186,85-89,231,10-19,Torrontés,Mendoza Province
+2187,80-84,117,10-19,Malbec,Mendoza Province
+2188,80-84,205,10-19,Malbec,Other
+2189,85-89,308,20-29,Syrah,Mendoza Province
+2190,85-89,304,20-29,Syrah,Mendoza Province
+2191,85-89,346,10-19,Torrontés,Other
+2192,80-84,182,20-29,Malbec,Mendoza Province
+2193,80-84,172,10-19,Malbec,Mendoza Province
+2194,80-84,128,10-19,Chardonnay,Mendoza Province
+2195,80-84,224,20-29,Malbec,Mendoza Province
+2196,90-94,205,20-29,Cabernet Sauvignon,Mendoza Province
+2197,85-89,164,10-19,Torrontés,Other
+2198,85-89,322,10-19,Malbec,Mendoza Province
+2199,85-89,226,10-19,Cabernet Sauvignon,Mendoza Province
+2200,85-89,255,10-19,Malbec,Mendoza Province
+2201,85-89,305,10-19,Chardonnay-Viognier,Mendoza Province
+2202,80-84,245,10-19,Chardonnay,Mendoza Province
+2203,80-84,205,10-19,Chardonnay,Mendoza Province
+2204,85-89,171,10-19,Rosé,Mendoza Province
+2205,85-89,240,20-29,Malbec,Other
+2206,85-89,213,10-19,Cabernet Sauvignon,Mendoza Province
+2207,85-89,240,10-19,Malbec,Mendoza Province
+2208,85-89,209,10-19,Cabernet Sauvignon,Mendoza Province
+2209,85-89,158,10-19,Pinot Noir,Mendoza Province
+2210,85-89,246,30-39,Malbec,Mendoza Province
+2211,85-89,289,10-19,Malbec,Mendoza Province
+2212,85-89,257,10-19,Malbec,Mendoza Province
+2213,85-89,346,10-19,Malbec,Mendoza Province
+2214,80-84,140,10-19,Sparkling Blend,Mendoza Province
+2215,80-84,237,10-19,Sparkling Blend,Mendoza Province
+2216,80-84,210,10-19,Chardonnay,Mendoza Province
+2217,80-84,202,10-19,Malbec,Mendoza Province
+2218,90-94,296,30-39,Cabernet Sauvignon,Mendoza Province
+2219,85-89,287,10-19,Torrontés,Other
+2220,85-89,249,10-19,Sauvignon Blanc,Mendoza Province
+2221,85-89,267,10-19,Pinot Noir,Mendoza Province
+2222,80-84,167,10-19,Chardonnay,Mendoza Province
+2223,80-84,240,10-19,Bonarda,Mendoza Province
+2224,80-84,172,10-19,Cabernet Sauvignon,Mendoza Province
+2225,80-84,237,10-19,Cabernet Sauvignon,Other
+2226,85-89,284,30-39,Malbec,Other
+2227,85-89,245,10-19,Malbec,Mendoza Province
+2228,85-89,209,10-19,Chardonnay,Mendoza Province
+2229,85-89,238,10-19,Malbec,Mendoza Province
+2230,85-89,238,30-39,Cabernet Franc,Mendoza Province
+2231,85-89,259,10-19,Bordeaux-style Red Blend,Mendoza Province
+2232,85-89,195,10-19,Malbec,Mendoza Province
+2233,85-89,283,20-29,Red Blend,Other
+2234,85-89,234,10-19,Malbec,Mendoza Province
+2235,85-89,275,20-29,Malbec,Mendoza Province
+2236,90-94,370,100+,Cabernet Franc-Malbec,Mendoza Province
+2237,85-89,290,10-19,Malbec,Mendoza Province
+2238,85-89,230,10-19,Chardonnay,Mendoza Province
+2239,85-89,270,10-19,Malbec,Mendoza Province
+2240,80-84,205,10-19,Sauvignon Blanc,Mendoza Province
+2241,80-84,297,30-39,White Blend,Mendoza Province
+2242,85-89,247,10-19,Cabernet Sauvignon,Mendoza Province
+2243,90-94,322,50-59,Malbec,Mendoza Province
+2244,90-94,252,10-19,Malbec,Mendoza Province
+2245,90-94,252,20-29,Red Blend,Mendoza Province
+2246,85-89,241,20-29,Torrontés,Other
+2247,85-89,236,10-19,Malbec,Mendoza Province
+2248,85-89,233,30-39,Malbec,Mendoza Province
+2249,80-84,218,20-29,Red Blend,Mendoza Province
+2250,90-94,358,40-49,Malbec,Mendoza Province
+2251,90-94,304,40-49,Cabernet Franc,Mendoza Province
+2252,90-94,319,100+,Malbec,Mendoza Province
+2253,90-94,233,40-49,Cabernet Sauvignon,Mendoza Province
+2254,90-94,265,30-39,Petit Verdot,Mendoza Province
+2255,90-94,282,30-39,Malbec,Mendoza Province
+2256,90-94,252,30-39,Malbec,Mendoza Province
+2257,85-89,187,10-19,Torrontés,Mendoza Province
+2258,80-84,221,10-19,Rosé,Mendoza Province
+2259,80-84,249,30-39,Malbec,Mendoza Province
+2260,85-89,262,30-39,Sauvignon Blanc,Mendoza Province
+2261,85-89,258,30-39,White Blend,Mendoza Province
+2262,85-89,238,10-19,Torrontés,Mendoza Province
+2263,90-94,243,40-49,Malbec,Mendoza Province
+2264,90-94,384,60-79,Malbec,Mendoza Province
+2265,85-89,278,10-19,White Blend,Other
+2266,90-94,310,10-19,Malbec,Mendoza Province
+2267,90-94,268,20-29,Red Blend,Mendoza Province
+2268,90-94,299,60-79,Malbec,Mendoza Province
+2269,90-94,267,60-79,Red Blend,Other
+2270,85-89,270,10-19,White Blend,Mendoza Province
+2271,85-89,226,10-19,Cabernet Sauvignon,Mendoza Province
+2272,85-89,207,10-19,Chardonnay,Mendoza Province
+2273,85-89,244,10-19,Cabernet Sauvignon,Other
+2274,85-89,224,20-29,Red Blend,Mendoza Province
+2275,85-89,244,10-19,Pinot Noir,Mendoza Province
+2276,85-89,207,10-19,Cabernet Sauvignon,Mendoza Province
+2277,85-89,215,10-19,Torrontés,Other
+2278,85-89,208,10-19,Cabernet Sauvignon,Mendoza Province
+2279,85-89,212,10-19,Malbec,Mendoza Province
+2280,85-89,270,20-29,Red Blend,Mendoza Province
+2281,85-89,236,10-19,Bonarda,Mendoza Province
+2282,85-89,207,10-19,Torrontés,Other
+2283,85-89,233,10-19,Cabernet Sauvignon,Mendoza Province
+2284,85-89,276,20-29,Malbec,Mendoza Province
+2285,85-89,244,10-19,Torrontés,Other
+2286,90-94,358,40-49,Malbec-Cabernet Sauvignon,Mendoza Province
+2287,90-94,354,100+,Chardonnay,Mendoza Province
+2288,85-89,294,40-49,Bonarda,Mendoza Province
+2289,85-89,345,20-29,Malbec,Mendoza Province
+2290,85-89,260,10-19,Malbec,Mendoza Province
+2291,85-89,283,10-19,Cabernet Sauvignon,Mendoza Province
+2292,85-89,264,10-19,Torrontés,Other
+2293,90-94,299,40-49,Syrah,Mendoza Province
+2294,85-89,199,50-59,Malbec,Other
+2295,85-89,322,10-19,Cabernet Sauvignon-Merlot,Other
+2296,85-89,326,10-19,Syrah,Mendoza Province
+2297,85-89,284,10-19,Cabernet Sauvignon,Mendoza Province
+2298,85-89,316,10-19,Malbec,Mendoza Province
+2299,85-89,247,10-19,Cabernet Sauvignon,Mendoza Province
+2300,90-94,248,10-19,Cabernet Franc,Mendoza Province
+2301,90-94,250,10-19,Bonarda,Mendoza Province
+2302,90-94,378,100+,Malbec,Mendoza Province
+2303,90-94,389,100+,Malbec,Mendoza Province
+2304,90-94,273,20-29,Malbec,Mendoza Province
+2305,90-94,306,60-79,Malbec,Mendoza Province
+2306,90-94,275,20-29,Malbec,Mendoza Province
+2307,85-89,207,10-19,Torrontés,Other
+2308,85-89,265,10-19,Bonarda,Mendoza Province
+2309,80-84,199,10-19,Sauvignon Blanc,Mendoza Province
+2310,80-84,206,20-29,Red Blend,Mendoza Province
+2311,80-84,222,10-19,Tempranillo,Mendoza Province
+2312,80-84,152,10-19,Malbec,Mendoza Province
+2313,80-84,194,10-19,Malbec,Other
+2314,85-89,258,10-19,Cabernet Sauvignon,Mendoza Province
+2315,85-89,279,10-19,Syrah,Other
+2316,85-89,250,20-29,Malbec,Mendoza Province
+2317,85-89,232,10-19,Torrontés,Mendoza Province
+2318,85-89,256,10-19,Malbec,Mendoza Province
+2319,90-94,338,100+,Malbec,Mendoza Province
+2320,90-94,301,60-79,Malbec,Mendoza Province
+2321,85-89,353,100+,Malbec-Cabernet Sauvignon,Mendoza Province
+2322,85-89,262,10-19,Malbec,Mendoza Province
+2323,85-89,255,30-39,Cabernet Sauvignon,Mendoza Province
+2324,85-89,226,10-19,Cabernet Sauvignon,Mendoza Province
+2325,85-89,281,10-19,Cabernet Sauvignon-Merlot,Mendoza Province
+2326,90-94,276,40-49,Malbec,Mendoza Province
+2327,85-89,291,80-99,Malbec,Mendoza Province
+2328,85-89,360,30-39,Malbec,Mendoza Province
+2329,85-89,250,10-19,Cabernet Blend,Mendoza Province
+2330,80-84,216,10-19,Malbec,Mendoza Province
+2331,80-84,193,20-29,Cabernet Sauvignon,Mendoza Province
+2332,80-84,203,10-19,Cabernet Sauvignon,Mendoza Province
+2333,80-84,232,10-19,Malbec,Mendoza Province
+2334,80-84,185,10-19,Chardonnay,Mendoza Province
+2335,80-84,256,10-19,Malbec,Mendoza Province
+2336,80-84,216,10-19,Cabernet Sauvignon,Other
+2337,85-89,228,20-29,Pinot Noir,Other
+2338,90-94,270,40-49,Malbec,Mendoza Province
+2339,90-94,361,100+,Merlot,Mendoza Province
+2340,85-89,221,10-19,Bonarda,Mendoza Province
+2341,85-89,221,10-19,Malbec,Mendoza Province
+2342,85-89,215,10-19,Cabernet Sauvignon,Mendoza Province
+2343,80-84,171,10-19,Malbec,Other
+2344,85-89,206,20-29,Malbec,Mendoza Province
+2345,85-89,203,10-19,Cabernet Sauvignon,Mendoza Province
+2346,85-89,239,10-19,Malbec,Mendoza Province
+2347,85-89,242,10-19,Chardonnay,Mendoza Province
+2348,85-89,283,10-19,Syrah,Mendoza Province
+2349,90-94,286,100+,Malbec,Mendoza Province
+2350,80-84,244,10-19,Tempranillo,Mendoza Province
+2351,80-84,111,10-19,Cabernet Sauvignon,Other
+2352,90-94,265,30-39,Malbec,Mendoza Province
+2353,90-94,258,20-29,Malbec-Cabernet Sauvignon,Mendoza Province
+2354,85-89,209,10-19,Torrontés,Mendoza Province
+2355,90-94,309,50-59,Malbec,Mendoza Province
+2356,90-94,397,100+,Pinot Noir,Other
+2357,85-89,249,10-19,Malbec,Mendoza Province
+2358,85-89,198,10-19,Chardonnay,Mendoza Province
+2359,85-89,326,10-19,Syrah,Mendoza Province
+2360,85-89,284,10-19,Cabernet Sauvignon,Mendoza Province
+2361,85-89,316,10-19,Malbec,Mendoza Province
+2362,85-89,247,10-19,Cabernet Sauvignon,Mendoza Province
+2363,85-89,208,20-29,Chardonnay,Mendoza Province
+2364,90-94,387,40-49,Bordeaux-style Red Blend,Mendoza Province
+2365,90-94,314,20-29,Cabernet Sauvignon,Mendoza Province
+2366,80-84,266,10-19,Pinot Noir,Other
+2367,80-84,195,10-19,Chardonnay,Mendoza Province
+2368,80-84,220,20-29,Chardonnay,Mendoza Province
+2369,80-84,191,10-19,Malbec,Mendoza Province
+2370,85-89,313,10-19,Bordeaux-style Red Blend,Mendoza Province
+2371,85-89,310,100+,Red Blend,Mendoza Province
+2372,85-89,277,30-39,Bonarda,Mendoza Province
+2373,90-94,394,80-99,Malbec,Mendoza Province
+2374,85-89,240,10-19,Cabernet Blend,Mendoza Province
+2375,85-89,203,10-19,Chardonnay,Mendoza Province
+2376,85-89,201,10-19,Cabernet Franc,Mendoza Province
+2377,85-89,375,40-49,Chardonnay,Mendoza Province
+2378,85-89,253,10-19,Malbec,Other
+2379,85-89,240,10-19,Malbec,Other
+2380,90-94,262,50-59,Malbec,Mendoza Province
+2381,90-94,216,20-29,Petit Verdot,Mendoza Province
+2382,90-94,264,50-59,Malbec,Mendoza Province
+2383,95-99,407,50-59,Bordeaux-style Red Blend,Mendoza Province
+2384,90-94,388,30-39,Malbec,Mendoza Province
+2385,80-84,204,10-19,Red Blend,Mendoza Province
+2386,80-84,161,10-19,Rosé,Mendoza Province
+2387,85-89,226,20-29,Malbec-Merlot,Other
+2388,85-89,269,10-19,Chardonnay,Mendoza Province
+2389,90-94,434,100+,Malbec,Mendoza Province
+2390,90-94,426,50-59,Malbec,Mendoza Province
+2391,90-94,365,60-79,Cabernet Franc,Mendoza Province
+2392,90-94,294,50-59,Red Blend,Mendoza Province
+2393,90-94,268,100+,Malbec,Mendoza Province
+2394,90-94,285,100+,Malbec,Mendoza Province
+2395,85-89,248,10-19,Malbec,Mendoza Province
+2396,95-99,386,40-49,Malbec,Mendoza Province
+2397,90-94,403,40-49,Red Blend,Mendoza Province
+2398,90-94,268,30-39,Red Blend,Mendoza Province
+2399,90-94,320,40-49,Malbec,Mendoza Province
+2400,85-89,275,40-49,Cabernet Franc,Mendoza Province
+2401,90-94,307,20-29,Malbec,Mendoza Province
+2402,85-89,255,30-39,Malbec,Mendoza Province
+2403,85-89,226,10-19,Malbec,Mendoza Province
+2404,85-89,275,20-29,Malbec,Mendoza Province
+2405,90-94,299,30-39,Bordeaux-style Red Blend,Mendoza Province
+2406,85-89,222,10-19,Malbec,Mendoza Province
+2407,80-84,211,10-19,Pinot Noir,Mendoza Province
+2408,80-84,297,30-39,Malbec,Mendoza Province
+2409,80-84,237,30-39,Bonarda,Mendoza Province
+2410,80-84,203,10-19,Cabernet Sauvignon,Other
+2411,90-94,348,50-59,Malbec,Mendoza Province
+2412,85-89,222,10-19,Malbec,Mendoza Province
+2413,85-89,315,10-19,Malbec,Mendoza Province
+2414,85-89,273,10-19,Malbec,Mendoza Province
+2415,85-89,254,20-29,Malbec,Other
+2416,85-89,296,50-59,Malbec,Other
+2417,85-89,231,10-19,Rosado,Mendoza Province
+2418,85-89,259,10-19,Malbec,Mendoza Province
+2419,80-84,210,10-19,Cabernet Sauvignon,Mendoza Province
+2420,80-84,210,20-29,Malbec,Mendoza Province
+2421,80-84,180,10-19,Bonarda,Mendoza Province
+2422,85-89,206,10-19,Bonarda,Mendoza Province
+2423,90-94,323,30-39,Red Blend,Mendoza Province
+2424,90-94,377,60-79,Bordeaux-style Red Blend,Mendoza Province
+2425,90-94,325,100+,Malbec,Mendoza Province
+2426,85-89,254,20-29,Cabernet Sauvignon,Mendoza Province
+2427,80-84,115,30-39,Petit Verdot,Mendoza Province
+2428,85-89,268,10-19,Malbec,Other
+2429,85-89,272,10-19,Cabernet Sauvignon,Other
+2430,85-89,274,20-29,Bordeaux-style Red Blend,Mendoza Province
+2431,85-89,321,20-29,Torrontés,Mendoza Province
+2432,85-89,238,20-29,Malbec,Mendoza Province
+2433,85-89,275,10-19,Cabernet Sauvignon,Mendoza Province
+2434,85-89,223,20-29,Malbec,Mendoza Province
+2435,85-89,203,10-19,Red Blend,Mendoza Province
+2436,85-89,200,<10,Malbec,Mendoza Province
+2437,85-89,204,10-19,Malbec,Mendoza Province
+2438,85-89,272,10-19,Rosé,Mendoza Province
+2439,85-89,395,60-79,Red Blend,Other
+2440,85-89,237,10-19,Malbec,Mendoza Province
+2441,80-84,164,10-19,Cabernet Sauvignon,Other
+2442,80-84,159,10-19,Torrontés,Mendoza Province
+2443,80-84,131,10-19,Chardonnay,Mendoza Province
+2444,80-84,142,10-19,Chardonnay,Mendoza Province
+2445,80-84,149,10-19,Cabernet Sauvignon,Mendoza Province
+2446,85-89,203,10-19,Bonarda,Mendoza Province
+2447,85-89,235,10-19,Bonarda,Mendoza Province
+2448,85-89,218,10-19,Torrontés,Other
+2449,85-89,241,10-19,Chardonnay,Mendoza Province
+2450,85-89,234,<10,Chardonnay,Mendoza Province
+2451,85-89,214,10-19,Bonarda,Other
+2452,85-89,303,10-19,Malbec,Mendoza Province
+2453,80-84,200,10-19,Malbec,Mendoza Province
+2454,85-89,226,10-19,Bonarda,Mendoza Province
+2455,85-89,233,10-19,Malbec,Mendoza Province
+2456,85-89,249,10-19,Chardonnay,Mendoza Province
+2457,80-84,227,20-29,Chardonnay,Mendoza Province
+2458,80-84,220,10-19,Cabernet Sauvignon,Mendoza Province
+2459,85-89,262,10-19,Torrontés,Other
+2460,85-89,329,10-19,Bonarda,Mendoza Province
+2461,80-84,191,30-39,Pinot Noir,Other
+2462,80-84,166,10-19,Pinot Gris,Mendoza Province
+2463,80-84,164,20-29,Chardonnay,Mendoza Province
+2464,80-84,184,20-29,Malbec,Mendoza Province
+2465,80-84,168,10-19,Chardonnay,Mendoza Province
+2466,80-84,165,10-19,Red Blend,Mendoza Province
+2467,80-84,211,20-29,Cabernet Sauvignon,Other
+2468,80-84,190,10-19,Chardonnay,Mendoza Province
+2469,85-89,285,20-29,Syrah,Mendoza Province
+2470,85-89,177,<10,Malbec,Other
+2471,85-89,254,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+2472,85-89,234,10-19,Torrontés,Other
+2473,85-89,202,10-19,Malbec,Other
+2474,85-89,203,20-29,Bonarda,Mendoza Province
+2475,85-89,258,20-29,Malbec,Mendoza Province
+2476,85-89,191,10-19,Malbec,Mendoza Province
+2477,85-89,189,10-19,Malbec,Mendoza Province
+2478,90-94,309,80-99,Malbec,Mendoza Province
+2479,85-89,312,10-19,Malbec,Mendoza Province
+2480,90-94,299,60-79,Red Blend,Mendoza Province
+2481,85-89,221,10-19,Malbec,Mendoza Province
+2482,85-89,190,10-19,Malbec,Other
+2483,85-89,231,10-19,Cabernet Sauvignon,Mendoza Province
+2484,90-94,311,30-39,Malbec,Mendoza Province
+2485,90-94,291,30-39,Malbec,Mendoza Province
+2486,90-94,318,80-99,Malbec,Mendoza Province
+2487,90-94,339,10-19,Cabernet Franc,Mendoza Province
+2488,90-94,291,60-79,Malbec,Mendoza Province
+2489,85-89,159,20-29,Cabernet Franc,Mendoza Province
+2490,85-89,211,10-19,Malbec,Mendoza Province
+2491,85-89,322,40-49,Red Blend,Other
+2492,90-94,280,100+,Cabernet Franc,Mendoza Province
+2493,90-94,306,50-59,Red Blend,Mendoza Province
+2494,90-94,377,100+,Malbec,Mendoza Province
+2495,85-89,242,20-29,Malbec,Mendoza Province
+2496,85-89,235,10-19,Torrontés,Other
+2497,85-89,237,40-49,Cabernet Sauvignon,Mendoza Province
+2498,90-94,262,60-79,Bordeaux-style Red Blend,Mendoza Province
+2499,90-94,335,20-29,Bordeaux-style Red Blend,Mendoza Province
+2500,90-94,320,60-79,Malbec-Cabernet Sauvignon,Mendoza Province
+2501,90-94,254,30-39,Malbec,Mendoza Province
+2502,90-94,304,100+,Cabernet Sauvignon,Mendoza Province
+2503,85-89,284,10-19,Cabernet Sauvignon,Mendoza Province
+2504,90-94,479,100+,Pinot Noir,Other
+2505,90-94,297,60-79,Malbec,Mendoza Province
+2506,90-94,293,20-29,Malbec,Mendoza Province
+2507,80-84,148,10-19,Torrontés,Mendoza Province
+2508,85-89,302,10-19,Cabernet Sauvignon,Mendoza Province
+2509,85-89,258,10-19,Malbec,Mendoza Province
+2510,85-89,269,60-79,Malbec,Mendoza Province
+2511,85-89,254,30-39,Cabernet Sauvignon,Mendoza Province
+2512,85-89,305,10-19,Tannat,Other
+2513,90-94,235,20-29,Syrah,Mendoza Province
+2514,85-89,246,20-29,Malbec,Mendoza Province
+2515,85-89,239,20-29,Malbec,Mendoza Province
+2516,85-89,244,10-19,Chardonnay,Other
+2517,85-89,238,10-19,Syrah,Mendoza Province
+2518,85-89,181,10-19,Chardonnay,Mendoza Province
+2519,85-89,293,10-19,Torrontés,Other
+2520,80-84,202,10-19,Chardonnay,Mendoza Province
+2521,80-84,169,10-19,Bonarda,Mendoza Province
+2522,80-84,226,10-19,Red Blend,Mendoza Province
+2523,85-89,218,10-19,Malbec,Mendoza Province
+2524,85-89,308,10-19,Cabernet Sauvignon,Mendoza Province
+2525,80-84,78,30-39,Pinot Noir,Other
+2526,80-84,151,10-19,Malbec,Mendoza Province
+2527,80-84,117,10-19,Cabernet Sauvignon,Mendoza Province
+2528,85-89,251,10-19,Malbec,Mendoza Province
+2529,90-94,338,100+,Red Blend,Mendoza Province
+2530,80-84,142,10-19,Cabernet Sauvignon,Mendoza Province
+2531,80-84,192,10-19,Malbec,Other
+2532,80-84,158,10-19,Cabernet Sauvignon,Mendoza Province
+2533,80-84,196,20-29,Cabernet Sauvignon,Mendoza Province
+2534,80-84,207,20-29,Malbec,Mendoza Province
+2535,80-84,168,10-19,Chardonnay,Mendoza Province
+2536,80-84,169,10-19,Tempranillo,Mendoza Province
+2537,80-84,192,10-19,Chardonnay,Mendoza Province
+2538,80-84,190,10-19,Tempranillo,Mendoza Province
+2539,80-84,200,10-19,Chardonnay,Mendoza Province
+2540,80-84,150,10-19,Champagne Blend,Mendoza Province
+2541,85-89,292,10-19,Torrontés,Other
+2542,85-89,233,10-19,Malbec,Mendoza Province
+2543,85-89,217,10-19,Malbec,Mendoza Province
+2544,85-89,289,20-29,Malbec,Other
+2545,90-94,314,20-29,Bordeaux-style Red Blend,Mendoza Province
+2546,80-84,113,10-19,Syrah,Mendoza Province
+2547,85-89,212,10-19,Chenin Blanc-Chardonnay,Mendoza Province
+2548,85-89,251,20-29,Malbec-Cabernet Sauvignon,Mendoza Province
+2549,85-89,255,20-29,Cabernet Sauvignon,Mendoza Province
+2550,90-94,282,40-49,Malbec,Mendoza Province
+2551,90-94,338,40-49,Red Blend,Other
+2552,85-89,238,10-19,Chardonnay,Mendoza Province
+2553,85-89,261,10-19,Cabernet Sauvignon-Merlot,Mendoza Province
+2554,80-84,163,10-19,Malbec,Mendoza Province
+2555,80-84,204,<10,Chardonnay,Mendoza Province
+2556,80-84,123,10-19,Malbec,Mendoza Province
+2557,85-89,232,30-39,Bonarda,Mendoza Province
+2558,85-89,290,20-29,Malbec,Mendoza Province
+2559,85-89,222,10-19,Malbec,Mendoza Province
+2560,90-94,242,30-39,Malbec,Mendoza Province
+2561,90-94,229,20-29,Malbec,Mendoza Province
+2562,85-89,222,10-19,Bonarda,Mendoza Province
+2563,85-89,235,10-19,Bonarda,Mendoza Province
+2564,85-89,233,10-19,Bonarda,Mendoza Province
+2565,80-84,265,10-19,Malbec,Mendoza Province
+2566,80-84,228,10-19,Malbec,Mendoza Province
+2567,90-94,449,100+,Malbec-Cabernet Sauvignon,Mendoza Province
+2568,85-89,282,20-29,Torrontés,Other
+2569,90-94,292,20-29,Malbec,Mendoza Province
+2570,90-94,376,10-19,Red Blend,Mendoza Province
+2571,80-84,189,10-19,Sparkling Blend,Mendoza Province
+2572,80-84,210,10-19,Malbec,Mendoza Province
+2573,80-84,189,10-19,Sauvignon Blanc,Mendoza Province
+2574,85-89,318,60-79,Cabernet Sauvignon,Other
+2575,85-89,357,40-49,Malbec,Mendoza Province
+2576,85-89,227,10-19,Chardonnay,Mendoza Province
+2577,85-89,296,10-19,Malbec,Mendoza Province
+2578,85-89,197,10-19,Torrontés,Other
+2579,85-89,207,10-19,Malbec,Mendoza Province
+2580,85-89,284,20-29,Malbec,Mendoza Province
+2581,80-84,250,10-19,Cabernet Sauvignon,Mendoza Province
+2582,80-84,216,10-19,Malbec,Mendoza Province
+2583,80-84,205,10-19,Malbec,Mendoza Province
+2584,80-84,199,10-19,Torrontés,Other
+2585,85-89,272,30-39,Malbec,Mendoza Province
+2586,90-94,251,10-19,Malbec,Mendoza Province
+2587,90-94,323,10-19,Malbec,Mendoza Province
+2588,90-94,232,20-29,Cabernet Sauvignon,Mendoza Province
+2589,90-94,222,20-29,Malbec,Mendoza Province
+2590,90-94,240,10-19,Cabernet Franc,Mendoza Province
+2591,90-94,305,20-29,Red Blend,Mendoza Province
+2592,90-94,291,40-49,Malbec,Mendoza Province
+2593,90-94,273,20-29,Bordeaux-style Red Blend,Mendoza Province
+2594,90-94,267,10-19,Malbec,Mendoza Province
+2595,90-94,258,30-39,Malbec,Mendoza Province
+2596,90-94,369,80-99,Malbec,Mendoza Province
+2597,90-94,274,40-49,Malbec-Cabernet Sauvignon,Mendoza Province
+2598,90-94,365,60-79,Malbec,Mendoza Province
+2599,90-94,348,100+,Malbec-Cabernet Sauvignon,Mendoza Province
+2600,90-94,350,40-49,Malbec,Mendoza Province
+2601,90-94,329,80-99,Malbec,Mendoza Province
+2602,90-94,397,100+,Malbec,Mendoza Province
+2603,85-89,256,10-19,Chardonnay-Viognier,Mendoza Province
+2604,80-84,279,10-19,Torrontés,Mendoza Province
+2605,90-94,270,20-29,Malbec,Mendoza Province
+2606,80-84,188,10-19,Malbec,Mendoza Province
+2607,85-89,231,10-19,Malbec,Mendoza Province
+2608,90-94,340,30-39,Malbec,Mendoza Province
+2609,85-89,211,10-19,Malbec,Mendoza Province
+2610,80-84,192,10-19,Chardonnay,Mendoza Province
+2611,80-84,239,10-19,Torrontés,Other
+2612,80-84,255,20-29,Malbec,Mendoza Province
+2613,90-94,313,40-49,Cabernet Sauvignon,Mendoza Province
+2614,80-84,206,10-19,Malbec,Mendoza Province
+2615,80-84,149,10-19,Merlot,Mendoza Province
+2616,80-84,169,10-19,Malbec,Mendoza Province
+2617,80-84,163,10-19,Malbec,Mendoza Province
+2618,80-84,225,10-19,Malbec,Mendoza Province
+2619,80-84,185,10-19,Cabernet Sauvignon,Mendoza Province
+2620,90-94,338,60-79,Bordeaux-style Red Blend,Mendoza Province
+2621,90-94,238,50-59,Malbec,Mendoza Province
+2622,90-94,317,20-29,Malbec,Mendoza Province
+2623,90-94,326,100+,Malbec,Mendoza Province
+2624,85-89,286,20-29,Cabernet Sauvignon,Mendoza Province
+2625,85-89,263,40-49,Red Blend,Mendoza Province
+2626,85-89,152,10-19,Cabernet Sauvignon,Mendoza Province
+2627,85-89,253,10-19,Malbec,Mendoza Province
+2628,90-94,282,30-39,Cabernet Franc,Mendoza Province
+2629,85-89,216,10-19,Malbec,Mendoza Province
+2630,85-89,308,40-49,Malbec,Mendoza Province
+2631,85-89,226,10-19,Malbec,Mendoza Province
+2632,85-89,255,30-39,Malbec,Mendoza Province
+2633,80-84,272,10-19,Malbec,Mendoza Province
+2634,80-84,253,10-19,Torrontés,Mendoza Province
+2635,80-84,150,10-19,Syrah,Other
+2636,80-84,198,10-19,Malbec,Mendoza Province
+2637,80-84,129,30-39,Red Blend,Mendoza Province
+2638,90-94,327,20-29,Malbec,Mendoza Province
+2639,90-94,320,20-29,Malbec,Mendoza Province
+2640,90-94,271,20-29,Malbec,Mendoza Province
+2641,95-99,363,100+,Malbec,Mendoza Province
+2642,85-89,225,30-39,Chardonnay,Mendoza Province
+2643,85-89,336,10-19,Malbec,Mendoza Province
+2644,85-89,197,30-39,Bordeaux-style Red Blend,Mendoza Province
+2645,90-94,280,60-79,Red Blend,Mendoza Province
+2646,85-89,215,10-19,Malbec,Mendoza Province
+2647,85-89,254,20-29,Merlot,Mendoza Province
+2648,85-89,199,20-29,Sauvignon Blanc,Other
+2649,80-84,164,10-19,Malbec,Mendoza Province
+2650,80-84,163,10-19,Malbec,Mendoza Province
+2651,80-84,162,10-19,Bordeaux-style Red Blend,Mendoza Province
+2652,80-84,232,10-19,Malbec,Mendoza Province
+2653,80-84,211,10-19,Pinot Grigio,Mendoza Province
+2654,80-84,155,20-29,Chardonnay,Mendoza Province
+2655,85-89,264,10-19,Malbec,Mendoza Province
+2656,85-89,225,10-19,Malbec,Mendoza Province
+2657,85-89,234,40-49,Red Blend,Other
+2658,85-89,293,10-19,Cabernet Sauvignon,Mendoza Province
+2659,80-84,195,10-19,Rosé,Mendoza Province
+2660,80-84,174,10-19,Malbec,Mendoza Province
+2661,85-89,261,10-19,Malbec,Mendoza Province
+2662,85-89,229,10-19,Chardonnay,Mendoza Province
+2663,85-89,219,10-19,Malbec,Other
+2664,90-94,289,80-99,Malbec-Cabernet Sauvignon,Mendoza Province
+2665,90-94,361,60-79,Cabernet Sauvignon,Mendoza Province
+2666,80-84,146,10-19,Red Blend,Mendoza Province
+2667,80-84,166,20-29,Sparkling Blend,Mendoza Province
+2668,90-94,292,40-49,Malbec,Mendoza Province
+2669,90-94,301,20-29,Malbec,Mendoza Province
+2670,85-89,251,20-29,Malbec,Other
+2671,80-84,242,20-29,Sauvignon Blanc,Other
+2672,80-84,302,60-79,Pinot Noir,Mendoza Province
+2673,80-84,303,10-19,Cabernet Sauvignon-Cabernet Franc,Other
+2674,85-89,229,10-19,Chardonnay,Mendoza Province
+2675,85-89,208,10-19,Cabernet Sauvignon,Mendoza Province
+2676,85-89,207,10-19,Cabernet Sauvignon,Mendoza Province
+2677,85-89,285,10-19,Torrontés,Other
+2678,85-89,264,20-29,Malbec,Mendoza Province
+2679,85-89,375,40-49,Chardonnay,Mendoza Province
+2680,80-84,274,10-19,Red Blend,Mendoza Province
+2681,80-84,233,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+2682,80-84,211,10-19,Torrontés,Mendoza Province
+2683,85-89,225,10-19,Cabernet Sauvignon,Mendoza Province
+2684,85-89,314,20-29,Malbec,Mendoza Province
+2685,85-89,186,10-19,Malbec,Mendoza Province
+2686,85-89,262,10-19,Malbec,Mendoza Province
+2687,90-94,409,80-99,Malbec,Mendoza Province
+2688,90-94,340,100+,Malbec,Mendoza Province
+2689,85-89,307,30-39,Red Blend,Mendoza Province
+2690,85-89,283,40-49,Malbec,Mendoza Province
+2691,80-84,153,10-19,Malbec,Mendoza Province
+2692,80-84,212,10-19,Cabernet Sauvignon,Mendoza Province
+2693,90-94,342,30-39,Red Blend,Mendoza Province
+2694,90-94,367,50-59,Bordeaux-style Red Blend,Other
+2695,90-94,293,30-39,Red Blend,Mendoza Province
+2696,80-84,260,10-19,Chardonnay,Mendoza Province
+2697,80-84,249,10-19,Chardonnay,Mendoza Province
+2698,80-84,216,10-19,Sauvignon Blanc,Other
+2699,90-94,350,100+,Bordeaux-style Red Blend,Mendoza Province
+2700,90-94,363,60-79,Bordeaux-style Red Blend,Mendoza Province
+2701,90-94,238,50-59,Malbec,Mendoza Province
+2702,90-94,267,20-29,Cabernet Sauvignon,Mendoza Province
+2703,90-94,225,10-19,Malbec,Mendoza Province
+2704,90-94,252,40-49,Malbec,Mendoza Province
+2705,90-94,233,20-29,Chardonnay,Mendoza Province
+2706,85-89,222,20-29,Red Blend,Mendoza Province
+2707,80-84,296,20-29,Pinot Noir,Mendoza Province
+2708,80-84,161,10-19,Chardonnay,Mendoza Province
+2709,80-84,332,20-29,Sauvignon Blanc,Other
+2710,80-84,281,20-29,Red Blend,Mendoza Province
+2711,90-94,233,20-29,Chardonnay,Mendoza Province
+2712,80-84,199,10-19,Torrontés,Mendoza Province
+2713,85-89,317,30-39,Malbec,Mendoza Province
+2714,85-89,275,10-19,Malbec,Mendoza Province
+2715,85-89,223,20-29,Malbec,Mendoza Province
+2716,85-89,251,50-59,Malbec,Mendoza Province
+2717,85-89,220,10-19,Malbec,Mendoza Province
+2718,85-89,247,10-19,Cabernet Sauvignon,Mendoza Province
+2719,90-94,417,40-49,Malbec,Mendoza Province
+2720,85-89,222,20-29,Chardonnay,Other
+2721,85-89,267,20-29,Malbec,Mendoza Province
+2722,85-89,264,30-39,Malbec,Mendoza Province
+2723,85-89,294,10-19,Malbec,Other
+2724,90-94,276,40-49,Malbec,Mendoza Province
+2725,85-89,277,10-19,Red Blend,Mendoza Province
+2726,85-89,293,20-29,Malbec,Mendoza Province
+2727,85-89,223,20-29,Malbec,Mendoza Province
+2728,85-89,224,10-19,Bonarda,Mendoza Province
+2729,85-89,213,10-19,Torrontés,Other
+2730,85-89,196,10-19,Malbec-Cabernet Sauvignon,Mendoza Province
+2731,90-94,373,60-79,Malbec-Cabernet Sauvignon,Mendoza Province
+2732,90-94,322,50-59,Malbec,Mendoza Province
+2733,90-94,334,20-29,Bordeaux-style Red Blend,Mendoza Province
+2734,90-94,350,50-59,Cabernet Sauvignon,Mendoza Province
+2735,90-94,288,40-49,Cabernet Sauvignon,Mendoza Province
+2736,85-89,280,20-29,Malbec,Mendoza Province
+2737,95-99,455,50-59,Red Blend,Mendoza Province
+2738,90-94,322,20-29,Bordeaux-style Red Blend,Mendoza Province
+2739,90-94,338,80-99,Malbec,Other
+2740,90-94,319,50-59,Bordeaux-style Red Blend,Mendoza Province
+2741,90-94,340,50-59,Bordeaux-style Red Blend,Mendoza Province
+2742,90-94,312,100+,Bordeaux-style Red Blend,Mendoza Province
+2743,90-94,353,50-59,Malbec,Mendoza Province
+2744,90-94,267,50-59,Malbec,Mendoza Province
+2745,90-94,302,10-19,Malbec,Mendoza Province
+2746,90-94,286,20-29,Malbec,Mendoza Province
+2747,85-89,190,10-19,Malbec,Other
+2748,85-89,249,50-59,Red Blend,Mendoza Province
+2749,80-84,204,30-39,Red Blend,Mendoza Province
+2750,80-84,219,20-29,Malbec,Mendoza Province
+2751,85-89,285,10-19,Cabernet Sauvignon,Mendoza Province
+2752,85-89,329,20-29,Malbec,Other
+2753,85-89,284,20-29,Red Blend,Mendoza Province
+2754,85-89,235,10-19,Cabernet Sauvignon,Mendoza Province
+2755,85-89,240,10-19,Rosé,Mendoza Province
+2756,85-89,253,10-19,Torrontés,Other
+2757,85-89,221,20-29,Malbec,Mendoza Province
+2758,85-89,206,10-19,Malbec,Mendoza Province
+2759,85-89,226,10-19,Malbec,Mendoza Province
+2760,85-89,238,10-19,Torrontés,Mendoza Province
+2761,85-89,201,10-19,Chenin Blanc-Chardonnay,Mendoza Province
+2762,90-94,194,20-29,Bonarda,Mendoza Province
+2763,80-84,246,10-19,Merlot,Mendoza Province
+2764,90-94,307,40-49,Cabernet Sauvignon,Mendoza Province
+2765,90-94,349,30-39,Red Blend,Mendoza Province
+2766,85-89,219,10-19,Torrontés,Other
+2767,80-84,274,<10,Chardonnay,Mendoza Province
+2768,90-94,276,30-39,Red Blend,Mendoza Province
+2769,90-94,215,30-39,Malbec-Cabernet Franc,Mendoza Province
+2770,85-89,244,10-19,Torrontés,Other
+2771,85-89,260,20-29,Malbec,Mendoza Province
+2772,85-89,266,50-59,Cabernet Sauvignon,Mendoza Province
+2773,85-89,292,20-29,Red Blend,Mendoza Province
+2774,85-89,261,20-29,Chardonnay,Mendoza Province
+2775,85-89,266,20-29,Cabernet Blend,Mendoza Province
+2776,85-89,214,10-19,Cabernet Sauvignon,Mendoza Province
+2777,90-94,298,20-29,Malbec,Mendoza Province
+2778,80-84,213,20-29,Cabernet Sauvignon,Mendoza Province
+2779,80-84,193,10-19,Chardonnay,Mendoza Province
+2780,90-94,372,10-19,Bordeaux-style Red Blend,Mendoza Province
+2781,80-84,251,10-19,Pinot Noir,Other
+2782,80-84,266,10-19,Red Blend,Mendoza Province
+2783,85-89,296,60-79,Nebbiolo,Mendoza Province
+2784,85-89,228,10-19,Bonarda,Mendoza Province
+2785,85-89,223,20-29,Malbec,Mendoza Province
+2786,85-89,259,20-29,Malbec-Merlot,Other
+2787,85-89,267,10-19,Malbec,Mendoza Province
+2788,85-89,232,10-19,Malbec,Other
+2789,85-89,271,20-29,Cabernet Sauvignon,Mendoza Province
+2790,85-89,309,10-19,Cabernet Sauvignon,Other
+2791,85-89,274,20-29,Sauvignon Blanc,Other
+2792,85-89,271,10-19,Malbec-Syrah,Mendoza Province
+2793,85-89,290,10-19,Cabernet Sauvignon,Mendoza Province
+2794,85-89,281,10-19,Rosé,Mendoza Province
+2795,85-89,208,30-39,Red Blend,Other
+2796,80-84,226,10-19,Torrontés,Mendoza Province
+2797,80-84,265,10-19,Malbec,Mendoza Province
+2798,80-84,210,20-29,Malbec,Mendoza Province
+2799,80-84,194,10-19,Malbec,Other
+2800,80-84,248,10-19,Chardonnay,Mendoza Province
+2801,90-94,290,20-29,Malbec,Other
+2802,90-94,292,20-29,Malbec,Other
+2803,90-94,344,60-79,Malbec,Mendoza Province
+2804,90-94,350,60-79,Malbec,Mendoza Province
+2805,85-89,191,10-19,Rosé,Mendoza Province
+2806,85-89,309,20-29,Malbec,Mendoza Province
+2807,85-89,286,20-29,Malbec,Mendoza Province
+2808,85-89,304,60-79,Malbec,Other
+2809,90-94,234,80-99,Malbec,Mendoza Province
+2810,90-94,302,80-99,Malbec,Mendoza Province
+2811,90-94,307,20-29,Malbec,Mendoza Province
+2812,90-94,355,40-49,Malbec,Mendoza Province
+2813,90-94,332,10-19,Malbec,Mendoza Province
+2814,90-94,312,20-29,Red Blend,Mendoza Province
+2815,90-94,350,50-59,Red Blend,Mendoza Province
+2816,90-94,328,20-29,Malbec,Mendoza Province
+2817,90-94,261,40-49,Malbec,Other

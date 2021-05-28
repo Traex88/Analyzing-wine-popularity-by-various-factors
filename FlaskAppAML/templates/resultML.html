@@ -1,0 +1,114 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" type="text/css" href="/static/content/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/static/content/site.css" />
+<style>
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
+</style>
+
+<body style="background-color: rgba(71, 4, 85, 0.425); font-family:Arial, Helvetica, sans-serif; color:rgb(40, 3, 75);">
+    <div class="container">
+    <div class="row"><div class="col-md-12" >
+      <section id="Reftable" >
+        <aside class="filters"><div class="panel panel-default" style="background-color: rgb(217, 186, 247); ">
+          <hr>
+          <h1 style="text-align-last: center; font-size: 60px"> <strong>Wine Rating Prediction Model </strong></h1>
+          <h3 style="text-align-last: center"> <strong>Multiclass Neural Network @AzureML</strong></h3>
+          <hr>
+
+
+            <div class="panel-heading" style="background-color: rgb(40, 3, 75); color: white">
+                <h3 style="text-align:center">{{ title }}</h3><br>
+                {% if result1 == "80-84" %} 
+                <h2 style="text-align:center"> <strong>Predicted Wine Rating: Below Average </strong></h2>
+                <h3 style="text-align:center"> <strong>Predicted Reviewer's Points (range): {{ result1|safe }} </strong></h3>
+                {% elif result1 == "85-89" %} 
+                <h2 style="text-align:center"> <strong>Predicted Wine Rating: Good </strong></h2>
+                <h3 style="text-align:center"> <strong>Predicted Reviewer's Points (range): {{ result1|safe }} </strong></h3>
+                {% elif result1 == "90-94" %} 
+                <h2 style="text-align:center"> <strong>Predicted Wine Rating: Very Good </strong></h2>
+                <h3 style="text-align:center"> <strong>Predicted Reviewer's Points (range): {{ result1|safe }} </strong></h3>
+                {% elif result1 == "95-99" %} 
+                <h2 style="text-align:center"> <strong>Predicted Wine Rating: Excellent </strong></h2>
+                <h3 style="text-align:center"> <strong>Predicted Reviewer's Points (range): {{ result1|safe }} </strong></h3>
+                {% elif result1 == "100" %} 
+                <h2 style="text-align:center"> <strong>Predicted Wine Rating: Perfect </strong></h2>
+                <h3 style="text-align:center"> <strong>Predicted Reviewer's Points (range): {{ result1|safe }} </strong></h3>
+                {% endif %}
+
+                <h4><strong>Inputs</strong></h4>
+                <h4>Country: <strong>{{icountry}}</strong></h4>
+                <h4> Length of Reviewer's Comments: <strong>{{ideslen}} words</h4>
+                <h4> Price Range: <strong>${{ipricerg}}</h4>
+                <h4> Type of Wine: <strong>{{ivariety}}</h4>
+                <h4> Province: <strong>{{iprovince}}</h4>
+             
+            </div>
+              <h3 style="text-align:center">What is the predicted rating of your wine?</h3>
+              <h3 style="text-align:center">Reference Table </h3><div class="panel-body">
+            
+            <div class="col-md-12"><div id="ref-table">
+            <table id="MachineLearning-table" class="table table-striped", border = '1'>
+                <tr><th class="table-head">Wine Rating</th>
+                    <td>Below Average</td><td>Good</td><td>Very Good</td><td>Excellent</td><td>Perfect</td>
+                </tr>
+                <tr><th class="table-head">Points (range)</th>
+                    <td>80 to 84</td><td>85 to 89</td><td>90 to 94</td><td>95 to 99</td><td>100</td>
+                </tr>      
+          </table>
+        </section>
+
+<div class="row">
+    <h3>Snapshots from AzureML interface</h3>
+    These were implemented using AzureML Studio.<br /><br />
+    <div class="col-md-6">
+      <div class="TrainModel">
+          <h4><strong>Training Model</strong></h4>
+          {% if icountry == "US" %}          
+            <img src="static/images/US1Train.png" height="500px" width="500px">  
+          {% elif icountry == "Spain" %}           
+            <img src="static/images/SPA1Train.png" height="500px" width="500px">
+          {% elif icountry == "Italy" %}           
+            <img src="static/images/ITA1Train.png" height="500px" width="500px">              
+          {% elif icountry == "France" %}           
+            <img src="static/images/FRA1Train.png" height="500px" width="500px">              
+            {% elif icountry == "Canada" %}           
+            <img src="static/images/CAN1Train.png" height="500px" width="500px">
+            {% elif icountry == "Argentina" %}           
+            <img src="static/images/ARGTrain.png" height="500px" width="500px">
+          {% elif icountry == "Australia" %}           
+            <img src="static/images/AUS1Train.png" height="500px" width="500px">
+          {% else %}          
+            <img src="static/images/US1Train.png" height="500px" width="500px">
+          {% endif %}
+    </div></div>
+    <div class="col-md-6">
+      <div class="PredictionModel">
+          <h4><strong>Prediction Model</strong></h4>
+          {% if icountry == "US" %}          
+            <img src="static/images/US1Predict.png" height="500px" width="500px">  
+          {% elif icountry == "Spain" %}           
+            <img src="static/images/SPA1Predict.png" height="500px" width="500px">
+          {% elif icountry == "Italy" %}           
+            <img src="static/images/ITA1Predict.png" height="500px" width="500px">              
+          {% elif icountry == "France" %}           
+            <img src="static/images/FRA1Predict.png" height="500px" width="500px">
+          {% elif icountry == "Canada" %}           
+            <img src="static/images/CAN1Predict.png" height="500px" width="500px">                          
+          {% elif icountry == "Argentina" %}           
+            <img src="static/images/ARGPredict.png" height="500px" width="500px">
+          {% elif icountry == "Australia" %}           
+            <img src="static/images/AUS1Predict.png" height="500px" width="500px">
+          {% else %}          
+            <img src="static/images/US1Predict.png" height="500px" width="500px">
+          {% endif %}
+    </div></div>
+</div>
+{% endblock %}

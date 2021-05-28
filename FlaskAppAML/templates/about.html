@@ -1,0 +1,140 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<!-- <h2>{{ title }}.</h2>
+<h3>{{ message }}</h3> -->
+
+<!-- ############################################# -->
+<!-- add background image -->
+<!-- ############################################# -->
+<style>
+    body {
+        background-image:url(../static/images/vineyard_02_faded.jpg); 
+        background-repeat:no-repeat;
+        background-size:cover;
+        font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+<!-- ############################################# -->
+
+<div class="container">
+    <!-- <br> -->
+    <div class="row">
+      <div class="col-md-12 text-center">    
+        <!-- Header -->
+        <h1 style="color:rgb(0, 0, 10)",  
+            style="font-size: medium", text-align="center">
+        <strong> World of Wineries </strong></h1>
+
+        <img src="../static/images/flg_Argentina.png" width="75" height="50"> 
+        <img src="../static/images/flg_Australia.png" width="75" height="50"> 
+        <img src="../static/images/flg_Canada.png" width="75" height="50"> 
+        <img src="../static/images/flg_France.png" width="75" height="50"> 
+        <img src="../static/images/flg_Italy.png" width="75" height="50"> 
+        <img src="../static/images/flg_Spain.png" width="75" height="50"> 
+        <img src="../static/images/flg_USA.png" width="75" height="50"> 
+        <br><br>
+        <p>Explore stats from wineries around the world!</p>
+      </div>
+    </div>
+</div>    
+
+<!-- This section handles the filter selection to search & display the wines. -->
+  <div class="container">
+    <div class="row margin-top-50">
+      <div class="col-md-2">
+        <aside class="filters">
+          <div class="panel panel-default">
+            <div class="panel-heading">Filter Search</div>
+            <div class="panel-body">
+              <form>
+                <div class="form-group">
+                  <ul class="list-group" id="filters">
+                    <li class="filter list-group-item">
+                      <label for="date">Enter a Country</label>
+                      <input class="form-control" id="country" type="text" placeholder="US">
+                    </li>
+
+                    <!-- create country pick list -->
+                    <!-- <label for="country">Select a Country</label> -->
+                    <!-- <h5>Choose a Country:</h5> -->
+                    <!-- <br> -->
+                    <!-- <select id="selDataset_country" onchange="optionChanged(this.value)"></select>
+                    <br>
+                    <select class="form-control" id="country"> 
+                      <option>Argentina</option>
+                      <option>Australia</option>
+                      <option>Austria</option>
+                      <option>Chile</option>
+                      <option>France</option>
+                      <option>Germany</option>
+                      <option>Italy</option>
+                      <option>New Zealand</option>
+                      <option>Portugal</option>
+                      <option>Spain</option>
+                      <option>US</option>
+                    </select> -->
+
+                    <!-- ------------------------------ -->
+                    <!-- begin additional field prompts -->
+                    <!-- ------------------------------ -->
+                    <li class="filter list-group-item">
+                      <label for="date">Enter a Price</label>
+                      <input class="form-control" id="price" type="number" placeholder=19>
+                    </li>
+                    <li class="filter list-group-item">
+                      <label for="date">Enter a Variety</label>
+                      <input class="form-control" id="variety" type="text" placeholder="Cabernet Sauvignon">
+                    </li>
+                    <!-- ------------------------------ -->
+                    <!-- end additional field prompts -->
+                    <!-- ------------------------------ -->
+                  </ul>
+                </div>
+                <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
+              </form>
+            </div>
+          </div>
+        </aside>
+      </div>
+      <div class="col-md-10">
+        <div id="table-area" class="">
+          <table id="wine-table" class="table table-striped">
+            <thead>
+              <tr>
+                <th class="table-head">Country</th>
+                <th class="table-head">Wine</th>
+                <th class="table-head">Variety</th>
+                <th class="table-head">Winery</th>
+                <th class="table-head">Points</th>
+                <th class="table-head">Price</th>
+                <th class="table-head">Province</th>
+                <th class="table-head">Region_1</th>
+                <th class="table-head">Description</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- end of filter search & display of wine selection -->
+</div>
+
+<!-- <script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3-scale-radial.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3.layout.cloud.js"></script> -->
+<!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
+
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="../static/scripts/data_comparison.js"></script>
+<script src="../static/scripts/app_comparison.js"></script>
+
+<!-- ** reference code from UFO level-2
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="static/js/data.js"></script>
+<script src="static/js/app.js"></script> -->
+
+{% endblock %}
