@@ -16,7 +16,7 @@ Maria Barrera - Front End dev
 
 # Project Requirements 
 - Create a front-end interface that maps to an API to "smarten" the algorithm.
-    - Python Flask-powered API
+    - Python Flask-powered API.
     - at least 1 DB
     - custom D3.js
     - dashboard with multiple charts
