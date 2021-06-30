@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'team-napa'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_7453ea8d21a24596ab7192467628d2c3 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_2449644cb9274ffbb1998f52cf8b0e72 }}
