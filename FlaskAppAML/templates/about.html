@@ -1,10 +1,10 @@
 {% extends "layout.html" %}
-​
+
 {% block content %}
-​
+
 <!-- <h2>{{ title }}.</h2>
 <h3>{{ message }}</h3> -->
-​
+
 <!-- --------------------------------------------- -->
 <!-- add background image -->
 <!-- --------------------------------------------- -->
@@ -17,7 +17,7 @@
         }
     </style>
 <!-- --------------------------------------------- -->
-​
+
 <div class="container">
     <!-- <br> -->
     <div class="row">
@@ -26,7 +26,7 @@
         <h1 style="color:rgb(0, 0, 10)",  
             style="font-size: medium", text-align="center">
         <strong> World of Wineries </strong></h1>
-​
+
         <img src="../static/images/flg_Argentina.png" width="75" height="50"> 
         <img src="../static/images/flg_Australia.png" width="75" height="50"> 
         <img src="../static/images/flg_Canada.png" width="75" height="50"> 
@@ -39,7 +39,7 @@
       </div>
     </div>
 </div>    
-​
+
 <!-- This section handles the filter selection to search & display the wines. -->
   <div class="container">
     <div class="row margin-top-50">
@@ -51,13 +51,13 @@
               <form>
                 <div class="form-group">
                   <ul class="list-group" id="filters">
-​
+
                     <!-- option 1: enter a country name -->
                     <li class="filter list-group-item">
                       <label for="date">Enter a Country</label>
                       <input class="form-control" id="country" type="text" placeholder="US">
                     </li>
-​
+
                     <!-- ------------------------------ -->
                     <!-- begin additional field prompts -->
                     <!-- ------------------------------ -->
@@ -108,9 +108,9 @@
   </div>
 <!-- end of filter search & display of wine selection -->
 </div>
-​
+
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script src="../static/scripts/data_comparison.js"></script>
 <script src="../static/scripts/app_comparison.js"></script>
-​
+
 {% endblock %}
